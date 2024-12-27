@@ -1,0 +1,830 @@
+Crew Mission Name,Name,EVA Number,Start Date,End Date,Duration,Moonwalk,Stand Up Only,Deep Space,Traveler launch date,Launching spacecraft,Destination
+Voskhod 2,Alexei Leonov,1,"18 Mar, 1965","18 Mar, 1965",0:12:09,FALSE,FALSE,FALSE,18/03/1965,Voskhod 2,Earth Orbit
+Gemini 4,Ed White,2,"3 Jun, 1965","3 Jun, 1965",0:20:00,FALSE,FALSE,FALSE,3/06/1965,Gemini 4,Earth Orbit
+Gemini 9,Gene Cernan,3,"5 Jun, 1966","5 Jun, 1966",2:07:00,FALSE,FALSE,FALSE,3/06/1966,Gemini 9,Earth Orbit
+Gemini 10,Michael Collins,4,"19 Jul, 1966","19 Jul, 1966",0:49:00,FALSE,FALSE,FALSE,18/07/1966,Gemini 10,Earth Orbit
+Gemini 10,Michael Collins,5,"20 Jul, 1966","20 Jul, 1966",0:39:00,FALSE,FALSE,FALSE,18/07/1966,Gemini 10,Earth Orbit
+Gemini 11,Richard Gordon,6,"13 Sep, 1966","13 Sep, 1966",0:33:00,FALSE,FALSE,FALSE,12/09/1966,Gemini 11,Earth Orbit
+Gemini 11,Richard Gordon,7,"14 Sep, 1966","14 Sep, 1966",2:08:00,FALSE,FALSE,FALSE,12/09/1966,Gemini 11,Earth Orbit
+Gemini 12,Buzz Aldrin,8,"12 Nov, 1966","12 Nov, 1966",2:29:00,FALSE,FALSE,FALSE,11/11/1966,Gemini 12,Earth Orbit
+Gemini 12,Buzz Aldrin,9,"13 Nov, 1966","13 Nov, 1966",2:06:00,FALSE,FALSE,FALSE,11/11/1966,Gemini 12,Earth Orbit
+Gemini 12,Buzz Aldrin,10,"14 Nov, 1966","14 Nov, 1966",0:55:00,FALSE,FALSE,FALSE,11/11/1966,Gemini 12,Earth Orbit
+Soyuz 4/5,Yevgeny Khrunov,11,"16 Jan, 1969","16 Jan, 1969",0:32:00,FALSE,FALSE,FALSE,15/01/1969,Soyuz 5,Earth Orbit
+Soyuz 4/5,Aleksei Yeliseyev,11,"16 Jan, 1969","16 Jan, 1969",0:32:00,FALSE,FALSE,FALSE,15/01/1969,Soyuz 5,Earth Orbit
+Apollo 9,Rusty Schweickart,12,"6 Mar, 1969","6 Mar, 1969",1:17:00,FALSE,FALSE,FALSE,3/03/1969,Apollo 9,Earth Orbit
+Apollo 9,David Scott,12,"6 Mar, 1969","6 Mar, 1969",1:17:00,FALSE,TRUE,FALSE,3/03/1969,Apollo 9,Earth Orbit
+Apollo 11,Neil Armstrong,13,"21 Jul, 1969","21 Jul, 1969",2:31:40,TRUE,FALSE,FALSE,16/07/1969,Apollo 11,Moon
+Apollo 11,Buzz Aldrin,13,"21 Jul, 1969","21 Jul, 1969",2:31:40,TRUE,FALSE,FALSE,16/07/1969,Apollo 11,Moon
+Apollo 12,Pete Conrad,14,"19 Nov, 1969","19 Nov, 1969",3:56:03,TRUE,FALSE,FALSE,14/11/1969,Apollo 12,Moon
+Apollo 12,Alan Bean,14,"19 Nov, 1969","19 Nov, 1969",3:56:03,TRUE,FALSE,FALSE,14/11/1969,Apollo 12,Moon
+Apollo 12,Pete Conrad,15,"20 Nov, 1969","20 Nov, 1969",3:49:15,TRUE,FALSE,FALSE,14/11/1969,Apollo 12,Moon
+Apollo 12,Alan Bean,15,"20 Nov, 1969","20 Nov, 1969",3:49:15,TRUE,FALSE,FALSE,14/11/1969,Apollo 12,Moon
+Apollo 14,Alan Shepard,16,"5 Feb, 1971","5 Feb, 1971",4:47:50,TRUE,FALSE,FALSE,31/01/1971,Apollo 14,Moon
+Apollo 14,Edgar Mitchell,16,"5 Feb, 1971","5 Feb, 1971",4:47:50,TRUE,FALSE,FALSE,31/01/1971,Apollo 14,Moon
+Apollo 14,Alan Shepard,17,"6 Feb, 1971","6 Feb, 1971",4:34:41,TRUE,FALSE,FALSE,31/01/1971,Apollo 14,Moon
+Apollo 14,Edgar Mitchell,17,"6 Feb, 1971","6 Feb, 1971",4:34:41,TRUE,FALSE,FALSE,31/01/1971,Apollo 14,Moon
+Apollo 15,David Scott,18,"31 Jul, 1971","31 Jul, 1971",0:33:07,FALSE,TRUE,FALSE,26/07/1971,Apollo 15,Moon
+Apollo 15,David Scott,19,"31 Jul, 1971","31 Jul, 1971",6:33:42,TRUE,FALSE,FALSE,26/07/1971,Apollo 15,Moon
+Apollo 15,James Irwin,19,"31 Jul, 1971","31 Jul, 1971",6:33:42,TRUE,FALSE,FALSE,26/07/1971,Apollo 15,Moon
+Apollo 15,David Scott,20,"1 Aug, 1971","1 Aug, 1971",7:12:14,TRUE,FALSE,FALSE,26/07/1971,Apollo 15,Moon
+Apollo 15,James Irwin,20,"1 Aug, 1971","1 Aug, 1971",7:12:14,TRUE,FALSE,FALSE,26/07/1971,Apollo 15,Moon
+Apollo 15,David Scott,21,"2 Aug, 1971","2 Aug, 1971",4:49:50,TRUE,FALSE,FALSE,26/07/1971,Apollo 15,Moon
+Apollo 15,James Irwin,21,"2 Aug, 1971","2 Aug, 1971",4:49:50,TRUE,FALSE,FALSE,26/07/1971,Apollo 15,Moon
+Apollo 15,Alfred Worden,22,"5 Aug, 1971","5 Aug, 1971",0:39:07,FALSE,FALSE,TRUE,26/07/1971,Apollo 15,Moon
+Apollo 15,James Irwin,22,"5 Aug, 1971","5 Aug, 1971",0:39:07,FALSE,TRUE,TRUE,26/07/1971,Apollo 15,Moon
+Apollo 16,John Young,23,"21 Apr, 1972","21 Apr, 1972",7:11:12,TRUE,FALSE,FALSE,16/04/1972,Apollo 16,Moon
+Apollo 16,Charles Duke,23,"21 Apr, 1972","21 Apr, 1972",7:11:12,TRUE,FALSE,FALSE,16/04/1972,Apollo 16,Moon
+Apollo 16,John Young,24,"22 Apr, 1972","22 Apr, 1972",7:23:09,TRUE,FALSE,FALSE,16/04/1972,Apollo 16,Moon
+Apollo 16,Charles Duke,24,"22 Apr, 1972","22 Apr, 1972",7:23:09,TRUE,FALSE,FALSE,16/04/1972,Apollo 16,Moon
+Apollo 16,John Young,25,"23 Apr, 1972","23 Apr, 1972",5:40:03,TRUE,FALSE,FALSE,16/04/1972,Apollo 16,Moon
+Apollo 16,Charles Duke,25,"23 Apr, 1972","23 Apr, 1972",5:40:03,TRUE,FALSE,FALSE,16/04/1972,Apollo 16,Moon
+Apollo 16,Thomas Kenneth Mattingly II,26,"25 Apr, 1972","25 Apr, 1972",1:23:42,FALSE,FALSE,TRUE,16/04/1972,Apollo 16,Moon
+Apollo 16,Charles Duke,26,"25 Apr, 1972","25 Apr, 1972",1:23:42,FALSE,TRUE,TRUE,16/04/1972,Apollo 16,Moon
+Apollo 17,Gene Cernan,27,"11 Dec, 1972","12 Dec, 1972",7:11:53,TRUE,FALSE,FALSE,7/12/1972,Apollo 17,Moon
+Apollo 17,Harrison Schmitt,27,"11 Dec, 1972","12 Dec, 1972",7:11:53,TRUE,FALSE,FALSE,7/12/1972,Apollo 17,Moon
+Apollo 17,Gene Cernan,28,"12 Dec, 1972","13 Dec, 1972",7:36:56,TRUE,FALSE,FALSE,7/12/1972,Apollo 17,Moon
+Apollo 17,Harrison Schmitt,28,"12 Dec, 1972","13 Dec, 1972",7:36:56,TRUE,FALSE,FALSE,7/12/1972,Apollo 17,Moon
+Apollo 17,Gene Cernan,29,"13 Dec, 1972","14 Dec, 1972",7:15:08,TRUE,FALSE,FALSE,7/12/1972,Apollo 17,Moon
+Apollo 17,Harrison Schmitt,29,"13 Dec, 1972","14 Dec, 1972",7:15:08,TRUE,FALSE,FALSE,7/12/1972,Apollo 17,Moon
+Apollo 17,Ronald Evans,30,"17 Dec, 1972","17 Dec, 1972",1:05:44,FALSE,FALSE,TRUE,7/12/1972,Apollo 17,Moon
+Apollo 17,Harrison Schmitt,30,"17 Dec, 1972","17 Dec, 1972",1:05:44,FALSE,TRUE,TRUE,7/12/1972,Apollo 17,Moon
+Skylab 2 CM,Paul Weitz,31,"26 May, 1973","26 May, 1973",0:40:00,FALSE,FALSE,FALSE,25/05/1973,Skylab 2,Other Space station
+Skylab 2 - EVA 2,Pete Conrad,32,"7 Jun, 1973","7 Jun, 1973",3:25:00,FALSE,FALSE,FALSE,25/05/1973,Skylab 2,Other Space station
+Skylab 2 - EVA 2,Joseph Kerwin,32,"7 Jun, 1973","7 Jun, 1973",3:25:00,FALSE,FALSE,FALSE,25/05/1973,Skylab 2,Other Space station
+Skylab 2 - EVA 3,Pete Conrad,33,"19 Jun, 1973","19 Jun, 1973",1:36:00,FALSE,FALSE,FALSE,25/05/1973,Skylab 2,Other Space station
+Skylab 2 - EVA 3,Paul Weitz,33,"19 Jun, 1973","19 Jun, 1973",1:36:00,FALSE,FALSE,FALSE,25/05/1973,Skylab 2,Other Space station
+Skylab 3,Owen Garriott,34,"6 Aug, 1973","7 Aug, 1973",6:31:00,FALSE,FALSE,FALSE,28/07/1973,Skylab 3,Other Space station
+Skylab 3,Jack Lousma,34,"6 Aug, 1973","7 Aug, 1973",6:31:00,FALSE,FALSE,FALSE,28/07/1973,Skylab 3,Other Space station
+Skylab 3,Owen Garriott,35,"24 Aug, 1973","24 Aug, 1973",4:31:00,FALSE,FALSE,FALSE,28/07/1973,Skylab 3,Other Space station
+Skylab 3,Jack Lousma,35,"24 Aug, 1973","24 Aug, 1973",4:31:00,FALSE,FALSE,FALSE,28/07/1973,Skylab 3,Other Space station
+Skylab 3,Owen Garriott,36,"22 Sep, 1973","22 Sep, 1973",2:41:00,FALSE,FALSE,FALSE,28/07/1973,Skylab 3,Other Space station
+Skylab 3,Alan Bean,36,"22 Sep, 1973","22 Sep, 1973",2:41:00,FALSE,FALSE,FALSE,28/07/1973,Skylab 3,Other Space station
+Skylab 4,Edward Gibson,37,"22 Nov, 1973","23 Nov, 1973",6:33:00,FALSE,FALSE,FALSE,16/11/1973,Skylab 4,Other Space station
+Skylab 4,William Pogue,37,"22 Nov, 1973","23 Nov, 1973",6:33:00,FALSE,FALSE,FALSE,16/11/1973,Skylab 4,Other Space station
+Skylab 4,Gerald Carr,38,"25 Dec, 1973","25 Dec, 1973",7:01:00,FALSE,FALSE,FALSE,16/11/1973,Skylab 4,Other Space station
+Skylab 4,William Pogue,38,"25 Dec, 1973","25 Dec, 1973",7:01:00,FALSE,FALSE,FALSE,16/11/1973,Skylab 4,Other Space station
+Skylab 4,Gerald Carr,39,"29 Dec, 1973","29 Dec, 1973",3:29:00,FALSE,FALSE,FALSE,16/11/1973,Skylab 4,Other Space station
+Skylab 4,Edward Gibson,39,"29 Dec, 1973","29 Dec, 1973",3:29:00,FALSE,FALSE,FALSE,16/11/1973,Skylab 4,Other Space station
+Skylab 4,Gerald Carr,40,"3 Feb, 1974","3 Feb, 1974",5:19:00,FALSE,FALSE,FALSE,16/11/1973,Skylab 4,Other Space station
+Skylab 4,Edward Gibson,40,"3 Feb, 1974","3 Feb, 1974",5:19:00,FALSE,FALSE,FALSE,16/11/1973,Skylab 4,Other Space station
+Salyut 6 – PE-1,Yuri Romanenko,41,"19 Dec, 1977","19 Dec, 1977",1:28:00,FALSE,TRUE,FALSE,10/12/1977,Soyuz 26,Other Space station
+Salyut 6 – PE-1,Georgi Grechko,41,"19 Dec, 1977","19 Dec, 1977",1:28:00,FALSE,FALSE,FALSE,10/12/1977,Soyuz 26,Other Space station
+Salyut 6 – PE-2,Vladimir Kovalyonok,42,"29 Jul, 1978","29 Jul, 1978",2:20:00,FALSE,TRUE,FALSE,15/06/1978,Soyuz 29,Other Space station
+Salyut 6 – PE-2,Aleksandr Ivanchenkov,42,"29 Jul, 1978","29 Jul, 1978",2:20:00,FALSE,FALSE,FALSE,15/06/1978,Soyuz 29,Other Space station
+Salyut 6 – PE-3,Valery Ryumin,43,"15 Aug, 1979","15 Aug, 1979",1:23:00,FALSE,FALSE,FALSE,25/02/1979,Soyuz 32,Other Space station
+Salyut 6 – PE-3,Vladimir Lyakhov,43,"15 Aug, 1979","15 Aug, 1979",1:23:00,FALSE,FALSE,FALSE,25/02/1979,Soyuz 32,Other Space station
+Salyut 7 – PE-1,Anatoli Berezovoy,44,"30 Jul, 1982","30 Jul, 1982",2:33:00,FALSE,TRUE,FALSE,13/05/1982,Soyuz T-5,Other Space station
+Salyut 7 – PE-1,Valentin Lebedev,44,"30 Jul, 1982","30 Jul, 1982",2:33:00,FALSE,FALSE,FALSE,13/05/1982,Soyuz T-5,Other Space station
+STS-6,Story Musgrave,45,"7 Apr, 1983","8 Apr, 1983",4:10:00,FALSE,FALSE,FALSE,4/04/1983,"STS-6, Challenger",Earth Orbit
+STS-6,Donald Peterson,45,"7 Apr, 1983","8 Apr, 1983",4:10:00,FALSE,FALSE,FALSE,4/04/1983,"STS-6, Challenger",Earth Orbit
+Salyut 7 – PE-2,Vladimir Lyakhov,46,"1 Nov, 1983","1 Nov, 1983",2:49:00,FALSE,FALSE,FALSE,27/06/1983,Soyuz T-9,Other Space station
+Salyut 7 – PE-2,Aleksandr Pavlovich Aleksandrov,46,"1 Nov, 1983","1 Nov, 1983",2:49:00,FALSE,FALSE,FALSE,27/06/1983,Soyuz T-9,Other Space station
+Salyut 7 – PE-2,Vladimir Lyakhov,47,"3 Nov, 1983","3 Nov, 1983",2:55:00,FALSE,FALSE,FALSE,27/06/1983,Soyuz T-9,Other Space station
+Salyut 7 – PE-2,Aleksandr Pavlovich Aleksandrov,47,"3 Nov, 1983","3 Nov, 1983",2:55:00,FALSE,FALSE,FALSE,27/06/1983,Soyuz T-9,Other Space station
+STS-41-B,Bruce McCandless II,48,"7 Feb, 1984","7 Feb, 1984",5:55:00,FALSE,FALSE,FALSE,3/02/1984,"41-B, Challenger",Earth Orbit
+STS-41-B,Robert Stewart,48,"7 Feb, 1984","7 Feb, 1984",5:55:00,FALSE,FALSE,FALSE,3/02/1984,"41-B, Challenger",Earth Orbit
+STS-41-B,Bruce McCandless II,49,"9 Feb, 1984","9 Feb, 1984",6:17:00,FALSE,FALSE,FALSE,3/02/1984,"41-B, Challenger",Earth Orbit
+STS-41-B,Robert Stewart,49,"9 Feb, 1984","9 Feb, 1984",6:17:00,FALSE,FALSE,FALSE,3/02/1984,"41-B, Challenger",Earth Orbit
+STS-41-C,George Nelson,50,"8 Apr, 1984","8 Apr, 1984",2:38:00,FALSE,FALSE,FALSE,6/04/1984,"41-C, Challenger",Earth Orbit
+STS-41-C,James van Hoften,50,"8 Apr, 1984","8 Apr, 1984",2:38:00,FALSE,FALSE,FALSE,6/04/1984,"41-C, Challenger",Earth Orbit
+STS-41-C,George Nelson,51,"11 Apr, 1984","11 Apr, 1984",6:44:00,FALSE,FALSE,FALSE,6/04/1984,"41-C, Challenger",Earth Orbit
+STS-41-C,James van Hoften,51,"11 Apr, 1984","11 Apr, 1984",6:44:00,FALSE,FALSE,FALSE,6/04/1984,"41-C, Challenger",Earth Orbit
+Salyut 7 – PE-3,Leonid Kizim,52,"23 Apr, 1984","23 Apr, 1984",4:15:00,FALSE,FALSE,FALSE,8/02/1984,Soyuz T-10B,Other Space station
+Salyut 7 – PE-3,Vladimir Solovyov,52,"23 Apr, 1984","23 Apr, 1984",4:15:00,FALSE,FALSE,FALSE,8/02/1984,Soyuz T-10B,Other Space station
+Salyut 7 – PE-3,Leonid Kizim,53,"26 Apr, 1984","26 Apr, 1984",5:00:00,FALSE,FALSE,FALSE,8/02/1984,Soyuz T-10B,Other Space station
+Salyut 7 – PE-3,Vladimir Solovyov,53,"26 Apr, 1984","26 Apr, 1984",5:00:00,FALSE,FALSE,FALSE,8/02/1984,Soyuz T-10B,Other Space station
+Salyut 7 – PE-3,Leonid Kizim,54,"29 Apr, 1984","29 Apr, 1984",2:45:00,FALSE,FALSE,FALSE,8/02/1984,Soyuz T-10B,Other Space station
+Salyut 7 – PE-3,Vladimir Solovyov,54,"29 Apr, 1984","29 Apr, 1984",2:45:00,FALSE,FALSE,FALSE,8/02/1984,Soyuz T-10B,Other Space station
+Salyut 7 – PE-3,Leonid Kizim,55,"3 May, 1984","4 May, 1984",2:45:00,FALSE,FALSE,FALSE,8/02/1984,Soyuz T-10B,Other Space station
+Salyut 7 – PE-3,Vladimir Solovyov,55,"3 May, 1984","4 May, 1984",2:45:00,FALSE,FALSE,FALSE,8/02/1984,Soyuz T-10B,Other Space station
+Salyut 7 – PE-3,Leonid Kizim,56,"18 May, 1984","18 May, 1984",3:05:00,FALSE,FALSE,FALSE,8/02/1984,Soyuz T-10B,Other Space station
+Salyut 7 – PE-3,Vladimir Solovyov,56,"18 May, 1984","18 May, 1984",3:05:00,FALSE,FALSE,FALSE,8/02/1984,Soyuz T-10B,Other Space station
+Salyut 7 – PE-4,Svetlana Savitskaya,57,"25 Jul, 1984","25 Jul, 1984",3:34:00,FALSE,FALSE,FALSE,17/07/1984,Soyuz T-12,Other Space station
+Salyut 7 – PE-4,Vladimir Dzhanibekov,57,"25 Jul, 1984","25 Jul, 1984",3:34:00,FALSE,FALSE,FALSE,17/07/1984,Soyuz T-12,Other Space station
+Salyut 7 – PE-3,Leonid Kizim,58,"8 Aug, 1984","8 Aug, 1984",5:00:00,FALSE,FALSE,FALSE,8/02/1984,Soyuz T-10B,Other Space station
+Salyut 7 – PE-3,Vladimir Solovyov,58,"8 Aug, 1984","8 Aug, 1984",5:00:00,FALSE,FALSE,FALSE,8/02/1984,Soyuz T-10B,Other Space station
+STS-41-G,David Leestma,59,"11 Oct, 1984","11 Oct, 1984",3:27:00,FALSE,FALSE,FALSE,5/10/1984,"41-G, Challenger",Earth Orbit
+STS-41-G,Kathryn D. Sullivan,59,"11 Oct, 1984","11 Oct, 1984",3:27:00,FALSE,FALSE,FALSE,5/10/1984,"41-G, Challenger",Earth Orbit
+STS-51-A,Joseph P. Allen,60,"12 Nov, 1984","12 Nov, 1984",6:00:00,FALSE,FALSE,FALSE,8/11/1984,"51-A, Discovery",Earth Orbit
+STS-51-A,Dale Gardner,60,"12 Nov, 1984","12 Nov, 1984",6:00:00,FALSE,FALSE,FALSE,8/11/1984,"51-A, Discovery",Earth Orbit
+STS-51-A,Joseph P. Allen,61,"14 Nov, 1984","14 Nov, 1984",5:42:00,FALSE,FALSE,FALSE,8/11/1984,"51-A, Discovery",Earth Orbit
+STS-51-A,Dale Gardner,61,"14 Nov, 1984","14 Nov, 1984",5:42:00,FALSE,FALSE,FALSE,8/11/1984,"51-A, Discovery",Earth Orbit
+STS-51-D,Jeffrey Hoffman,62,"16 Apr, 1985","16 Apr, 1985",3:06:00,FALSE,FALSE,FALSE,12/04/1985,"51-D, Discovery",Earth Orbit
+STS-51-D,Stanley Griggs,62,"16 Apr, 1985","16 Apr, 1985",3:06:00,FALSE,FALSE,FALSE,12/04/1985,"51-D, Discovery",Earth Orbit
+Salyut 7 – PE-4,Vladimir Dzhanibekov,63,"2 Aug, 1985","2 Aug, 1985",5:00:00,FALSE,FALSE,FALSE,6/06/1985,Soyuz T-13,Other Space station
+Salyut 7 – PE-4,Viktor Savinykh,63,"2 Aug, 1985","2 Aug, 1985",5:00:00,FALSE,FALSE,FALSE,6/06/1985,Soyuz T-13,Other Space station
+STS-51-I,William Frederick Fisher,64,"31 Aug, 1985","31 Aug, 1985",7:20:00,FALSE,FALSE,FALSE,27/08/1985,"51-I, Discovery",Earth Orbit
+STS-51-I,James van Hoften,64,"31 Aug, 1985","31 Aug, 1985",7:20:00,FALSE,FALSE,FALSE,27/08/1985,"51-I, Discovery",Earth Orbit
+STS-51-I,William Frederick Fisher,65,"1 Sep, 1985","1 Sep, 1985",4:26:00,FALSE,FALSE,FALSE,27/08/1985,"51-I, Discovery",Earth Orbit
+STS-51-I,James van Hoften,65,"1 Sep, 1985","1 Sep, 1985",4:26:00,FALSE,FALSE,FALSE,27/08/1985,"51-I, Discovery",Earth Orbit
+STS-61-B,Jerry L. Ross,66,"29 Nov, 1985","29 Nov, 1985",5:32:00,FALSE,FALSE,FALSE,27/11/1985,"61-B, Atlantis",Earth Orbit
+STS-61-B,Sherwood Spring,66,"29 Nov, 1985","29 Nov, 1985",5:32:00,FALSE,FALSE,FALSE,27/11/1985,"61-B, Atlantis",Earth Orbit
+STS-61-B,Jerry L. Ross,67,"1 Dec, 1985","1 Dec, 1985",6:41:00,FALSE,FALSE,FALSE,27/11/1985,"61-B, Atlantis",Earth Orbit
+STS-61-B,Sherwood Spring,67,"1 Dec, 1985","1 Dec, 1985",6:41:00,FALSE,FALSE,FALSE,27/11/1985,"61-B, Atlantis",Earth Orbit
+Salyut 7 – PE-6,Leonid Kizim,68,"28 May, 1986","28 May, 1986",3:50:00,FALSE,FALSE,FALSE,13/03/1986,Soyuz T-15,Mir
+Salyut 7 – PE-6,Vladimir Solovyov,68,"28 May, 1986","28 May, 1986",3:50:00,FALSE,FALSE,FALSE,13/03/1986,Soyuz T-15,Mir
+Salyut 7 – PE-6,Leonid Kizim,69,"31 May, 1986","31 May, 1986",5:00:00,FALSE,FALSE,FALSE,13/03/1986,Soyuz T-15,Mir
+Salyut 7 – PE-6,Vladimir Solovyov,69,"31 May, 1986","31 May, 1986",5:00:00,FALSE,FALSE,FALSE,13/03/1986,Soyuz T-15,Mir
+Mir PE-2,Yuri Romanenko,70,"11 Apr, 1987","11 Apr, 1987",3:40:00,FALSE,FALSE,FALSE,5/02/1987,Soyuz TM-2,Mir
+Mir PE-2,Aleksandr Laveykin,70,"11 Apr, 1987","11 Apr, 1987",3:40:00,FALSE,FALSE,FALSE,5/02/1987,Soyuz TM-2,Mir
+Mir PE-2,Yuri Romanenko,71,"12 Jun, 1987","12 Jun, 1987",1:53:00,FALSE,FALSE,FALSE,5/02/1987,Soyuz TM-2,Mir
+Mir PE-2,Aleksandr Laveykin,71,"12 Jun, 1987","12 Jun, 1987",1:53:00,FALSE,FALSE,FALSE,5/02/1987,Soyuz TM-2,Mir
+Mir PE-2,Yuri Romanenko,72,"16 Jun, 1987","16 Jun, 1987",3:15:00,FALSE,FALSE,FALSE,5/02/1987,Soyuz TM-2,Mir
+Mir PE-2,Aleksandr Laveykin,72,"16 Jun, 1987","16 Jun, 1987",3:15:00,FALSE,FALSE,FALSE,5/02/1987,Soyuz TM-2,Mir
+Mir PE-3,Vladimir Titov,73,"26 Feb, 1988","26 Feb, 1988",4:25:00,FALSE,FALSE,FALSE,21/12/1987,Soyuz TM-4,Mir
+Mir PE-3,Musa Manarov,73,"26 Feb, 1988","26 Feb, 1988",4:25:00,FALSE,FALSE,FALSE,21/12/1987,Soyuz TM-4,Mir
+Mir PE-3,Vladimir Titov,74,"30 Jun, 1988","30 Jun, 1988",5:10:00,FALSE,FALSE,FALSE,21/12/1987,Soyuz TM-4,Mir
+Mir PE-3,Musa Manarov,74,"30 Jun, 1988","30 Jun, 1988",5:10:00,FALSE,FALSE,FALSE,21/12/1987,Soyuz TM-4,Mir
+Mir PE-3,Vladimir Titov,75,"20 Oct, 1988","20 Oct, 1988",4:12:00,FALSE,FALSE,FALSE,21/12/1987,Soyuz TM-4,Mir
+Mir PE-3,Musa Manarov,75,"20 Oct, 1988","20 Oct, 1988",4:12:00,FALSE,FALSE,FALSE,21/12/1987,Soyuz TM-4,Mir
+Mir PE-4,Aleksandr Volkov,76,"9 Dec, 1988","9 Dec, 1988",6:00:00,FALSE,FALSE,FALSE,26/11/1988,Soyuz TM-7,Mir
+Mir PE-4,Jean-Loup Chrétien,76,"9 Dec, 1988","9 Dec, 1988",6:00:00,FALSE,FALSE,FALSE,26/11/1988,Soyuz TM-7,Mir
+Mir PE-5,Aleksandr Viktorenko,77,"8 Jan, 1990","8 Jan, 1990",2:56:00,FALSE,FALSE,FALSE,5/09/1989,Soyuz TM-8,Mir
+Mir PE-5,Aleksandr Serebrov,77,"8 Jan, 1990","8 Jan, 1990",2:56:00,FALSE,FALSE,FALSE,5/09/1989,Soyuz TM-8,Mir
+Mir PE-5,Aleksandr Viktorenko,78,"11 Jan, 1990","11 Jan, 1990",2:54:00,FALSE,FALSE,FALSE,5/09/1989,Soyuz TM-8,Mir
+Mir PE-5,Aleksandr Serebrov,78,"11 Jan, 1990","11 Jan, 1990",2:54:00,FALSE,FALSE,FALSE,5/09/1989,Soyuz TM-8,Mir
+Mir PE-5,Aleksandr Viktorenko,79,"26 Jan, 1990","26 Jan, 1990",3:02:00,FALSE,FALSE,FALSE,5/09/1989,Soyuz TM-8,Mir
+Mir PE-5,Aleksandr Serebrov,79,"26 Jan, 1990","26 Jan, 1990",3:02:00,FALSE,FALSE,FALSE,5/09/1989,Soyuz TM-8,Mir
+Mir PE-5,Aleksandr Viktorenko,80,"1 Feb, 1990","1 Feb, 1990",4:59:00,FALSE,FALSE,FALSE,5/09/1989,Soyuz TM-8,Mir
+Mir PE-5,Aleksandr Serebrov,80,"1 Feb, 1990","1 Feb, 1990",4:59:00,FALSE,FALSE,FALSE,5/09/1989,Soyuz TM-8,Mir
+Mir PE-5,Aleksandr Viktorenko,81,"5 Feb, 1990","5 Feb, 1990",3:45:00,FALSE,FALSE,FALSE,5/09/1989,Soyuz TM-8,Mir
+Mir PE-5,Aleksandr Serebrov,81,"5 Feb, 1990","5 Feb, 1990",3:45:00,FALSE,FALSE,FALSE,5/09/1989,Soyuz TM-8,Mir
+Mir PE-6,Anatoly Solovyev,82,"17 Jul, 1990","17 Jul, 1990",7:16:00,FALSE,FALSE,FALSE,11/02/1990,Soyuz TM-9,Mir
+Mir PE-6,Aleksandr Balandin,82,"17 Jul, 1990","17 Jul, 1990",7:16:00,FALSE,FALSE,FALSE,11/02/1990,Soyuz TM-9,Mir
+Mir PE-6,Anatoly Solovyev,83,"26 Jul, 1990","26 Jul, 1990",3:31:00,FALSE,FALSE,FALSE,11/02/1990,Soyuz TM-9,Mir
+Mir PE-6,Aleksandr Balandin,83,"26 Jul, 1990","26 Jul, 1990",3:31:00,FALSE,FALSE,FALSE,11/02/1990,Soyuz TM-9,Mir
+Mir PE-7,Gennadi Manakov,84,"29 Oct, 1990","30 Oct, 1990",2:45:00,FALSE,FALSE,FALSE,1/08/1990,Soyuz TM-10,Mir
+Mir PE-7,Gennadi Strekalov,84,"29 Oct, 1990","30 Oct, 1990",2:45:00,FALSE,FALSE,FALSE,1/08/1990,Soyuz TM-10,Mir
+Mir PE-8,Viktor M. Afanasyev,85,"7 Jan, 1991","7 Jan, 1991",5:18:00,FALSE,FALSE,FALSE,2/12/1990,Soyuz TM-11,Mir
+Mir PE-8,Musa Manarov,85,"7 Jan, 1991","7 Jan, 1991",5:18:00,FALSE,FALSE,FALSE,2/12/1990,Soyuz TM-11,Mir
+Mir PE-8,Viktor M. Afanasyev,86,"23 Jan, 1991","23 Jan, 1991",5:33:00,FALSE,FALSE,FALSE,2/12/1990,Soyuz TM-11,Mir
+Mir PE-8,Musa Manarov,86,"23 Jan, 1991","23 Jan, 1991",5:33:00,FALSE,FALSE,FALSE,2/12/1990,Soyuz TM-11,Mir
+Mir PE-8,Viktor M. Afanasyev,87,"26 Jan, 1991","26 Jan, 1991",6:20:00,FALSE,FALSE,FALSE,2/12/1990,Soyuz TM-11,Mir
+Mir PE-8,Musa Manarov,87,"26 Jan, 1991","26 Jan, 1991",6:20:00,FALSE,FALSE,FALSE,2/12/1990,Soyuz TM-11,Mir
+STS-37,Jerry L. Ross,88,"7 Apr, 1991","7 Apr, 1991",4:26:00,FALSE,FALSE,FALSE,5/04/1991,"STS-37, Atlantis",Earth Orbit
+STS-37,Jerome Apt,88,"7 Apr, 1991","7 Apr, 1991",4:26:00,FALSE,FALSE,FALSE,5/04/1991,"STS-37, Atlantis",Earth Orbit
+STS-37,Jerry L. Ross,89,"8 Apr, 1991","8 Apr, 1991",5:47:00,FALSE,FALSE,FALSE,5/04/1991,"STS-37, Atlantis",Earth Orbit
+STS-37,Jerome Apt,89,"8 Apr, 1991","8 Apr, 1991",5:47:00,FALSE,FALSE,FALSE,5/04/1991,"STS-37, Atlantis",Earth Orbit
+Mir PE-8,Viktor M. Afanasyev,90,"25 Apr, 1991","26 Apr, 1991",3:34:00,FALSE,FALSE,FALSE,2/12/1990,Soyuz TM-11,Mir
+Mir PE-8,Musa Manarov,90,"25 Apr, 1991","26 Apr, 1991",3:34:00,FALSE,FALSE,FALSE,2/12/1990,Soyuz TM-11,Mir
+Mir PE-9,Anatoly Artsebarsky,91,"24 Jun, 1991","25 Jun, 1991",4:58:00,FALSE,FALSE,FALSE,18/05/1991,Soyuz TM-12,Mir
+Mir PE-9,Sergei Krikalev,91,"24 Jun, 1991","25 Jun, 1991",4:58:00,FALSE,FALSE,FALSE,18/05/1991,Soyuz TM-12,Mir
+Mir PE-9,Anatoly Artsebarsky,92,"28 Jun, 1991","28 Jun, 1991",3:24:00,FALSE,FALSE,FALSE,18/05/1991,Soyuz TM-12,Mir
+Mir PE-9,Sergei Krikalev,92,"28 Jun, 1991","28 Jun, 1991",3:24:00,FALSE,FALSE,FALSE,18/05/1991,Soyuz TM-12,Mir
+Mir PE-9,Anatoly Artsebarsky,93,"15 Jul, 1991","15 Jul, 1991",5:56:00,FALSE,FALSE,FALSE,18/05/1991,Soyuz TM-12,Mir
+Mir PE-9,Sergei Krikalev,93,"15 Jul, 1991","15 Jul, 1991",5:56:00,FALSE,FALSE,FALSE,18/05/1991,Soyuz TM-12,Mir
+Mir PE-9,Anatoly Artsebarsky,94,"19 Jul, 1991","19 Jul, 1991",5:28:00,FALSE,FALSE,FALSE,18/05/1991,Soyuz TM-12,Mir
+Mir PE-9,Sergei Krikalev,94,"19 Jul, 1991","19 Jul, 1991",5:28:00,FALSE,FALSE,FALSE,18/05/1991,Soyuz TM-12,Mir
+Mir PE-9,Anatoly Artsebarsky,95,"23 Jul, 1991","23 Jul, 1991",5:42:00,FALSE,FALSE,FALSE,18/05/1991,Soyuz TM-12,Mir
+Mir PE-9,Sergei Krikalev,95,"23 Jul, 1991","23 Jul, 1991",5:42:00,FALSE,FALSE,FALSE,18/05/1991,Soyuz TM-12,Mir
+Mir PE-9,Anatoly Artsebarsky,96,"27 Jul, 1991","27 Jul, 1991",6:49:00,FALSE,FALSE,FALSE,18/05/1991,Soyuz TM-12,Mir
+Mir PE-9,Sergei Krikalev,96,"27 Jul, 1991","27 Jul, 1991",6:49:00,FALSE,FALSE,FALSE,18/05/1991,Soyuz TM-12,Mir
+Mir PE-10,Aleksandr Volkov,97,"20 Feb, 1992","21 Feb, 1992",4:12:00,FALSE,FALSE,FALSE,2/10/1991,Soyuz TM-13,Mir
+Mir PE-10,Sergei Krikalev,97,"20 Feb, 1992","21 Feb, 1992",4:12:00,FALSE,FALSE,FALSE,18/05/1991,Soyuz TM-12,Mir
+STS-49,Pierre Thuot,98,"10 May, 1992","11 May, 1992",3:43:00,FALSE,FALSE,FALSE,7/05/1992,"STS-49, Endeavour",Earth Orbit
+STS-49,Richard Hieb,98,"10 May, 1992","11 May, 1992",3:43:00,FALSE,FALSE,FALSE,7/05/1992,"STS-49, Endeavour",Earth Orbit
+STS-49,Pierre Thuot,99,"11 May, 1992","12 May, 1992",5:30:00,FALSE,FALSE,FALSE,7/05/1992,"STS-49, Endeavour",Earth Orbit
+STS-49,Richard Hieb,99,"11 May, 1992","12 May, 1992",5:30:00,FALSE,FALSE,FALSE,7/05/1992,"STS-49, Endeavour",Earth Orbit
+STS-49,Pierre Thuot,100,"13 May, 1992","14 May, 1992",8:29:00,FALSE,FALSE,FALSE,7/05/1992,"STS-49, Endeavour",Earth Orbit
+STS-49,Richard Hieb,100,"13 May, 1992","14 May, 1992",8:29:00,FALSE,FALSE,FALSE,7/05/1992,"STS-49, Endeavour",Earth Orbit
+STS-49,Thomas Akers,100,"13 May, 1992","14 May, 1992",8:29:00,FALSE,FALSE,FALSE,7/05/1992,"STS-49, Endeavour",Earth Orbit
+STS-49,Thomas Akers,101,"14 May, 1992","15 May, 1992",7:45:00,FALSE,FALSE,FALSE,7/05/1992,"STS-49, Endeavour",Earth Orbit
+STS-49,Kathryn C. Thornton,101,"14 May, 1992","15 May, 1992",7:45:00,FALSE,FALSE,FALSE,7/05/1992,"STS-49, Endeavour",Earth Orbit
+Mir PE-11,Aleksandr Viktorenko,102,"8 Jul, 1992","8 Jul, 1992",2:03:00,FALSE,FALSE,FALSE,17/03/1992,Soyuz TM-14,Mir
+Mir PE-11,Alexsandr Kaleri,102,"8 Jul, 1992","8 Jul, 1992",2:03:00,FALSE,FALSE,FALSE,17/03/1992,Soyuz TM-14,Mir
+Mir PE-12,Sergei Avdeyev,103,"3 Sep, 1992","3 Sep, 1992",3:56:00,FALSE,FALSE,FALSE,27/07/1992,Soyuz TM-15,Mir
+Mir PE-12,Anatoly Solovyev,103,"3 Sep, 1992","3 Sep, 1992",3:56:00,FALSE,FALSE,FALSE,27/07/1992,Soyuz TM-15,Mir
+Mir PE-12,Sergei Avdeyev,104,"7 Sep, 1992","7 Sep, 1992",5:08:00,FALSE,FALSE,FALSE,27/07/1992,Soyuz TM-15,Mir
+Mir PE-12,Anatoly Solovyev,104,"7 Sep, 1992","7 Sep, 1992",5:08:00,FALSE,FALSE,FALSE,27/07/1992,Soyuz TM-15,Mir
+Mir PE-12,Sergei Avdeyev,105,"11 Sep, 1992","11 Sep, 1992",5:44:00,FALSE,FALSE,FALSE,27/07/1992,Soyuz TM-15,Mir
+Mir PE-12,Anatoly Solovyev,105,"11 Sep, 1992","11 Sep, 1992",5:44:00,FALSE,FALSE,FALSE,27/07/1992,Soyuz TM-15,Mir
+Mir PE-12,Sergei Avdeyev,106,"15 Sep, 1992","15 Sep, 1992",3:33:00,FALSE,FALSE,FALSE,27/07/1992,Soyuz TM-15,Mir
+Mir PE-12,Anatoly Solovyev,106,"15 Sep, 1992","15 Sep, 1992",3:33:00,FALSE,FALSE,FALSE,27/07/1992,Soyuz TM-15,Mir
+STS-54,Gregory Harbaugh,107,"17 Jan, 1993","17 Jan, 1993",4:28:00,FALSE,FALSE,FALSE,13/01/1993,"STS-54, Endeavour",Earth Orbit
+STS-54,Mario Runco,107,"17 Jan, 1993","17 Jan, 1993",4:28:00,FALSE,FALSE,FALSE,13/01/1993,"STS-54, Endeavour",Earth Orbit
+Mir PE-13,Gennadi Manakov,108,"19 Apr, 1993","19 Apr, 1993",5:25:00,FALSE,FALSE,FALSE,24/01/1993,Soyuz TM-16,Mir
+Mir PE-13,Aleksandr Poleshchuk,108,"19 Apr, 1993","19 Apr, 1993",5:25:00,FALSE,FALSE,FALSE,24/01/1993,Soyuz TM-16,Mir
+Mir PE-13,Gennadi Manakov,109,"18 Jun, 1993","18 Jun, 1993",4:33:00,FALSE,FALSE,FALSE,24/01/1993,Soyuz TM-16,Mir
+Mir PE-13,Aleksandr Poleshchuk,109,"18 Jun, 1993","18 Jun, 1993",4:33:00,FALSE,FALSE,FALSE,24/01/1993,Soyuz TM-16,Mir
+STS-57,G. David Low,110,"25 Jun, 1993","25 Jun, 1993",5:50:00,FALSE,FALSE,FALSE,21/06/1993,"STS-57, Endeavour",Earth Orbit
+STS-57,Peter Wisoff,110,"25 Jun, 1993","25 Jun, 1993",5:50:00,FALSE,FALSE,FALSE,21/06/1993,"STS-57, Endeavour",Earth Orbit
+Mir PE-14,Vasily Tsibliyev,111,"16 Sep, 1993","16 Sep, 1993",4:19:00,FALSE,FALSE,FALSE,1/07/1993,Soyuz TM-17,Mir
+Mir PE-14,Aleksandr Serebrov,111,"16 Sep, 1993","16 Sep, 1993",4:19:00,FALSE,FALSE,FALSE,1/07/1993,Soyuz TM-17,Mir
+STS-51,James H. Newman,112,"16 Sep, 1993","16 Sep, 1993",7:05:00,FALSE,FALSE,FALSE,12/09/1993,"STS-51, Discovery",Earth Orbit
+STS-51,Carl E. Walz,112,"16 Sep, 1993","16 Sep, 1993",7:05:00,FALSE,FALSE,FALSE,12/09/1993,"STS-51, Discovery",Earth Orbit
+Mir PE-14,Vasily Tsibliyev,113,"20 Sep, 1993","20 Sep, 1993",3:13:50,FALSE,FALSE,FALSE,1/07/1993,Soyuz TM-17,Mir
+Mir PE-14,Aleksandr Serebrov,113,"20 Sep, 1993","20 Sep, 1993",3:13:50,FALSE,FALSE,FALSE,1/07/1993,Soyuz TM-17,Mir
+Mir PE-14,Vasily Tsibliyev,114,"28 Sep, 1993","28 Sep, 1993",1:51:00,FALSE,FALSE,FALSE,1/07/1993,Soyuz TM-17,Mir
+Mir PE-14,Aleksandr Serebrov,114,"28 Sep, 1993","28 Sep, 1993",1:51:00,FALSE,FALSE,FALSE,1/07/1993,Soyuz TM-17,Mir
+Mir PE-14,Vasily Tsibliyev,115,"22 Oct, 1993","22 Oct, 1993",0:38:00,FALSE,FALSE,FALSE,1/07/1993,Soyuz TM-17,Mir
+Mir PE-14,Aleksandr Serebrov,115,"22 Oct, 1993","22 Oct, 1993",0:38:00,FALSE,FALSE,FALSE,1/07/1993,Soyuz TM-17,Mir
+Mir PE-14,Vasily Tsibliyev,116,"29 Oct, 1993","29 Oct, 1993",4:12:00,FALSE,FALSE,FALSE,1/07/1993,Soyuz TM-17,Mir
+Mir PE-14,Aleksandr Serebrov,116,"29 Oct, 1993","29 Oct, 1993",4:12:00,FALSE,FALSE,FALSE,1/07/1993,Soyuz TM-17,Mir
+STS-61,Story Musgrave,117,"5 Dec, 1993","5 Dec, 1993",7:54:00,FALSE,FALSE,FALSE,2/12/1993,"STS-61, Endeavour",Earth Orbit
+STS-61,Jeffrey Hoffman,117,"5 Dec, 1993","5 Dec, 1993",7:54:00,FALSE,FALSE,FALSE,2/12/1993,"STS-61, Endeavour",Earth Orbit
+STS-61,Kathryn C. Thornton,118,"6 Dec, 1993","6 Dec, 1993",6:36:00,FALSE,FALSE,FALSE,2/12/1993,"STS-61, Endeavour",Earth Orbit
+STS-61,Thomas Akers,118,"6 Dec, 1993","6 Dec, 1993",6:36:00,FALSE,FALSE,FALSE,2/12/1993,"STS-61, Endeavour",Earth Orbit
+STS-61,Story Musgrave,119,"7 Dec, 1993","7 Dec, 1993",6:47:00,FALSE,FALSE,FALSE,2/12/1993,"STS-61, Endeavour",Earth Orbit
+STS-61,Jeffrey Hoffman,119,"7 Dec, 1993","7 Dec, 1993",6:47:00,FALSE,FALSE,FALSE,2/12/1993,"STS-61, Endeavour",Earth Orbit
+STS-61,Kathryn C. Thornton,120,"8 Dec, 1993","8 Dec, 1993",6:50:00,FALSE,FALSE,FALSE,2/12/1993,"STS-61, Endeavour",Earth Orbit
+STS-61,Thomas Akers,120,"8 Dec, 1993","8 Dec, 1993",6:50:00,FALSE,FALSE,FALSE,2/12/1993,"STS-61, Endeavour",Earth Orbit
+STS-61,Story Musgrave,121,"9 Dec, 1993","9 Dec, 1993",7:21:00,FALSE,FALSE,FALSE,2/12/1993,"STS-61, Endeavour",Earth Orbit
+STS-61,Jeffrey Hoffman,121,"9 Dec, 1993","9 Dec, 1993",7:21:00,FALSE,FALSE,FALSE,2/12/1993,"STS-61, Endeavour",Earth Orbit
+Mir PE-16,Yuri Malenchenko,122,"9 Sep, 1994","9 Sep, 1994",5:04:00,FALSE,FALSE,FALSE,1/07/1994,Soyuz TM-19,Mir
+Mir PE-16,Yuri Malenchenko,123,"13 Sep, 1994","13 Sep, 1994",6:01:00,FALSE,FALSE,FALSE,1/07/1994,Soyuz TM-19,Mir
+STS-64,Mark C. Lee,124,"16 Sep, 1994","16 Sep, 1994",6:51:00,FALSE,FALSE,FALSE,9/09/1994,"STS-64, Discovery",Earth Orbit
+Mir PE-16,Talgat Musabayev,122,"9 Sep, 1994","9 Sep, 1994",5:04:00,FALSE,FALSE,FALSE,1/07/1994,Soyuz TM-19,Mir
+Mir PE-16,Talgat Musabayev,123,"13 Sep, 1994","13 Sep, 1994",6:01:00,FALSE,FALSE,FALSE,1/07/1994,Soyuz TM-19,Mir
+STS-64,Carl Meade,124,"16 Sep, 1994","16 Sep, 1994",6:51:00,FALSE,FALSE,FALSE,9/09/1994,"STS-64, Discovery",Earth Orbit
+STS-63,Michael Foale,125,"9 Feb, 1995","9 Feb, 1995",4:39:00,FALSE,FALSE,FALSE,3/02/1995,"STS-63, Discovery",Earth Orbit
+STS-63,Bernard Harris,125,"9 Feb, 1995","9 Feb, 1995",4:39:00,FALSE,FALSE,FALSE,3/02/1995,"STS-63, Discovery",Earth Orbit
+Mir PE-18,Vladimir N. Dezhurov,126,"12 May, 1995","12 May, 1995",6:14:32,FALSE,FALSE,FALSE,14/03/1995,Soyuz TM-21,Mir
+Mir PE-18,Gennadi Strekalov,126,"12 May, 1995","12 May, 1995",6:14:32,FALSE,FALSE,FALSE,14/03/1995,Soyuz TM-21,Mir
+Mir PE-18,Vladimir N. Dezhurov,127,"17 May, 1995","17 May, 1995",6:42:00,FALSE,FALSE,FALSE,14/03/1995,Soyuz TM-21,Mir
+Mir PE-18,Gennadi Strekalov,127,"17 May, 1995","17 May, 1995",6:42:00,FALSE,FALSE,FALSE,14/03/1995,Soyuz TM-21,Mir
+Mir PE-18,Vladimir N. Dezhurov,128,"22 May, 1995","22 May, 1995",5:14:51,FALSE,FALSE,FALSE,14/03/1995,Soyuz TM-21,Mir
+Mir PE-18,Gennadi Strekalov,128,"22 May, 1995","22 May, 1995",5:14:51,FALSE,FALSE,FALSE,14/03/1995,Soyuz TM-21,Mir
+Mir PE-18,Vladimir N. Dezhurov,129,"28 May, 1995","28 May, 1995",0:21:00,FALSE,FALSE,FALSE,14/03/1995,Soyuz TM-21,Mir
+Mir PE-18,Gennadi Strekalov,129,"28 May, 1995","28 May, 1995",0:21:00,FALSE,FALSE,FALSE,14/03/1995,Soyuz TM-21,Mir
+Mir PE-18,Vladimir N. Dezhurov,130,"1 Jun, 1995","1 Jun, 1995",0:22:50,FALSE,FALSE,FALSE,14/03/1995,Soyuz TM-21,Mir
+Mir PE-18,Gennadi Strekalov,130,"1 Jun, 1995","1 Jun, 1995",0:22:50,FALSE,FALSE,FALSE,14/03/1995,Soyuz TM-21,Mir
+Mir PE-19,Anatoly Solovyev,131,"14 Jul, 1995","14 Jul, 1995",5:34:00,FALSE,FALSE,FALSE,27/06/1995,"STS-71, Atlantis",Mir
+Mir PE-19,Nikolai Budarin,131,"14 Jul, 1995","14 Jul, 1995",5:34:00,FALSE,FALSE,FALSE,27/06/1995,"STS-71, Atlantis",Mir
+Mir PE-19,Anatoly Solovyev,132,"19 Jul, 1995","19 Jul, 1995",3:08:00,FALSE,FALSE,FALSE,27/06/1995,"STS-71, Atlantis",Mir
+Mir PE-19,Nikolai Budarin,132,"19 Jul, 1995","19 Jul, 1995",3:08:00,FALSE,FALSE,FALSE,27/06/1995,"STS-71, Atlantis",Mir
+Mir PE-19,Anatoly Solovyev,133,"21 Jul, 1995","21 Jul, 1995",5:50:00,FALSE,FALSE,FALSE,27/06/1995,"STS-71, Atlantis",Mir
+Mir PE-19,Nikolai Budarin,133,"21 Jul, 1995","21 Jul, 1995",5:50:00,FALSE,FALSE,FALSE,27/06/1995,"STS-71, Atlantis",Mir
+STS-69,James S. Voss,134,"16 Sep, 1995","16 Sep, 1995",6:46:00,FALSE,FALSE,FALSE,7/09/1995,"STS-69, Endeavour",Earth Orbit
+STS-69,Michael Gernhardt,134,"16 Sep, 1995","16 Sep, 1995",6:46:00,FALSE,FALSE,FALSE,7/09/1995,"STS-69, Endeavour",Earth Orbit
+Mir PE-20,Sergei Avdeyev,135,"20 Oct, 1995","20 Oct, 1995",5:16:00,FALSE,FALSE,FALSE,3/09/1995,Soyuz TM-22,Mir
+Mir PE-20,Thomas Reiter,135,"20 Oct, 1995","20 Oct, 1995",5:16:00,FALSE,FALSE,FALSE,3/09/1995,Soyuz TM-22,Mir
+Mir PE-20,Sergei Avdeyev,136,"8 Dec, 1995","8 Dec, 1995",0:29:00,FALSE,FALSE,FALSE,3/09/1995,Soyuz TM-22,Mir
+Mir PE-20,Yuri Gidzenko,136,"8 Dec, 1995","8 Dec, 1995",0:29:00,FALSE,FALSE,FALSE,3/09/1995,Soyuz TM-22,Mir
+STS-72,Leroy Chiao,137,"15 Jan, 1996","15 Jan, 1996",6:09:00,FALSE,FALSE,FALSE,11/01/1996,"STS-72, Endeavour",Earth Orbit
+STS-72,Daniel Barry,137,"15 Jan, 1996","15 Jan, 1996",6:09:00,FALSE,FALSE,FALSE,11/01/1996,"STS-72, Endeavour",Earth Orbit
+STS-72,Leroy Chiao,138,"17 Jan, 1996","17 Jan, 1996",6:54:00,FALSE,FALSE,FALSE,11/01/1996,"STS-72, Endeavour",Earth Orbit
+STS-72,Winston Scott,138,"17 Jan, 1996","17 Jan, 1996",6:54:00,FALSE,FALSE,FALSE,11/01/1996,"STS-72, Endeavour",Earth Orbit
+Mir PE-20,Thomas Reiter,139,"8 Feb, 1996","8 Feb, 1996",3:05:00,FALSE,FALSE,FALSE,3/09/1995,Soyuz TM-22,Mir
+Mir PE-20,Yuri Gidzenko,139,"8 Feb, 1996","8 Feb, 1996",3:05:00,FALSE,FALSE,FALSE,3/09/1995,Soyuz TM-22,Mir
+Mir PE-21,Yuri Onufrienko,140,"15 Mar, 1996","15 Mar, 1996",5:51:00,FALSE,FALSE,FALSE,21/02/1996,Soyuz TM-23,Mir
+Mir PE-21,Yury Usachov,140,"15 Mar, 1996","15 Mar, 1996",5:51:00,FALSE,FALSE,FALSE,21/02/1996,Soyuz TM-23,Mir
+STS-76/Mir PE-21,Michael Clifford,141,"27 Mar, 1996","27 Mar, 1996",6:02:00,FALSE,FALSE,FALSE,22/03/1996,"STS-76, Atlantis",Mir
+STS-76/Mir PE-21,Linda Godwin,141,"27 Mar, 1996","27 Mar, 1996",6:02:00,FALSE,FALSE,FALSE,22/03/1996,"STS-76, Atlantis",Mir
+Mir PE-21,Yuri Onufrienko,142,"20 May, 1996","21 May, 1996",5:20:00,FALSE,FALSE,FALSE,21/02/1996,Soyuz TM-23,Mir
+Mir PE-21,Yury Usachov,142,"20 May, 1996","21 May, 1996",5:20:00,FALSE,FALSE,FALSE,21/02/1996,Soyuz TM-23,Mir
+Mir PE-21,Yuri Onufrienko,143,"24 May, 1996","25 May, 1996",5:43:00,FALSE,FALSE,FALSE,21/02/1996,Soyuz TM-23,Mir
+Mir PE-21,Yury Usachov,143,"24 May, 1996","25 May, 1996",5:43:00,FALSE,FALSE,FALSE,21/02/1996,Soyuz TM-23,Mir
+Mir PE-21,Yuri Onufrienko,144,"30 May, 1996","30 May, 1996",4:20:00,FALSE,FALSE,FALSE,21/02/1996,Soyuz TM-23,Mir
+Mir PE-21,Yury Usachov,144,"30 May, 1996","30 May, 1996",4:20:00,FALSE,FALSE,FALSE,21/02/1996,Soyuz TM-23,Mir
+Mir PE-21,Yuri Onufrienko,145,"6 Jun, 1996","6 Jun, 1996",3:34:00,FALSE,FALSE,FALSE,21/02/1996,Soyuz TM-23,Mir
+Mir PE-21,Yury Usachov,145,"6 Jun, 1996","6 Jun, 1996",3:34:00,FALSE,FALSE,FALSE,21/02/1996,Soyuz TM-23,Mir
+Mir PE-21,Yuri Onufrienko,146,"13 Jun, 1996","13 Jun, 1996",5:42:00,FALSE,FALSE,FALSE,21/02/1996,Soyuz TM-23,Mir
+Mir PE-21,Yury Usachov,146,"13 Jun, 1996","13 Jun, 1996",5:42:00,FALSE,FALSE,FALSE,21/02/1996,Soyuz TM-23,Mir
+Mir PE-22,Valery Korzun,147,"2 Dec, 1996","2 Dec, 1996",5:57:00,FALSE,FALSE,FALSE,17/08/1996,Soyuz TM-24,Mir
+Mir PE-22,Alexsandr Kaleri,147,"2 Dec, 1996","2 Dec, 1996",5:57:00,FALSE,FALSE,FALSE,17/08/1996,Soyuz TM-24,Mir
+Mir PE-22,Valery Korzun,148,"9 Dec, 1996","9 Dec, 1996",6:36:00,FALSE,FALSE,FALSE,17/08/1996,Soyuz TM-24,Mir
+Mir PE-22,Alexsandr Kaleri,148,"9 Dec, 1996","9 Dec, 1996",6:36:00,FALSE,FALSE,FALSE,17/08/1996,Soyuz TM-24,Mir
+STS-82,Mark C. Lee,149,"14 Feb, 1997","14 Feb, 1997",6:42:00,FALSE,FALSE,FALSE,11/02/1997,"STS-82, Discovery",Earth Orbit
+STS-82,Steven Smith,149,"14 Feb, 1997","14 Feb, 1997",6:42:00,FALSE,FALSE,FALSE,11/02/1997,"STS-82, Discovery",Earth Orbit
+STS-82,Gregory Harbaugh,150,"15 Feb, 1997","15 Feb, 1997",7:27:00,FALSE,FALSE,FALSE,11/02/1997,"STS-82, Discovery",Earth Orbit
+STS-82,Joseph Tanner,150,"15 Feb, 1997","15 Feb, 1997",7:27:00,FALSE,FALSE,FALSE,11/02/1997,"STS-82, Discovery",Earth Orbit
+STS-82,Mark C. Lee,151,"16 Feb, 1997","16 Feb, 1997",7:11:00,FALSE,FALSE,FALSE,11/02/1997,"STS-82, Discovery",Earth Orbit
+STS-82,Steven Smith,151,"16 Feb, 1997","16 Feb, 1997",7:11:00,FALSE,FALSE,FALSE,11/02/1997,"STS-82, Discovery",Earth Orbit
+STS-82,Gregory Harbaugh,152,"17 Feb, 1997","17 Feb, 1997",6:34:00,FALSE,FALSE,FALSE,11/02/1997,"STS-82, Discovery",Earth Orbit
+STS-82,Joseph Tanner,152,"17 Feb, 1997","17 Feb, 1997",6:34:00,FALSE,FALSE,FALSE,11/02/1997,"STS-82, Discovery",Earth Orbit
+STS-82,Mark C. Lee,153,"18 Feb, 1997","18 Feb, 1997",5:17:00,FALSE,FALSE,FALSE,11/02/1997,"STS-82, Discovery",Earth Orbit
+STS-82,Steven Smith,153,"18 Feb, 1997","18 Feb, 1997",5:17:00,FALSE,FALSE,FALSE,11/02/1997,"STS-82, Discovery",Earth Orbit
+Mir PE-23,Vasily Tsibliyev,154,"29 Apr, 1997","29 Apr, 1997",4:59:00,FALSE,FALSE,FALSE,10/02/1997,Soyuz TM-25,Mir
+Mir PE-23,Jerry Linenger,154,"29 Apr, 1997","29 Apr, 1997",4:59:00,FALSE,FALSE,FALSE,12/01/1997,"STS-81, Atlantis",Mir
+Mir PE-24,Anatoly Solovyev,155,"22 Aug, 1997","22 Aug, 1997",3:16:00,FALSE,FALSE,FALSE,5/08/1997,Soyuz TM-26,Mir
+Mir PE-24,Pavel Vinogradov,155,"22 Aug, 1997","22 Aug, 1997",3:16:00,FALSE,FALSE,FALSE,5/08/1997,Soyuz TM-26,Mir
+Mir PE-24,Anatoly Solovyev,156,"6 Sep, 1997","6 Sep, 1997",6:00:00,FALSE,FALSE,FALSE,5/08/1997,Soyuz TM-26,Mir
+Mir PE-24,Michael Foale,156,"6 Sep, 1997","6 Sep, 1997",6:00:00,FALSE,FALSE,FALSE,15/05/1997,"STS-84, Atlantis",Mir
+STS-86,Scott Parazynski,157,"1 Oct, 1997","1 Oct, 1997",5:01:00,FALSE,FALSE,FALSE,25/09/1997,"STS-86, Atlantis",Mir
+STS-86,Vladimir Titov,157,"1 Oct, 1997","1 Oct, 1997",5:01:00,FALSE,FALSE,FALSE,25/09/1997,"STS-86, Atlantis",Mir
+Mir PE-24,Anatoly Solovyev,158,"20 Oct, 1997","20 Oct, 1997",6:38:00,FALSE,FALSE,FALSE,5/08/1997,Soyuz TM-26,Mir
+Mir PE-24,Pavel Vinogradov,158,"20 Oct, 1997","20 Oct, 1997",6:38:00,FALSE,FALSE,FALSE,5/08/1997,Soyuz TM-26,Mir
+Mir PE-24,Anatoly Solovyev,159,"3 Nov, 1997","3 Nov, 1997",6:04:00,FALSE,FALSE,FALSE,5/08/1997,Soyuz TM-26,Mir
+Mir PE-24,Pavel Vinogradov,159,"3 Nov, 1997","3 Nov, 1997",6:04:00,FALSE,FALSE,FALSE,5/08/1997,Soyuz TM-26,Mir
+Mir PE-24,Anatoly Solovyev,160,"6 Nov, 1997","6 Nov, 1997",6:12:00,FALSE,FALSE,FALSE,5/08/1997,Soyuz TM-26,Mir
+Mir PE-24,Pavel Vinogradov,160,"6 Nov, 1997","6 Nov, 1997",6:12:00,FALSE,FALSE,FALSE,5/08/1997,Soyuz TM-26,Mir
+STS-87,Winston Scott,161,"25 Nov, 1997","25 Nov, 1997",7:43:00,FALSE,FALSE,FALSE,19/11/1997,"STS-87, Columbia",Earth Orbit
+STS-87,Takao Doi,161,"25 Nov, 1997","25 Nov, 1997",7:43:00,FALSE,FALSE,FALSE,19/11/1997,"STS-87, Columbia",Earth Orbit
+STS-87,Winston Scott,162,"3 Dec, 1997","3 Dec, 1997",4:59:00,FALSE,FALSE,FALSE,19/11/1997,"STS-87, Columbia",Earth Orbit
+STS-87,Takao Doi,162,"3 Dec, 1997","3 Dec, 1997",4:59:00,FALSE,FALSE,FALSE,19/11/1997,"STS-87, Columbia",Earth Orbit
+Mir PE-24,Anatoly Solovyev,163,"8 Jan, 1998","9 Jan, 1998",3:06:00,FALSE,FALSE,FALSE,5/08/1997,Soyuz TM-26,Mir
+Mir PE-24,Pavel Vinogradov,163,"8 Jan, 1998","9 Jan, 1998",3:06:00,FALSE,FALSE,FALSE,5/08/1997,Soyuz TM-26,Mir
+Mir PE-24,Anatoly Solovyev,164,"14 Jan, 1998","15 Jan, 1998",3:52:00,FALSE,FALSE,FALSE,5/08/1997,Soyuz TM-26,Mir
+Mir PE-24,David Wolf,164,"14 Jan, 1998","15 Jan, 1998",3:52:00,FALSE,FALSE,FALSE,25/09/1997,"STS-86, Atlantis",Mir
+Mir PE-25,Talgat Musabayev,165,"1 Apr, 1998","1 Apr, 1998",6:40:00,FALSE,FALSE,FALSE,29/01/1998,Soyuz TM-27,Mir
+Mir PE-25,Nikolai Budarin,165,"1 Apr, 1998","1 Apr, 1998",6:40:00,FALSE,FALSE,FALSE,29/01/1998,Soyuz TM-27,Mir
+Mir PE-25,Talgat Musabayev,166,"6 Apr, 1998","6 Apr, 1998",4:15:00,FALSE,FALSE,FALSE,29/01/1998,Soyuz TM-27,Mir
+Mir PE-25,Nikolai Budarin,166,"6 Apr, 1998","6 Apr, 1998",4:15:00,FALSE,FALSE,FALSE,29/01/1998,Soyuz TM-27,Mir
+Mir PE-25,Talgat Musabayev,167,"11 Apr, 1998","11 Apr, 1998",6:25:00,FALSE,FALSE,FALSE,29/01/1998,Soyuz TM-27,Mir
+Mir PE-25,Nikolai Budarin,167,"11 Apr, 1998","11 Apr, 1998",6:25:00,FALSE,FALSE,FALSE,29/01/1998,Soyuz TM-27,Mir
+Mir PE-25,Talgat Musabayev,168,"17 Apr, 1998","17 Apr, 1998",6:33:00,FALSE,FALSE,FALSE,29/01/1998,Soyuz TM-27,Mir
+Mir PE-25,Nikolai Budarin,168,"17 Apr, 1998","17 Apr, 1998",6:33:00,FALSE,FALSE,FALSE,29/01/1998,Soyuz TM-27,Mir
+Mir PE-25,Talgat Musabayev,169,"22 Apr, 1998","22 Apr, 1998",6:21:00,FALSE,FALSE,FALSE,29/01/1998,Soyuz TM-27,Mir
+Mir PE-25,Nikolai Budarin,169,"22 Apr, 1998","22 Apr, 1998",6:21:00,FALSE,FALSE,FALSE,29/01/1998,Soyuz TM-27,Mir
+Mir PE-26,Gennady Padalka,170,"15 Sep, 1998","15 Sep, 1998",0:30:00,FALSE,FALSE,FALSE,13/08/1998,Soyuz TM-28,Mir
+Mir PE-26,Sergei Avdeyev,170,"15 Sep, 1998","15 Sep, 1998",0:30:00,FALSE,FALSE,FALSE,13/08/1998,Soyuz TM-28,Mir
+Mir PE-26,Gennady Padalka,171,"10 Nov, 1998","11 Nov, 1998",5:55:00,FALSE,FALSE,FALSE,13/08/1998,Soyuz TM-28,Mir
+Mir PE-26,Sergei Avdeyev,171,"10 Nov, 1998","11 Nov, 1998",5:55:00,FALSE,FALSE,FALSE,13/08/1998,Soyuz TM-28,Mir
+STS-88,Jerry L. Ross,172,"7 Dec, 1998","8 Dec, 1998",7:21:00,FALSE,FALSE,FALSE,4/12/1998,"STS-88, Endeavour",ISS
+STS-88,James H. Newman,172,"7 Dec, 1998","8 Dec, 1998",7:21:00,FALSE,FALSE,FALSE,4/12/1998,"STS-88, Endeavour",ISS
+STS-88,Jerry L. Ross,173,"9 Dec, 1998","10 Dec, 1998",7:02:00,FALSE,FALSE,FALSE,4/12/1998,"STS-88, Endeavour",ISS
+STS-88,James H. Newman,173,"9 Dec, 1998","10 Dec, 1998",7:02:00,FALSE,FALSE,FALSE,4/12/1998,"STS-88, Endeavour",ISS
+STS-88,Jerry L. Ross,174,"12 Dec, 1998","13 Dec, 1998",6:59:00,FALSE,FALSE,FALSE,4/12/1998,"STS-88, Endeavour",ISS
+STS-88,James H. Newman,174,"12 Dec, 1998","13 Dec, 1998",6:59:00,FALSE,FALSE,FALSE,4/12/1998,"STS-88, Endeavour",ISS
+Mir PE-27,Viktor M. Afanasyev,175,"16 Apr, 1999","16 Apr, 1999",6:19:00,FALSE,FALSE,FALSE,20/02/1999,Soyuz TM-29,Mir
+Mir PE-27,Jean-Pierre Haigneré,175,"16 Apr, 1999","16 Apr, 1999",6:19:00,FALSE,FALSE,FALSE,20/02/1999,Soyuz TM-29,Mir
+STS-96,Tamara E. Jernigan,176,"30 May, 1999","30 May, 1999",7:55:00,FALSE,FALSE,FALSE,27/05/1999,"STS-96, Discovery",ISS
+STS-96,Daniel Barry,176,"30 May, 1999","30 May, 1999",7:55:00,FALSE,FALSE,FALSE,27/05/1999,"STS-96, Discovery",ISS
+Mir PE-27,Viktor M. Afanasyev,177,"23 Jul, 1999","23 Jul, 1999",6:07:00,FALSE,FALSE,FALSE,20/02/1999,Soyuz TM-29,Mir
+Mir PE-27,Sergei Avdeyev,177,"23 Jul, 1999","23 Jul, 1999",6:07:00,FALSE,FALSE,FALSE,13/08/1998,Soyuz TM-28,Mir
+Mir PE-27,Viktor M. Afanasyev,178,"28 Jul, 1999","28 Jul, 1999",5:22:00,FALSE,FALSE,FALSE,20/02/1999,Soyuz TM-29,Mir
+Mir PE-27,Sergei Avdeyev,178,"28 Jul, 1999","28 Jul, 1999",5:22:00,FALSE,FALSE,FALSE,13/08/1998,Soyuz TM-28,Mir
+STS-103,Steven Smith,179,"22 Dec, 1999","23 Dec, 1999",8:15:00,FALSE,FALSE,FALSE,20/12/1999,"STS-103, Discovery",Earth Orbit
+STS-103,John Grunsfeld,179,"22 Dec, 1999","23 Dec, 1999",8:15:00,FALSE,FALSE,FALSE,20/12/1999,"STS-103, Discovery",Earth Orbit
+STS-103,Michael Foale,180,"23 Dec, 1999","24 Dec, 1999",8:10:00,FALSE,FALSE,FALSE,20/12/1999,"STS-103, Discovery",Earth Orbit
+STS-103,Claude Nicollier,180,"23 Dec, 1999","24 Dec, 1999",8:10:00,FALSE,FALSE,FALSE,20/12/1999,"STS-103, Discovery",Earth Orbit
+STS-103,Steven Smith,181,"24 Dec, 1999","25 Dec, 1999",8:08:00,FALSE,FALSE,FALSE,20/12/1999,"STS-103, Discovery",Earth Orbit
+STS-103,John Grunsfeld,181,"24 Dec, 1999","25 Dec, 1999",8:08:00,FALSE,FALSE,FALSE,20/12/1999,"STS-103, Discovery",Earth Orbit
+Mir PE-28,Sergei Zalyotin,182,"12 May, 2000","12 May, 2000",4:52:00,FALSE,FALSE,FALSE,4/04/2000,Soyuz TM-30,Mir
+Mir PE-28,Alexsandr Kaleri,182,"12 May, 2000","12 May, 2000",4:52:00,FALSE,FALSE,FALSE,4/04/2000,Soyuz TM-30,Mir
+STS-101,James S. Voss,183,"22 May, 2000","22 May, 2000",6:44:00,FALSE,FALSE,FALSE,19/05/2000,"STS-101, Atlantis",ISS
+STS-101,Jeffrey Williams,183,"22 May, 2000","22 May, 2000",6:44:00,FALSE,FALSE,FALSE,19/05/2000,"STS-101, Atlantis",ISS
+STS-106,Edward Lu,184,"11 Sep, 2000","11 Sep, 2000",6:14:00,FALSE,FALSE,FALSE,8/09/2000,"STS-106, Atlantis",ISS
+STS-106,Yuri Malenchenko,184,"11 Sep, 2000","11 Sep, 2000",6:14:00,FALSE,FALSE,FALSE,8/09/2000,"STS-106, Atlantis",ISS
+STS-92,Leroy Chiao,185,"15 Oct, 2000","15 Oct, 2000",6:28:00,FALSE,FALSE,FALSE,11/10/2000,"STS-92, Discovery",ISS
+STS-92,William S. McArthur,185,"15 Oct, 2000","15 Oct, 2000",6:28:00,FALSE,FALSE,FALSE,11/10/2000,"STS-92, Discovery",ISS
+STS-92,Michael Lopez-Alegria,186,"16 Oct, 2000","16 Oct, 2000",7:07:00,FALSE,FALSE,FALSE,11/10/2000,"STS-92, Discovery",ISS
+STS-92,Peter Wisoff,186,"16 Oct, 2000","16 Oct, 2000",7:07:00,FALSE,FALSE,FALSE,11/10/2000,"STS-92, Discovery",ISS
+STS-92,Leroy Chiao,187,"17 Oct, 2000","17 Oct, 2000",6:48:00,FALSE,FALSE,FALSE,11/10/2000,"STS-92, Discovery",ISS
+STS-92,William S. McArthur,187,"17 Oct, 2000","17 Oct, 2000",6:48:00,FALSE,FALSE,FALSE,11/10/2000,"STS-92, Discovery",ISS
+STS-92,Michael Lopez-Alegria,188,"18 Oct, 2000","18 Oct, 2000",6:56:00,FALSE,FALSE,FALSE,11/10/2000,"STS-92, Discovery",ISS
+STS-92,Peter Wisoff,188,"18 Oct, 2000","18 Oct, 2000",6:56:00,FALSE,FALSE,FALSE,11/10/2000,"STS-92, Discovery",ISS
+STS-97,Joseph Tanner,189,"3 Dec, 2000","4 Dec, 2000",7:33:00,FALSE,FALSE,FALSE,1/12/2000,"STS-97, Endeavour",ISS
+STS-97,Carlos I. Noriega,189,"3 Dec, 2000","4 Dec, 2000",7:33:00,FALSE,FALSE,FALSE,1/12/2000,"STS-97, Endeavour",ISS
+STS-97,Joseph Tanner,190,"5 Dec, 2000","5 Dec, 2000",6:37:00,FALSE,FALSE,FALSE,1/12/2000,"STS-97, Endeavour",ISS
+STS-97,Carlos I. Noriega,190,"5 Dec, 2000","5 Dec, 2000",6:37:00,FALSE,FALSE,FALSE,1/12/2000,"STS-97, Endeavour",ISS
+STS-97,Joseph Tanner,191,"7 Dec, 2000","7 Dec, 2000",5:10:00,FALSE,FALSE,FALSE,1/12/2000,"STS-97, Endeavour",ISS
+STS-97,Carlos I. Noriega,191,"7 Dec, 2000","7 Dec, 2000",5:10:00,FALSE,FALSE,FALSE,1/12/2000,"STS-97, Endeavour",ISS
+STS-98,Thomas D. Jones,192,"10 Feb, 2001","10 Feb, 2001",7:34:00,FALSE,FALSE,FALSE,7/02/2001,"STS-98, Atlantis",ISS
+STS-98,Robert Curbeam,192,"10 Feb, 2001","10 Feb, 2001",7:34:00,FALSE,FALSE,FALSE,7/02/2001,"STS-98, Atlantis",ISS
+STS-98,Thomas D. Jones,193,"12 Feb, 2001","12 Feb, 2001",6:50:00,FALSE,FALSE,FALSE,7/02/2001,"STS-98, Atlantis",ISS
+STS-98,Robert Curbeam,193,"12 Feb, 2001","12 Feb, 2001",6:50:00,FALSE,FALSE,FALSE,7/02/2001,"STS-98, Atlantis",ISS
+STS-98,Thomas D. Jones,194,"14 Feb, 2001","14 Feb, 2001",5:25:00,FALSE,FALSE,FALSE,7/02/2001,"STS-98, Atlantis",ISS
+STS-98,Robert Curbeam,194,"14 Feb, 2001","14 Feb, 2001",5:25:00,FALSE,FALSE,FALSE,7/02/2001,"STS-98, Atlantis",ISS
+STS-102,James S. Voss,195,"11 Mar, 2001","11 Mar, 2001",8:56:00,FALSE,FALSE,FALSE,8/03/2001,"STS-102, Discovery",ISS
+STS-102,Susan Helms,195,"11 Mar, 2001","11 Mar, 2001",8:56:00,FALSE,FALSE,FALSE,8/03/2001,"STS-102, Discovery",ISS
+STS-102,Andrew Thomas,196,"13 Mar, 2001","13 Mar, 2001",6:21:00,FALSE,FALSE,FALSE,8/03/2001,"STS-102, Discovery",ISS
+STS-102,Paul W. Richards,196,"13 Mar, 2001","13 Mar, 2001",6:21:00,FALSE,FALSE,FALSE,8/03/2001,"STS-102, Discovery",ISS
+STS-100,Chris Hadfield,197,"22 Apr, 2001","22 Apr, 2001",7:10:00,FALSE,FALSE,FALSE,19/04/2001,"STS-100, Endeavour",ISS
+STS-100,Scott Parazynski,197,"22 Apr, 2001","22 Apr, 2001",7:10:00,FALSE,FALSE,FALSE,19/04/2001,"STS-100, Endeavour",ISS
+STS-100,Chris Hadfield,198,"24 Apr, 2001","24 Apr, 2001",7:40:00,FALSE,FALSE,FALSE,19/04/2001,"STS-100, Endeavour",ISS
+STS-100,Scott Parazynski,198,"24 Apr, 2001","24 Apr, 2001",7:40:00,FALSE,FALSE,FALSE,19/04/2001,"STS-100, Endeavour",ISS
+ISS Expedition 2,Yury Usachov,199,"8 Jun, 2001","8 Jun, 2001",0:19:00,FALSE,FALSE,FALSE,8/03/2001,"STS-102, Discovery",ISS
+ISS Expedition 2,James S. Voss,199,"8 Jun, 2001","8 Jun, 2001",0:19:00,FALSE,FALSE,FALSE,8/03/2001,"STS-102, Discovery",ISS
+STS-104,Michael Gernhardt,200,"15 Jul, 2001","15 Jul, 2001",5:59:00,FALSE,FALSE,FALSE,12/07/2001,"STS-104, Atlantis",ISS
+STS-104,James F. Reilly,200,"15 Jul, 2001","15 Jul, 2001",5:59:00,FALSE,FALSE,FALSE,12/07/2001,"STS-104, Atlantis",ISS
+STS-104,Michael Gernhardt,201,"18 Jul, 2001","18 Jul, 2001",6:29:00,FALSE,FALSE,FALSE,12/07/2001,"STS-104, Atlantis",ISS
+STS-104,James F. Reilly,201,"18 Jul, 2001","18 Jul, 2001",6:29:00,FALSE,FALSE,FALSE,12/07/2001,"STS-104, Atlantis",ISS
+STS-104,Michael Gernhardt,202,"21 Jul, 2001","21 Jul, 2001",4:02:00,FALSE,FALSE,FALSE,12/07/2001,"STS-104, Atlantis",ISS
+STS-104,James F. Reilly,202,"21 Jul, 2001","21 Jul, 2001",4:02:00,FALSE,FALSE,FALSE,12/07/2001,"STS-104, Atlantis",ISS
+STS-105,Daniel Barry,203,"16 Aug, 2001","16 Aug, 2001",6:16:00,FALSE,FALSE,FALSE,10/08/2001,"STS-105, Discovery",ISS
+STS-105,Patrick Forrester,203,"16 Aug, 2001","16 Aug, 2001",6:16:00,FALSE,FALSE,FALSE,10/08/2001,"STS-105, Discovery",ISS
+STS-105,Daniel Barry,204,"18 Aug, 2001","18 Aug, 2001",5:29:00,FALSE,FALSE,FALSE,10/08/2001,"STS-105, Discovery",ISS
+STS-105,Patrick Forrester,204,"18 Aug, 2001","18 Aug, 2001",5:29:00,FALSE,FALSE,FALSE,10/08/2001,"STS-105, Discovery",ISS
+ISS Expedition 3,Vladimir N. Dezhurov,205,"8 Oct, 2001","8 Oct, 2001",4:58:00,FALSE,FALSE,FALSE,10/08/2001,"STS-105, Discovery",ISS
+ISS Expedition 3,Mikhail Tyurin,205,"8 Oct, 2001","8 Oct, 2001",4:58:00,FALSE,FALSE,FALSE,10/08/2001,"STS-105, Discovery",ISS
+ISS Expedition 3,Vladimir N. Dezhurov,206,"15 Oct, 2001","15 Oct, 2001",5:51:00,FALSE,FALSE,FALSE,10/08/2001,"STS-105, Discovery",ISS
+ISS Expedition 3,Mikhail Tyurin,206,"15 Oct, 2001","15 Oct, 2001",5:51:00,FALSE,FALSE,FALSE,10/08/2001,"STS-105, Discovery",ISS
+ISS Expedition 3,Vladimir N. Dezhurov,207,"12 Nov, 2001","13 Nov, 2001",5:05:00,FALSE,FALSE,FALSE,10/08/2001,"STS-105, Discovery",ISS
+ISS Expedition 3,Frank Culbertson,207,"12 Nov, 2001","13 Nov, 2001",5:05:00,FALSE,FALSE,FALSE,10/08/2001,"STS-105, Discovery",ISS
+ISS Expedition 3,Vladimir N. Dezhurov,208,"3 Dec, 2001","3 Dec, 2001",2:46:00,FALSE,FALSE,FALSE,10/08/2001,"STS-105, Discovery",ISS
+ISS Expedition 3,Mikhail Tyurin,208,"3 Dec, 2001","3 Dec, 2001",2:46:00,FALSE,FALSE,FALSE,10/08/2001,"STS-105, Discovery",ISS
+STS-108,Linda Godwin,209,"10 Dec, 2001","10 Dec, 2001",4:12:00,FALSE,FALSE,FALSE,5/12/2001,"STS-108, Endeavour",ISS
+STS-108,Daniel Tani,209,"10 Dec, 2001","10 Dec, 2001",4:12:00,FALSE,FALSE,FALSE,5/12/2001,"STS-108, Endeavour",ISS
+ISS Expedition 4,Yuri Onufrienko,210,"14 Jan, 2002","15 Jan, 2002",6:03:00,FALSE,FALSE,FALSE,5/12/2001,"STS-108, Endeavour",ISS
+ISS Expedition 4,Carl E. Walz,210,"14 Jan, 2002","15 Jan, 2002",6:03:00,FALSE,FALSE,FALSE,5/12/2001,"STS-108, Endeavour",ISS
+ISS Expedition 4,Yuri Onufrienko,211,"25 Jan, 2002","25 Jan, 2002",5:59:00,FALSE,FALSE,FALSE,5/12/2001,"STS-108, Endeavour",ISS
+ISS Expedition 4,Daniel Bursch,211,"25 Jan, 2002","25 Jan, 2002",5:59:00,FALSE,FALSE,FALSE,5/12/2001,"STS-108, Endeavour",ISS
+ISS Expedition 4,Carl E. Walz,212,"20 Feb, 2002","20 Feb, 2002",5:47:00,FALSE,FALSE,FALSE,5/12/2001,"STS-108, Endeavour",ISS
+ISS Expedition 4,Daniel Bursch,212,"20 Feb, 2002","20 Feb, 2002",5:47:00,FALSE,FALSE,FALSE,5/12/2001,"STS-108, Endeavour",ISS
+STS-109,John Grunsfeld,213,"4 Mar, 2002","4 Mar, 2002",7:01:00,FALSE,FALSE,FALSE,1/03/2002,"STS-109, Columbia",Earth Orbit
+STS-109,Richard Linnehan,213,"4 Mar, 2002","4 Mar, 2002",7:01:00,FALSE,FALSE,FALSE,1/03/2002,"STS-109, Columbia",Earth Orbit
+STS-109,James H. Newman,214,"5 Mar, 2002","5 Mar, 2002",7:16:00,FALSE,FALSE,FALSE,1/03/2002,"STS-109, Columbia",Earth Orbit
+STS-109,Michael Massimino,214,"5 Mar, 2002","5 Mar, 2002",7:16:00,FALSE,FALSE,FALSE,1/03/2002,"STS-109, Columbia",Earth Orbit
+STS-109,John Grunsfeld,215,"6 Mar, 2002","6 Mar, 2002",6:48:00,FALSE,FALSE,FALSE,1/03/2002,"STS-109, Columbia",Earth Orbit
+STS-109,Richard Linnehan,215,"6 Mar, 2002","6 Mar, 2002",6:48:00,FALSE,FALSE,FALSE,1/03/2002,"STS-109, Columbia",Earth Orbit
+STS-109,James H. Newman,216,"7 Mar, 2002","7 Mar, 2002",7:30:00,FALSE,FALSE,FALSE,1/03/2002,"STS-109, Columbia",Earth Orbit
+STS-109,Michael Massimino,216,"7 Mar, 2002","7 Mar, 2002",7:30:00,FALSE,FALSE,FALSE,1/03/2002,"STS-109, Columbia",Earth Orbit
+STS-109,John Grunsfeld,217,"8 Mar, 2002","8 Mar, 2002",7:20:00,FALSE,FALSE,FALSE,1/03/2002,"STS-109, Columbia",Earth Orbit
+STS-109,Richard Linnehan,217,"8 Mar, 2002","8 Mar, 2002",7:20:00,FALSE,FALSE,FALSE,1/03/2002,"STS-109, Columbia",Earth Orbit
+STS-110,Steven Smith,218,"11 Apr, 2002","11 Apr, 2002",7:48:00,FALSE,FALSE,FALSE,8/04/2002,"STS-110, Atlantis",ISS
+STS-110,Rex Walheim,218,"11 Apr, 2002","11 Apr, 2002",7:48:00,FALSE,FALSE,FALSE,8/04/2002,"STS-110, Atlantis",ISS
+STS-110,Jerry L. Ross,219,"13 Apr, 2002","13 Apr, 2002",7:30:00,FALSE,FALSE,FALSE,8/04/2002,"STS-110, Atlantis",ISS
+STS-110,Lee Morin,219,"13 Apr, 2002","13 Apr, 2002",7:30:00,FALSE,FALSE,FALSE,8/04/2002,"STS-110, Atlantis",ISS
+STS-110,Steven Smith,220,"14 Apr, 2002","14 Apr, 2002",6:27:00,FALSE,FALSE,FALSE,8/04/2002,"STS-110, Atlantis",ISS
+STS-110,Rex Walheim,220,"14 Apr, 2002","14 Apr, 2002",6:27:00,FALSE,FALSE,FALSE,8/04/2002,"STS-110, Atlantis",ISS
+STS-110,Jerry L. Ross,221,"16 Apr, 2002","16 Apr, 2002",6:37:00,FALSE,FALSE,FALSE,8/04/2002,"STS-110, Atlantis",ISS
+STS-110,Lee Morin,221,"16 Apr, 2002","16 Apr, 2002",6:37:00,FALSE,FALSE,FALSE,8/04/2002,"STS-110, Atlantis",ISS
+STS-111,Franklin Chang-Diaz,222,"9 Jun, 2002","9 Jun, 2002",7:14:00,FALSE,FALSE,FALSE,5/06/2002,"STS-111, Endeavour",ISS
+STS-111,Philippe Perrin,222,"9 Jun, 2002","9 Jun, 2002",7:14:00,FALSE,FALSE,FALSE,5/06/2002,"STS-111, Endeavour",ISS
+STS-111,Franklin Chang-Diaz,223,"11 Jun, 2002","11 Jun, 2002",7:14:00,FALSE,FALSE,FALSE,5/06/2002,"STS-111, Endeavour",ISS
+STS-111,Philippe Perrin,223,"11 Jun, 2002","11 Jun, 2002",7:14:00,FALSE,FALSE,FALSE,5/06/2002,"STS-111, Endeavour",ISS
+STS-111,Franklin Chang-Diaz,224,"13 Jun, 2002","13 Jun, 2002",7:17:00,FALSE,FALSE,FALSE,5/06/2002,"STS-111, Endeavour",ISS
+STS-111,Philippe Perrin,224,"13 Jun, 2002","13 Jun, 2002",7:17:00,FALSE,FALSE,FALSE,5/06/2002,"STS-111, Endeavour",ISS
+ISS Expedition 5,Valery Korzun,225,"16 Aug, 2002","16 Aug, 2002",4:23:00,FALSE,FALSE,FALSE,5/06/2002,"STS-111, Endeavour",ISS
+ISS Expedition 5,Peggy Whitson,225,"16 Aug, 2002","16 Aug, 2002",4:23:00,FALSE,FALSE,FALSE,5/06/2002,"STS-111, Endeavour",ISS
+ISS Expedition 5,Valery Korzun,226,"26 Aug, 2002","26 Aug, 2002",5:21:00,FALSE,FALSE,FALSE,5/06/2002,"STS-111, Endeavour",ISS
+ISS Expedition 5,Sergei Treshchov,226,"26 Aug, 2002","26 Aug, 2002",5:21:00,FALSE,FALSE,FALSE,5/06/2002,"STS-111, Endeavour",ISS
+STS-112,David Wolf,227,"10 Oct, 2002","10 Oct, 2002",7:01:00,FALSE,FALSE,FALSE,7/10/2002,"STS-112, Atlantis",ISS
+STS-112,Piers Sellers,227,"10 Oct, 2002","10 Oct, 2002",7:01:00,FALSE,FALSE,FALSE,7/10/2002,"STS-112, Atlantis",ISS
+STS-112,David Wolf,228,"12 Oct, 2002","12 Oct, 2002",6:04:00,FALSE,FALSE,FALSE,7/10/2002,"STS-112, Atlantis",ISS
+STS-112,Piers Sellers,228,"12 Oct, 2002","12 Oct, 2002",6:04:00,FALSE,FALSE,FALSE,7/10/2002,"STS-112, Atlantis",ISS
+STS-112,David Wolf,229,"14 Oct, 2002","14 Oct, 2002",6:36:00,FALSE,FALSE,FALSE,7/10/2002,"STS-112, Atlantis",ISS
+STS-112,Piers Sellers,229,"14 Oct, 2002","14 Oct, 2002",6:36:00,FALSE,FALSE,FALSE,7/10/2002,"STS-112, Atlantis",ISS
+STS-113,Michael Lopez-Alegria,230,"26 Nov, 2002","27 Nov, 2002",6:45:00,FALSE,FALSE,FALSE,24/11/2002,"STS-113, Endeavour",ISS
+STS-113,John Herrington,230,"26 Nov, 2002","27 Nov, 2002",6:45:00,FALSE,FALSE,FALSE,24/11/2002,"STS-113, Endeavour",ISS
+STS-113,Michael Lopez-Alegria,231,"28 Nov, 2002","29 Nov, 2002",6:10:00,FALSE,FALSE,FALSE,24/11/2002,"STS-113, Endeavour",ISS
+STS-113,John Herrington,231,"28 Nov, 2002","29 Nov, 2002",6:10:00,FALSE,FALSE,FALSE,24/11/2002,"STS-113, Endeavour",ISS
+STS-113,Michael Lopez-Alegria,232,"30 Nov, 2002","1 Dec, 2002",7:00:00,FALSE,FALSE,FALSE,24/11/2002,"STS-113, Endeavour",ISS
+STS-113,John Herrington,232,"30 Nov, 2002","1 Dec, 2002",7:00:00,FALSE,FALSE,FALSE,24/11/2002,"STS-113, Endeavour",ISS
+ISS Expedition 6,Kenneth Bowersox,233,"15 Jan, 2003","15 Jan, 2003",6:51:00,FALSE,FALSE,FALSE,24/11/2002,"STS-113, Endeavour",ISS
+ISS Expedition 6,Donald Pettit,233,"15 Jan, 2003","15 Jan, 2003",6:51:00,FALSE,FALSE,FALSE,24/11/2002,"STS-113, Endeavour",ISS
+ISS Expedition 6,Kenneth Bowersox,234,"8 Apr, 2003","8 Apr, 2003",6:26:00,FALSE,FALSE,FALSE,24/11/2002,"STS-113, Endeavour",ISS
+ISS Expedition 6,Donald Pettit,234,"8 Apr, 2003","8 Apr, 2003",6:26:00,FALSE,FALSE,FALSE,24/11/2002,"STS-113, Endeavour",ISS
+ISS Expedition 8,Michael Foale,235,"26 Feb, 2004","27 Feb, 2004",3:55:00,FALSE,FALSE,FALSE,18/10/2003,Soyuz TMA-3,ISS
+ISS Expedition 8,Alexsandr Kaleri,235,"26 Feb, 2004","27 Feb, 2004",3:55:00,FALSE,FALSE,FALSE,18/10/2003,Soyuz TMA-3,ISS
+ISS Expedition 9,Gennady Padalka,236,"24 Jun, 2004","24 Jun, 2004",0:13:00,FALSE,FALSE,FALSE,19/04/2004,Soyuz TMA-4,ISS
+ISS Expedition 9,Michael Fincke,236,"24 Jun, 2004","24 Jun, 2004",0:13:00,FALSE,FALSE,FALSE,19/04/2004,Soyuz TMA-4,ISS
+ISS Expedition 9,Gennady Padalka,237,"30 Jun, 2004","1 Jul, 2004",5:40:00,FALSE,FALSE,FALSE,19/04/2004,Soyuz TMA-4,ISS
+ISS Expedition 9,Michael Fincke,237,"30 Jun, 2004","1 Jul, 2004",5:40:00,FALSE,FALSE,FALSE,19/04/2004,Soyuz TMA-4,ISS
+ISS Expedition 9,Gennady Padalka,238,"3 Aug, 2004","3 Aug, 2004",4:30:00,FALSE,FALSE,FALSE,19/04/2004,Soyuz TMA-4,ISS
+ISS Expedition 9,Michael Fincke,238,"3 Aug, 2004","3 Aug, 2004",4:30:00,FALSE,FALSE,FALSE,19/04/2004,Soyuz TMA-4,ISS
+ISS Expedition 9,Gennady Padalka,239,"3 Sep, 2004","3 Sep, 2004",5:21:00,FALSE,FALSE,FALSE,19/04/2004,Soyuz TMA-4,ISS
+ISS Expedition 9,Michael Fincke,239,"3 Sep, 2004","3 Sep, 2004",5:21:00,FALSE,FALSE,FALSE,19/04/2004,Soyuz TMA-4,ISS
+ISS Expedition 10,Leroy Chiao,240,"26 Jan, 2005","26 Jan, 2005",5:28:00,FALSE,FALSE,FALSE,14/10/2004,Soyuz TMA-5,ISS
+ISS Expedition 10,Salizhan Sharipov,240,"26 Jan, 2005","26 Jan, 2005",5:28:00,FALSE,FALSE,FALSE,14/10/2004,Soyuz TMA-5,ISS
+ISS Expedition 10,Leroy Chiao,241,"28 Mar, 2005","28 Mar, 2005",5:06:00,FALSE,FALSE,FALSE,14/10/2004,Soyuz TMA-5,ISS
+ISS Expedition 10,Salizhan Sharipov,241,"28 Mar, 2005","28 Mar, 2005",5:06:00,FALSE,FALSE,FALSE,14/10/2004,Soyuz TMA-5,ISS
+STS-114,Soichi Noguchi,242,"30 Jul, 2005","30 Jul, 2005",6:50:00,FALSE,FALSE,FALSE,26/07/2005,"STS-114, Discovery",ISS
+STS-114,Stephen Robinson,242,"30 Jul, 2005","30 Jul, 2005",6:50:00,FALSE,FALSE,FALSE,26/07/2005,"STS-114, Discovery",ISS
+STS-114,Soichi Noguchi,243,"1 Aug, 2005","1 Aug, 2005",7:14:00,FALSE,FALSE,FALSE,26/07/2005,"STS-114, Discovery",ISS
+STS-114,Stephen Robinson,243,"1 Aug, 2005","1 Aug, 2005",7:14:00,FALSE,FALSE,FALSE,26/07/2005,"STS-114, Discovery",ISS
+STS-114,Soichi Noguchi,244,"3 Aug, 2005","3 Aug, 2005",6:01:00,FALSE,FALSE,FALSE,26/07/2005,"STS-114, Discovery",ISS
+STS-114,Stephen Robinson,244,"3 Aug, 2005","3 Aug, 2005",6:01:00,FALSE,FALSE,FALSE,26/07/2005,"STS-114, Discovery",ISS
+ISS Expedition 11,Sergei Krikalev,245,"18 Aug, 2005","19 Aug, 2005",4:58:00,FALSE,FALSE,FALSE,15/04/2005,Soyuz TMA-6,ISS
+ISS Expedition 11,John Phillips,245,"18 Aug, 2005","19 Aug, 2005",4:58:00,FALSE,FALSE,FALSE,15/04/2005,Soyuz TMA-6,ISS
+ISS Expedition 12,William S. McArthur,246,"7 Nov, 2005","7 Nov, 2005",5:22:00,FALSE,FALSE,FALSE,1/10/2005,Soyuz TMA-7,ISS
+ISS Expedition 12,Valery Tokarev,246,"7 Nov, 2005","7 Nov, 2005",5:22:00,FALSE,FALSE,FALSE,1/10/2005,Soyuz TMA-7,ISS
+ISS Expedition 12,William S. McArthur,247,"3 Feb, 2006","3 Feb, 2006",5:43:00,FALSE,FALSE,FALSE,1/10/2005,Soyuz TMA-7,ISS
+ISS Expedition 12,Valery Tokarev,247,"3 Feb, 2006","3 Feb, 2006",5:43:00,FALSE,FALSE,FALSE,1/10/2005,Soyuz TMA-7,ISS
+ISS Expedition 13,Pavel Vinogradov,248,"1 Jun, 2006","2 Jun, 2006",6:31:00,FALSE,FALSE,FALSE,30/03/2006,Soyuz TMA-8,ISS
+ISS Expedition 13,Jeffrey Williams,248,"1 Jun, 2006","2 Jun, 2006",6:31:00,FALSE,FALSE,FALSE,30/03/2006,Soyuz TMA-8,ISS
+STS-121,Piers Sellers,249,"8 Jul, 2006","8 Jul, 2006",7:31:00,FALSE,FALSE,FALSE,4/07/2006,"STS-121, Discovery",ISS
+STS-121,Michael Fossum,249,"8 Jul, 2006","8 Jul, 2006",7:31:00,FALSE,FALSE,FALSE,4/07/2006,"STS-121, Discovery",ISS
+STS-121,Piers Sellers,250,"10 Jul, 2006","10 Jul, 2006",6:47:00,FALSE,FALSE,FALSE,4/07/2006,"STS-121, Discovery",ISS
+STS-121,Michael Fossum,250,"10 Jul, 2006","10 Jul, 2006",6:47:00,FALSE,FALSE,FALSE,4/07/2006,"STS-121, Discovery",ISS
+STS-121,Piers Sellers,251,"12 Jul, 2006","12 Jul, 2006",7:11:00,FALSE,FALSE,FALSE,4/07/2006,"STS-121, Discovery",ISS
+STS-121,Michael Fossum,251,"12 Jul, 2006","12 Jul, 2006",7:11:00,FALSE,FALSE,FALSE,4/07/2006,"STS-121, Discovery",ISS
+ISS Expedition 13,Jeffrey Williams,252,"3 Aug, 2006","3 Aug, 2006",5:54:00,FALSE,FALSE,FALSE,30/03/2006,Soyuz TMA-8,ISS
+ISS Expedition 13,Thomas Reiter,252,"3 Aug, 2006","3 Aug, 2006",5:54:00,FALSE,FALSE,FALSE,4/07/2006,"STS-121, Discovery",ISS
+STS-115,Joseph Tanner,253,"12 Sep, 2006","12 Sep, 2006",5:26:00,FALSE,FALSE,FALSE,9/09/2006,"STS-115, Atlantis",ISS
+STS-115,Heidemarie Stefanyshyn-Piper,253,"12 Sep, 2006","12 Sep, 2006",5:26:00,FALSE,FALSE,FALSE,9/09/2006,"STS-115, Atlantis",ISS
+STS-115,Daniel Burbank,254,"13 Sep, 2006","13 Sep, 2006",7:11:00,FALSE,FALSE,FALSE,9/09/2006,"STS-115, Atlantis",ISS
+STS-115,Steven MacLean,254,"13 Sep, 2006","13 Sep, 2006",7:11:00,FALSE,FALSE,FALSE,9/09/2006,"STS-115, Atlantis",ISS
+STS-115,Joseph Tanner,255,"15 Sep, 2006","15 Sep, 2006",6:42:00,FALSE,FALSE,FALSE,9/09/2006,"STS-115, Atlantis",ISS
+STS-115,Heidemarie Stefanyshyn-Piper,255,"15 Sep, 2006","15 Sep, 2006",6:42:00,FALSE,FALSE,FALSE,9/09/2006,"STS-115, Atlantis",ISS
+Expedition 14,Mikhail Tyurin,256,"22 Nov, 2006","23 Nov, 2006",5:38:00,FALSE,FALSE,FALSE,18/09/2006,Soyuz TMA-9,ISS
+Expedition 14,Michael Lopez-Alegria,256,"22 Nov, 2006","23 Nov, 2006",5:38:00,FALSE,FALSE,FALSE,18/09/2006,Soyuz TMA-9,ISS
+STS-116,Robert Curbeam,257,"12 Dec, 2006","13 Dec, 2006",6:36:00,FALSE,FALSE,FALSE,9/12/2006,"STS-116, Discovery",ISS
+STS-116,Christer Fuglesang,257,"12 Dec, 2006","13 Dec, 2006",6:36:00,FALSE,FALSE,FALSE,9/12/2006,"STS-116, Discovery",ISS
+STS-116,Robert Curbeam,258,"14 Dec, 2006","15 Dec, 2006",5:00:00,FALSE,FALSE,FALSE,9/12/2006,"STS-116, Discovery",ISS
+STS-116,Christer Fuglesang,258,"14 Dec, 2006","15 Dec, 2006",5:00:00,FALSE,FALSE,FALSE,9/12/2006,"STS-116, Discovery",ISS
+STS-116,Robert Curbeam,259,"16 Dec, 2006","17 Dec, 2006",7:32:00,FALSE,FALSE,FALSE,9/12/2006,"STS-116, Discovery",ISS
+STS-116,Sunita Williams,259,"16 Dec, 2006","17 Dec, 2006",7:32:00,FALSE,FALSE,FALSE,9/12/2006,"STS-116, Discovery",ISS
+STS-116,Robert Curbeam,260,"18 Dec, 2006","19 Dec, 2006",6:38:00,FALSE,FALSE,FALSE,9/12/2006,"STS-116, Discovery",ISS
+STS-116,Christer Fuglesang,260,"18 Dec, 2006","19 Dec, 2006",6:38:00,FALSE,FALSE,FALSE,9/12/2006,"STS-116, Discovery",ISS
+Expedition 14,Michael Lopez-Alegria,261,"31 Jan, 2007","31 Jan, 2007",7:55:00,FALSE,FALSE,FALSE,18/09/2006,Soyuz TMA-9,ISS
+Expedition 14,Sunita Williams,261,"31 Jan, 2007","31 Jan, 2007",7:55:00,FALSE,FALSE,FALSE,9/12/2006,"STS-116, Discovery",ISS
+Expedition 14,Michael Lopez-Alegria,262,"4 Feb, 2007","4 Feb, 2007",7:11:00,FALSE,FALSE,FALSE,18/09/2006,Soyuz TMA-9,ISS
+Expedition 14,Sunita Williams,262,"4 Feb, 2007","4 Feb, 2007",7:11:00,FALSE,FALSE,FALSE,9/12/2006,"STS-116, Discovery",ISS
+Expedition 14,Michael Lopez-Alegria,263,"8 Feb, 2007","8 Feb, 2007",6:40:00,FALSE,FALSE,FALSE,18/09/2006,Soyuz TMA-9,ISS
+Expedition 14,Sunita Williams,263,"8 Feb, 2007","8 Feb, 2007",6:40:00,FALSE,FALSE,FALSE,9/12/2006,"STS-116, Discovery",ISS
+Expedition 14,Michael Lopez-Alegria,264,"22 Feb, 2007","22 Feb, 2007",6:18:00,FALSE,FALSE,FALSE,18/09/2006,Soyuz TMA-9,ISS
+Expedition 14,Mikhail Tyurin,264,"22 Feb, 2007","22 Feb, 2007",6:18:00,FALSE,FALSE,FALSE,18/09/2006,Soyuz TMA-9,ISS
+Expedition 15,Oleg Kotov,265,"30 May, 2007","31 May, 2007",5:25:00,FALSE,FALSE,FALSE,7/04/2007,Soyuz TMA-10,ISS
+Expedition 15,Fyodor Yurchikhin,265,"30 May, 2007","31 May, 2007",5:25:00,FALSE,FALSE,FALSE,7/04/2007,Soyuz TMA-10,ISS
+Expedition 15,Oleg Kotov,266,"6 Jun, 2007","6 Jun, 2007",5:37:00,FALSE,FALSE,FALSE,7/04/2007,Soyuz TMA-10,ISS
+Expedition 15,Fyodor Yurchikhin,266,"6 Jun, 2007","6 Jun, 2007",5:37:00,FALSE,FALSE,FALSE,7/04/2007,Soyuz TMA-10,ISS
+STS-117,James F. Reilly,267,"11 Jun, 2007","12 Jun, 2007",6:15:00,FALSE,FALSE,FALSE,8/06/2007,"STS-117, Atlantis",ISS
+STS-117,John D. Olivas,267,"11 Jun, 2007","12 Jun, 2007",6:15:00,FALSE,FALSE,FALSE,8/06/2007,"STS-117, Atlantis",ISS
+STS-117,Patrick Forrester,268,"13 Jun, 2007","14 Jun, 2007",7:16:00,FALSE,FALSE,FALSE,8/06/2007,"STS-117, Atlantis",ISS
+STS-117,Steven Swanson,268,"13 Jun, 2007","14 Jun, 2007",7:16:00,FALSE,FALSE,FALSE,8/06/2007,"STS-117, Atlantis",ISS
+STS-117,James F. Reilly,269,"15 Jun, 2007","16 Jun, 2007",7:58:00,FALSE,FALSE,FALSE,8/06/2007,"STS-117, Atlantis",ISS
+STS-117,John D. Olivas,269,"15 Jun, 2007","16 Jun, 2007",7:58:00,FALSE,FALSE,FALSE,8/06/2007,"STS-117, Atlantis",ISS
+STS-117,Patrick Forrester,270,"17 Jun, 2007","17 Jun, 2007",6:29:00,FALSE,FALSE,FALSE,8/06/2007,"STS-117, Atlantis",ISS
+STS-117,Steven Swanson,270,"17 Jun, 2007","17 Jun, 2007",6:29:00,FALSE,FALSE,FALSE,8/06/2007,"STS-117, Atlantis",ISS
+Expedition 15,Clayton Anderson,271,"23 Jul, 2007","23 Jul, 2007",7:41:00,FALSE,FALSE,FALSE,8/06/2007,"STS-117, Atlantis",ISS
+Expedition 15,Fyodor Yurchikhin,271,"23 Jul, 2007","23 Jul, 2007",7:41:00,FALSE,FALSE,FALSE,7/04/2007,Soyuz TMA-10,ISS
+STS-118,Richard Mastracchio,272,"11 Aug, 2007","11 Aug, 2007",6:17:00,FALSE,FALSE,FALSE,8/08/2007,"STS-118, Endeavour",ISS
+STS-118,Dafydd Williams,272,"11 Aug, 2007","11 Aug, 2007",6:17:00,FALSE,FALSE,FALSE,8/08/2007,"STS-118, Endeavour",ISS
+STS-118,Richard Mastracchio,273,"13 Aug, 2007","13 Aug, 2007",6:28:00,FALSE,FALSE,FALSE,8/08/2007,"STS-118, Endeavour",ISS
+STS-118,Dafydd Williams,273,"13 Aug, 2007","13 Aug, 2007",6:28:00,FALSE,FALSE,FALSE,8/08/2007,"STS-118, Endeavour",ISS
+STS-118,Richard Mastracchio,274,"15 Aug, 2007","15 Aug, 2007",5:28:00,FALSE,FALSE,FALSE,8/08/2007,"STS-118, Endeavour",ISS
+STS-118,Clayton Anderson,274,"15 Aug, 2007","15 Aug, 2007",5:28:00,FALSE,FALSE,FALSE,8/06/2007,"STS-117, Atlantis",ISS
+STS-118,Dafydd Williams,275,"18 Aug, 2007","18 Aug, 2007",4:45:00,FALSE,FALSE,FALSE,8/08/2007,"STS-118, Endeavour",ISS
+STS-118,Clayton Anderson,275,"18 Aug, 2007","18 Aug, 2007",4:45:00,FALSE,FALSE,FALSE,8/06/2007,"STS-117, Atlantis",ISS
+STS-120,Scott Parazynski,276,"26 Oct, 2007","26 Oct, 2007",6:14:00,FALSE,FALSE,FALSE,23/10/2007,"STS-120, Discovery",ISS
+STS-120,Douglas H. Wheelock,276,"26 Oct, 2007","26 Oct, 2007",6:14:00,FALSE,FALSE,FALSE,23/10/2007,"STS-120, Discovery",ISS
+STS-120,Scott Parazynski,277,"28 Oct, 2007","28 Oct, 2007",6:33:00,FALSE,FALSE,FALSE,23/10/2007,"STS-120, Discovery",ISS
+STS-120,Daniel Tani,277,"28 Oct, 2007","28 Oct, 2007",6:33:00,FALSE,FALSE,FALSE,23/10/2007,"STS-120, Discovery",ISS
+STS-120,Scott Parazynski,278,"30 Oct, 2007","30 Oct, 2007",7:08:00,FALSE,FALSE,FALSE,23/10/2007,"STS-120, Discovery",ISS
+STS-120,Douglas H. Wheelock,278,"30 Oct, 2007","30 Oct, 2007",7:08:00,FALSE,FALSE,FALSE,23/10/2007,"STS-120, Discovery",ISS
+STS-120,Scott Parazynski,279,"3 Nov, 2007","3 Nov, 2007",7:19:00,FALSE,FALSE,FALSE,23/10/2007,"STS-120, Discovery",ISS
+STS-120,Douglas H. Wheelock,279,"3 Nov, 2007","3 Nov, 2007",7:19:00,FALSE,FALSE,FALSE,23/10/2007,"STS-120, Discovery",ISS
+Expedition 16,Peggy Whitson,280,"9 Nov, 2007","9 Nov, 2007",6:55:00,FALSE,FALSE,FALSE,10/10/2007,Soyuz TMA-11,ISS
+Expedition 16,Yuri Malenchenko,280,"9 Nov, 2007","9 Nov, 2007",6:55:00,FALSE,FALSE,FALSE,10/10/2007,Soyuz TMA-11,ISS
+Expedition 16,Peggy Whitson,281,"20 Nov, 2007","20 Nov, 2007",7:16:00,FALSE,FALSE,FALSE,10/10/2007,Soyuz TMA-11,ISS
+Expedition 16,Daniel Tani,281,"20 Nov, 2007","20 Nov, 2007",7:16:00,FALSE,FALSE,FALSE,23/10/2007,"STS-120, Discovery",ISS
+Expedition 16,Peggy Whitson,282,"24 Nov, 2007","24 Nov, 2007",7:04:00,FALSE,FALSE,FALSE,10/10/2007,Soyuz TMA-11,ISS
+Expedition 16,Daniel Tani,282,"24 Nov, 2007","24 Nov, 2007",7:04:00,FALSE,FALSE,FALSE,23/10/2007,"STS-120, Discovery",ISS
+Expedition 16,Peggy Whitson,283,"18 Dec, 2007","18 Dec, 2007",6:56:00,FALSE,FALSE,FALSE,10/10/2007,Soyuz TMA-11,ISS
+Expedition 16,Daniel Tani,283,"18 Dec, 2007","18 Dec, 2007",6:56:00,FALSE,FALSE,FALSE,23/10/2007,"STS-120, Discovery",ISS
+Expedition 16,Peggy Whitson,284,"30 Jan, 2008","30 Jan, 2008",7:10:00,FALSE,FALSE,FALSE,10/10/2007,Soyuz TMA-11,ISS
+Expedition 16,Daniel Tani,284,"30 Jan, 2008","30 Jan, 2008",7:10:00,FALSE,FALSE,FALSE,23/10/2007,"STS-120, Discovery",ISS
+STS-122,Rex Walheim,285,"11 Feb, 2008","11 Feb, 2008",7:58:00,FALSE,FALSE,FALSE,7/02/2008,"STS-122, Atlantis",ISS
+STS-122,Stanley G. Love,285,"11 Feb, 2008","11 Feb, 2008",7:58:00,FALSE,FALSE,FALSE,7/02/2008,"STS-122, Atlantis",ISS
+STS-122,Rex Walheim,286,"13 Feb, 2008","13 Feb, 2008",6:45:00,FALSE,FALSE,FALSE,7/02/2008,"STS-122, Atlantis",ISS
+STS-122,Hans Schlegel,286,"13 Feb, 2008","13 Feb, 2008",6:45:00,FALSE,FALSE,FALSE,7/02/2008,"STS-122, Atlantis",ISS
+STS-122,Rex Walheim,287,"15 Feb, 2008","15 Feb, 2008",7:25:00,FALSE,FALSE,FALSE,7/02/2008,"STS-122, Atlantis",ISS
+STS-122,Stanley G. Love,287,"15 Feb, 2008","15 Feb, 2008",7:25:00,FALSE,FALSE,FALSE,7/02/2008,"STS-122, Atlantis",ISS
+STS-123,Richard Linnehan,288,"14 Mar, 2008","14 Mar, 2008",7:01:00,FALSE,FALSE,FALSE,11/03/2008,"STS-123, Endeavour",ISS
+STS-123,Garrett Reisman,288,"14 Mar, 2008","14 Mar, 2008",7:01:00,FALSE,FALSE,FALSE,11/03/2008,"STS-123, Endeavour",ISS
+STS-123,Richard Linnehan,289,"15 Mar, 2008","16 Mar, 2008",7:08:00,FALSE,FALSE,FALSE,11/03/2008,"STS-123, Endeavour",ISS
+STS-123,Michael Foreman,289,"15 Mar, 2008","16 Mar, 2008",7:08:00,FALSE,FALSE,FALSE,11/03/2008,"STS-123, Endeavour",ISS
+STS-123,Richard Linnehan,290,"17 Mar, 2008","18 Mar, 2008",6:53:00,FALSE,FALSE,FALSE,11/03/2008,"STS-123, Endeavour",ISS
+STS-123,Robert L. Behnken,290,"17 Mar, 2008","18 Mar, 2008",6:53:00,FALSE,FALSE,FALSE,11/03/2008,"STS-123, Endeavour",ISS
+STS-123,Robert L. Behnken,291,"20 Mar, 2008","21 Mar, 2008",6:24:00,FALSE,FALSE,FALSE,11/03/2008,"STS-123, Endeavour",ISS
+STS-123,Michael Foreman,291,"20 Mar, 2008","21 Mar, 2008",6:24:00,FALSE,FALSE,FALSE,11/03/2008,"STS-123, Endeavour",ISS
+STS-123,Robert L. Behnken,292,"22 Mar, 2008","23 Mar, 2008",6:02:00,FALSE,FALSE,FALSE,11/03/2008,"STS-123, Endeavour",ISS
+STS-123,Michael Foreman,292,"22 Mar, 2008","23 Mar, 2008",6:02:00,FALSE,FALSE,FALSE,11/03/2008,"STS-123, Endeavour",ISS
+STS-124,Ronald Garan,293,"3 Jun, 2008","3 Jun, 2008",6:48:00,FALSE,FALSE,FALSE,31/05/2008,"STS-124, Discovery",ISS
+STS-124,Michael Fossum,293,"3 Jun, 2008","3 Jun, 2008",6:48:00,FALSE,FALSE,FALSE,31/05/2008,"STS-124, Discovery",ISS
+STS-124,Ronald Garan,294,"5 Jun, 2008","5 Jun, 2008",7:11:00,FALSE,FALSE,FALSE,31/05/2008,"STS-124, Discovery",ISS
+STS-124,Michael Fossum,294,"5 Jun, 2008","5 Jun, 2008",7:11:00,FALSE,FALSE,FALSE,31/05/2008,"STS-124, Discovery",ISS
+STS-124,Ronald Garan,295,"8 Jun, 2008","8 Jun, 2008",6:33:00,FALSE,FALSE,FALSE,31/05/2008,"STS-124, Discovery",ISS
+STS-124,Michael Fossum,295,"8 Jun, 2008","8 Jun, 2008",6:33:00,FALSE,FALSE,FALSE,31/05/2008,"STS-124, Discovery",ISS
+Expedition 17,Sergey Volkov,296,"10 Jul, 2008","11 Jul, 2008",6:18:00,FALSE,FALSE,FALSE,8/04/2008,Soyuz TMA-12,ISS
+Expedition 17,Oleg Kononenko,296,"10 Jul, 2008","11 Jul, 2008",6:18:00,FALSE,FALSE,FALSE,8/04/2008,Soyuz TMA-12,ISS
+Expedition 17,Sergey Volkov,297,"15 Jul, 2008","15 Jul, 2008",5:54:00,FALSE,FALSE,FALSE,8/04/2008,Soyuz TMA-12,ISS
+Expedition 17,Oleg Kononenko,297,"15 Jul, 2008","15 Jul, 2008",5:54:00,FALSE,FALSE,FALSE,8/04/2008,Soyuz TMA-12,ISS
+Shenzhou 7,Zhai Zhigang,298,"27 Sep, 2008","27 Sep, 2008",0:22:00,FALSE,FALSE,FALSE,25/09/2008,Shenzhou 7,Earth Orbit
+Shenzhou 7,Liu Boming,298,"27 Sep, 2008","27 Sep, 2008",0:22:00,FALSE,TRUE,FALSE,25/09/2008,Shenzhou 7,Earth Orbit
+STS-126,Heidemarie Stefanyshyn-Piper,299,"18 Nov, 2008","19 Nov, 2008",6:52:00,FALSE,FALSE,FALSE,15/11/2008,"STS-126, Endeavour",ISS
+STS-126,Stephen G. Bowen,299,"18 Nov, 2008","19 Nov, 2008",6:52:00,FALSE,FALSE,FALSE,15/11/2008,"STS-126, Endeavour",ISS
+STS-126,Heidemarie Stefanyshyn-Piper,300,"20 Nov, 2008","21 Nov, 2008",6:45:00,FALSE,FALSE,FALSE,15/11/2008,"STS-126, Endeavour",ISS
+STS-126,Robert S. Kimbrough,300,"20 Nov, 2008","21 Nov, 2008",6:45:00,FALSE,FALSE,FALSE,15/11/2008,"STS-126, Endeavour",ISS
+STS-126,Heidemarie Stefanyshyn-Piper,301,"22 Nov, 2008","23 Nov, 2008",7:57:00,FALSE,FALSE,FALSE,15/11/2008,"STS-126, Endeavour",ISS
+STS-126,Stephen G. Bowen,301,"22 Nov, 2008","23 Nov, 2008",7:57:00,FALSE,FALSE,FALSE,15/11/2008,"STS-126, Endeavour",ISS
+STS-126,Stephen G. Bowen,302,"24 Nov, 2008","25 Nov, 2008",6:07:00,FALSE,FALSE,FALSE,15/11/2008,"STS-126, Endeavour",ISS
+STS-126,Robert S. Kimbrough,302,"24 Nov, 2008","25 Nov, 2008",6:07:00,FALSE,FALSE,FALSE,15/11/2008,"STS-126, Endeavour",ISS
+Expedition 18,Yuri Lonchakov,303,"23 Dec, 2008","23 Dec, 2008",5:38:00,FALSE,FALSE,FALSE,12/10/2008,Soyuz TMA-13,ISS
+Expedition 18,Michael Fincke,303,"23 Dec, 2008","23 Dec, 2008",5:38:00,FALSE,FALSE,FALSE,12/10/2008,Soyuz TMA-13,ISS
+Expedition 18,Yuri Lonchakov,304,"10 Mar, 2009","10 Mar, 2009",4:49:00,FALSE,FALSE,FALSE,12/10/2008,Soyuz TMA-13,ISS
+Expedition 18,Michael Fincke,304,"10 Mar, 2009","10 Mar, 2009",4:49:00,FALSE,FALSE,FALSE,12/10/2008,Soyuz TMA-13,ISS
+STS-119,Steven Swanson,305,"19 Mar, 2009","19 Mar, 2009",6:07:00,FALSE,FALSE,FALSE,15/03/2009,"STS-119, Discovery",ISS
+STS-119,Richard R. Arnold,305,"19 Mar, 2009","19 Mar, 2009",6:07:00,FALSE,FALSE,FALSE,15/03/2009,"STS-119, Discovery",ISS
+STS-119,Steven Swanson,306,"21 Mar, 2009","21 Mar, 2009",6:30:00,FALSE,FALSE,FALSE,15/03/2009,"STS-119, Discovery",ISS
+STS-119,Joseph M. Acaba,306,"21 Mar, 2009","21 Mar, 2009",6:30:00,FALSE,FALSE,FALSE,15/03/2009,"STS-119, Discovery",ISS
+STS-119,Joseph M. Acaba,307,"23 Mar, 2009","23 Mar, 2009",6:27:00,FALSE,FALSE,FALSE,15/03/2009,"STS-119, Discovery",ISS
+STS-119,Richard R. Arnold,307,"23 Mar, 2009","23 Mar, 2009",6:27:00,FALSE,FALSE,FALSE,15/03/2009,"STS-119, Discovery",ISS
+STS-125,John Grunsfeld,308,"14 May, 2009","14 May, 2009",7:20:00,FALSE,FALSE,FALSE,11/05/2009,"STS-125, Atlantis",Earth Orbit
+STS-125,Andrew J. Feustel,308,"14 May, 2009","14 May, 2009",7:20:00,FALSE,FALSE,FALSE,11/05/2009,"STS-125, Atlantis",Earth Orbit
+STS-125,Michael Massimino,309,"15 May, 2009","15 May, 2009",7:56:00,FALSE,FALSE,FALSE,11/05/2009,"STS-125, Atlantis",Earth Orbit
+STS-125,Michael T. Good,309,"15 May, 2009","15 May, 2009",7:56:00,FALSE,FALSE,FALSE,11/05/2009,"STS-125, Atlantis",Earth Orbit
+STS-125,John Grunsfeld,310,"16 May, 2009","16 May, 2009",6:36:00,FALSE,FALSE,FALSE,11/05/2009,"STS-125, Atlantis",Earth Orbit
+STS-125,Andrew J. Feustel,310,"16 May, 2009","16 May, 2009",6:36:00,FALSE,FALSE,FALSE,11/05/2009,"STS-125, Atlantis",Earth Orbit
+STS-125,Michael Massimino,311,"17 May, 2009","17 May, 2009",8:02:00,FALSE,FALSE,FALSE,11/05/2009,"STS-125, Atlantis",Earth Orbit
+STS-125,Michael T. Good,311,"17 May, 2009","17 May, 2009",8:02:00,FALSE,FALSE,FALSE,11/05/2009,"STS-125, Atlantis",Earth Orbit
+STS-125,John Grunsfeld,312,"18 May, 2009","18 May, 2009",7:02:00,FALSE,FALSE,FALSE,11/05/2009,"STS-125, Atlantis",Earth Orbit
+STS-125,Andrew J. Feustel,312,"18 May, 2009","18 May, 2009",7:02:00,FALSE,FALSE,FALSE,11/05/2009,"STS-125, Atlantis",Earth Orbit
+Expedition 20,Gennady Padalka,313,"5 Jun, 2009","5 Jun, 2009",4:54:00,FALSE,FALSE,FALSE,26/03/2009,Soyuz TMA-14,ISS
+Expedition 20,Michael Barratt,313,"5 Jun, 2009","5 Jun, 2009",4:54:00,FALSE,FALSE,FALSE,26/03/2009,Soyuz TMA-14,ISS
+Expedition 20,Gennady Padalka,314,"10 Jun, 2009","10 Jun, 2009",0:12:00,FALSE,FALSE,FALSE,26/03/2009,Soyuz TMA-14,ISS
+Expedition 20,Michael Barratt,314,"10 Jun, 2009","10 Jun, 2009",0:12:00,FALSE,FALSE,FALSE,26/03/2009,Soyuz TMA-14,ISS
+STS-127,David Wolf,315,"18 Jul, 2009","18 Jul, 2009",5:32:00,FALSE,FALSE,FALSE,15/07/2009,"STS-127, Endeavour",ISS
+STS-127,Timothy L. Kopra,315,"18 Jul, 2009","18 Jul, 2009",5:32:00,FALSE,FALSE,FALSE,15/07/2009,"STS-127, Endeavour",ISS
+STS-127,David Wolf,316,"20 Jul, 2009","20 Jul, 2009",6:53:00,FALSE,FALSE,FALSE,15/07/2009,"STS-127, Endeavour",ISS
+STS-127,Thomas H. Marshburn,316,"20 Jul, 2009","20 Jul, 2009",6:53:00,FALSE,FALSE,FALSE,15/07/2009,"STS-127, Endeavour",ISS
+STS-127,David Wolf,317,"22 Jul, 2009","22 Jul, 2009",5:59:00,FALSE,FALSE,FALSE,15/07/2009,"STS-127, Endeavour",ISS
+STS-127,Christopher J. Cassidy,317,"22 Jul, 2009","22 Jul, 2009",5:59:00,FALSE,FALSE,FALSE,15/07/2009,"STS-127, Endeavour",ISS
+STS-127,Thomas H. Marshburn,318,"24 Jul, 2009","24 Jul, 2009",7:12:00,FALSE,FALSE,FALSE,15/07/2009,"STS-127, Endeavour",ISS
+STS-127,Christopher J. Cassidy,318,"24 Jul, 2009","24 Jul, 2009",7:12:00,FALSE,FALSE,FALSE,15/07/2009,"STS-127, Endeavour",ISS
+STS-127,Thomas H. Marshburn,319,"27 Jul, 2009","27 Jul, 2009",4:54:00,FALSE,FALSE,FALSE,15/07/2009,"STS-127, Endeavour",ISS
+STS-127,Christopher J. Cassidy,319,"27 Jul, 2009","27 Jul, 2009",4:54:00,FALSE,FALSE,FALSE,15/07/2009,"STS-127, Endeavour",ISS
+STS-128,John D. Olivas,320,"1 Sep, 2009","2 Sep, 2009",6:35:00,FALSE,FALSE,FALSE,29/08/2009,"STS-128, Discovery",ISS
+STS-128,Nicole Stott,320,"1 Sep, 2009","2 Sep, 2009",6:35:00,FALSE,FALSE,FALSE,29/08/2009,"STS-128, Discovery",ISS
+STS-128,Christer Fuglesang,321,"3 Sep, 2009","4 Sep, 2009",6:38:00,FALSE,FALSE,FALSE,29/08/2009,"STS-128, Discovery",ISS
+STS-128,John D. Olivas,321,"3 Sep, 2009","4 Sep, 2009",6:38:00,FALSE,FALSE,FALSE,29/08/2009,"STS-128, Discovery",ISS
+STS-128,Christer Fuglesang,322,"5 Sep, 2009","6 Sep, 2009",7:01:00,FALSE,FALSE,FALSE,29/08/2009,"STS-128, Discovery",ISS
+STS-128,John D. Olivas,322,"5 Sep, 2009","6 Sep, 2009",7:01:00,FALSE,FALSE,FALSE,29/08/2009,"STS-128, Discovery",ISS
+STS-129,Michael Foreman,323,"19 Nov, 2009","19 Nov, 2009",6:37:00,FALSE,FALSE,FALSE,16/11/2009,"STS-129, Atlantis",ISS
+STS-129,Robert Satcher,323,"19 Nov, 2009","19 Nov, 2009",6:37:00,FALSE,FALSE,FALSE,16/11/2009,"STS-129, Atlantis",ISS
+STS-129,Michael Foreman,324,"21 Nov, 2009","21 Nov, 2009",6:08:00,FALSE,FALSE,FALSE,16/11/2009,"STS-129, Atlantis",ISS
+STS-129,Randolph Bresnik,324,"21 Nov, 2009","21 Nov, 2009",6:08:00,FALSE,FALSE,FALSE,16/11/2009,"STS-129, Atlantis",ISS
+STS-129,Robert Satcher,325,"23 Nov, 2009","23 Nov, 2009",5:42:00,FALSE,FALSE,FALSE,16/11/2009,"STS-129, Atlantis",ISS
+STS-129,Randolph Bresnik,325,"23 Nov, 2009","23 Nov, 2009",5:42:00,FALSE,FALSE,FALSE,16/11/2009,"STS-129, Atlantis",ISS
+Expedition 22,Oleg Kotov,326,"14 Jan, 2010","14 Jan, 2010",5:44:00,FALSE,FALSE,FALSE,20/12/2009,Soyuz TMA-17,ISS
+Expedition 22,Maksim Surayev,326,"14 Jan, 2010","14 Jan, 2010",5:44:00,FALSE,FALSE,FALSE,30/09/2009,Soyuz TMA-16,ISS
+STS-130,Robert L. Behnken,327,"12 Feb, 2010","12 Feb, 2010",6:32:00,FALSE,FALSE,FALSE,8/02/2010,"STS-130, Endeavour",ISS
+STS-130,Nicholas Patrick,327,"12 Feb, 2010","12 Feb, 2010",6:32:00,FALSE,FALSE,FALSE,8/02/2010,"STS-130, Endeavour",ISS
+STS-130,Robert L. Behnken,328,"14 Feb, 2010","14 Feb, 2010",5:54:00,FALSE,FALSE,FALSE,8/02/2010,"STS-130, Endeavour",ISS
+STS-130,Nicholas Patrick,328,"14 Feb, 2010","14 Feb, 2010",5:54:00,FALSE,FALSE,FALSE,8/02/2010,"STS-130, Endeavour",ISS
+STS-130,Robert L. Behnken,329,"17 Feb, 2010","17 Feb, 2010",5:48:00,FALSE,FALSE,FALSE,8/02/2010,"STS-130, Endeavour",ISS
+STS-130,Nicholas Patrick,329,"17 Feb, 2010","17 Feb, 2010",5:48:00,FALSE,FALSE,FALSE,8/02/2010,"STS-130, Endeavour",ISS
+STS-131,Richard Mastracchio,330,"9 Apr, 2010","9 Apr, 2010",6:27:00,FALSE,FALSE,FALSE,5/04/2010,"STS-131, Discovery",ISS
+STS-131,Clayton Anderson,330,"9 Apr, 2010","9 Apr, 2010",6:27:00,FALSE,FALSE,FALSE,5/04/2010,"STS-131, Discovery",ISS
+STS-131,Richard Mastracchio,331,"11 Apr, 2010","11 Apr, 2010",7:26:00,FALSE,FALSE,FALSE,5/04/2010,"STS-131, Discovery",ISS
+STS-131,Clayton Anderson,331,"11 Apr, 2010","11 Apr, 2010",7:26:00,FALSE,FALSE,FALSE,5/04/2010,"STS-131, Discovery",ISS
+STS-131,Richard Mastracchio,332,"13 Apr, 2010","13 Apr, 2010",6:22:00,FALSE,FALSE,FALSE,5/04/2010,"STS-131, Discovery",ISS
+STS-131,Clayton Anderson,332,"13 Apr, 2010","13 Apr, 2010",6:22:00,FALSE,FALSE,FALSE,5/04/2010,"STS-131, Discovery",ISS
+STS-132,Garrett Reisman,333,"17 May, 2010","17 May, 2010",7:25:00,FALSE,FALSE,FALSE,14/05/2010,"STS-132, Atlantis",ISS
+STS-132,Stephen G. Bowen,333,"17 May, 2010","17 May, 2010",7:25:00,FALSE,FALSE,FALSE,14/05/2010,"STS-132, Atlantis",ISS
+STS-132,Stephen G. Bowen,334,"19 May, 2010","19 May, 2010",7:09:00,FALSE,FALSE,FALSE,14/05/2010,"STS-132, Atlantis",ISS
+STS-132,Michael T. Good,334,"19 May, 2010","19 May, 2010",7:09:00,FALSE,FALSE,FALSE,14/05/2010,"STS-132, Atlantis",ISS
+STS-132,Michael T. Good,335,"21 May, 2010","21 May, 2010",6:46:00,FALSE,FALSE,FALSE,14/05/2010,"STS-132, Atlantis",ISS
+STS-132,Garrett Reisman,335,"21 May, 2010","21 May, 2010",6:46:00,FALSE,FALSE,FALSE,14/05/2010,"STS-132, Atlantis",ISS
+Expedition 24,Fyodor Yurchikhin,336,"27 Jul, 2010","27 Jul, 2010",6:42:00,FALSE,FALSE,FALSE,15/06/2010,Soyuz TMA-19,ISS
+Expedition 24,Mikhail Korniyenko,336,"27 Jul, 2010","27 Jul, 2010",6:42:00,FALSE,FALSE,FALSE,2/04/2010,Soyuz TMA-18,ISS
+Expedition 24,Douglas H. Wheelock,337,"7 Aug, 2010","7 Aug, 2010",8:03:00,FALSE,FALSE,FALSE,15/06/2010,Soyuz TMA-19,ISS
+Expedition 24,Tracy Caldwell Dyson,337,"7 Aug, 2010","7 Aug, 2010",8:03:00,FALSE,FALSE,FALSE,2/04/2010,Soyuz TMA-18,ISS
+Expedition 24,Douglas H. Wheelock,338,"11 Aug, 2010","11 Aug, 2010",7:26:00,FALSE,FALSE,FALSE,15/06/2010,Soyuz TMA-19,ISS
+Expedition 24,Tracy Caldwell Dyson,338,"11 Aug, 2010","11 Aug, 2010",7:26:00,FALSE,FALSE,FALSE,2/04/2010,Soyuz TMA-18,ISS
+Expedition 24,Douglas H. Wheelock,339,"16 Aug, 2010","16 Aug, 2010",7:20:00,FALSE,FALSE,FALSE,15/06/2010,Soyuz TMA-19,ISS
+Expedition 24,Tracy Caldwell Dyson,339,"16 Aug, 2010","16 Aug, 2010",7:20:00,FALSE,FALSE,FALSE,2/04/2010,Soyuz TMA-18,ISS
+Expedition 25,Fyodor Yurchikhin,340,"15 Nov, 2010","15 Nov, 2010",6:27:00,FALSE,FALSE,FALSE,15/06/2010,Soyuz TMA-19,ISS
+Expedition 25,Oleg Skripochka,340,"15 Nov, 2010","15 Nov, 2010",6:27:00,FALSE,FALSE,FALSE,7/10/2010,Soyuz TMA-01M,ISS
+Expedition 26,Dmitri Kondratyev,341,"21 Jan, 2011","21 Jan, 2011",5:23:00,FALSE,FALSE,FALSE,15/12/2010,Soyuz TMA-20,ISS
+Expedition 26,Oleg Skripochka,341,"21 Jan, 2011","21 Jan, 2011",5:23:00,FALSE,FALSE,FALSE,7/10/2010,Soyuz TMA-01M,ISS
+Expedition 26,Dmitri Kondratyev,342,"16 Feb, 2011","16 Feb, 2011",4:51:00,FALSE,FALSE,FALSE,15/12/2010,Soyuz TMA-20,ISS
+Expedition 26,Oleg Skripochka,342,"16 Feb, 2011","16 Feb, 2011",4:51:00,FALSE,FALSE,FALSE,7/10/2010,Soyuz TMA-01M,ISS
+STS-133,B. Alvin Drew,343,"28 Feb, 2011","28 Feb, 2011",6:34:00,FALSE,FALSE,FALSE,24/02/2011,"STS-133, Discovery",ISS
+STS-133,Stephen G. Bowen,343,"28 Feb, 2011","28 Feb, 2011",6:34:00,FALSE,FALSE,FALSE,24/02/2011,"STS-133, Discovery",ISS
+STS-133,B. Alvin Drew,344,"2 Mar, 2011","2 Mar, 2011",6:14:00,FALSE,FALSE,FALSE,24/02/2011,"STS-133, Discovery",ISS
+STS-133,Stephen G. Bowen,344,"2 Mar, 2011","2 Mar, 2011",6:14:00,FALSE,FALSE,FALSE,24/02/2011,"STS-133, Discovery",ISS
+STS-134,Andrew J. Feustel,345,"20 May, 2011","20 May, 2011",6:19:00,FALSE,FALSE,FALSE,16/05/2011,"STS-134, Endeavour",ISS
+STS-134,Gregory Chamitoff,345,"20 May, 2011","20 May, 2011",6:19:00,FALSE,FALSE,FALSE,16/05/2011,"STS-134, Endeavour",ISS
+STS-134,Andrew J. Feustel,346,"22 May, 2011","22 May, 2011",8:07:00,FALSE,FALSE,FALSE,16/05/2011,"STS-134, Endeavour",ISS
+STS-134,Michael Fincke,346,"22 May, 2011","22 May, 2011",8:07:00,FALSE,FALSE,FALSE,16/05/2011,"STS-134, Endeavour",ISS
+STS-134,Andrew J. Feustel,347,"25 May, 2011","25 May, 2011",6:54:00,FALSE,FALSE,FALSE,16/05/2011,"STS-134, Endeavour",ISS
+STS-134,Michael Fincke,347,"25 May, 2011","25 May, 2011",6:54:00,FALSE,FALSE,FALSE,16/05/2011,"STS-134, Endeavour",ISS
+STS-134,Michael Fincke,348,"27 May, 2011","27 May, 2011",7:24:00,FALSE,FALSE,FALSE,16/05/2011,"STS-134, Endeavour",ISS
+STS-134,Gregory Chamitoff,348,"27 May, 2011","27 May, 2011",7:24:00,FALSE,FALSE,FALSE,16/05/2011,"STS-134, Endeavour",ISS
+Expedition 28,Ronald Garan,349,"12 Jul, 2011","12 Jul, 2011",6:31:00,FALSE,FALSE,FALSE,4/04/2011,Soyuz TMA-21,ISS
+Expedition 28,Michael Fossum,349,"12 Jul, 2011","12 Jul, 2011",6:31:00,FALSE,FALSE,FALSE,7/06/2011,Soyuz TMA-02M,ISS
+Expedition 28,Sergey Volkov,350,"3 Aug, 2011","3 Aug, 2011",6:23:00,FALSE,FALSE,FALSE,7/06/2011,Soyuz TMA-02M,ISS
+Expedition 28,Aleksandr Samokutyayev,350,"3 Aug, 2011","3 Aug, 2011",6:23:00,FALSE,FALSE,FALSE,4/04/2011,Soyuz TMA-21,ISS
+Expedition 30,Oleg Kononenko,351,"16 Feb, 2012","16 Feb, 2012",6:15:00,FALSE,FALSE,FALSE,21/12/2011,Soyuz TMA-03M,ISS
+Expedition 30,Anton Shkaplerov,351,"16 Feb, 2012","16 Feb, 2012",6:15:00,FALSE,FALSE,FALSE,14/11/2011,Soyuz TMA-22,ISS
+Expedition 32,Gennady Padalka,352,"20 Aug, 2012","20 Aug, 2012",5:51:00,FALSE,FALSE,FALSE,15/05/2012,Soyuz TMA-04M,ISS
+Expedition 32,Yuri Malenchenko,352,"20 Aug, 2012","20 Aug, 2012",5:51:00,FALSE,FALSE,FALSE,15/07/2012,Soyuz TMA-05M,ISS
+Expedition 32,Sunita Williams,353,"30 Aug, 2012","30 Aug, 2012",8:17:00,FALSE,FALSE,FALSE,15/07/2012,Soyuz TMA-05M,ISS
+Expedition 32,Akihiko Hoshide,353,"30 Aug, 2012","30 Aug, 2012",8:17:00,FALSE,FALSE,FALSE,15/07/2012,Soyuz TMA-05M,ISS
+Expedition 32,Sunita Williams,354,"5 Sep, 2012","5 Sep, 2012",6:28:00,FALSE,FALSE,FALSE,15/07/2012,Soyuz TMA-05M,ISS
+Expedition 32,Akihiko Hoshide,354,"5 Sep, 2012","5 Sep, 2012",6:28:00,FALSE,FALSE,FALSE,15/07/2012,Soyuz TMA-05M,ISS
+Expedition 33,Sunita Williams,355,"1 Nov, 2012","1 Nov, 2012",6:38:00,FALSE,FALSE,FALSE,15/07/2012,Soyuz TMA-05M,ISS
+Expedition 33,Akihiko Hoshide,355,"1 Nov, 2012","1 Nov, 2012",6:38:00,FALSE,FALSE,FALSE,15/07/2012,Soyuz TMA-05M,ISS
+Expedition 35,Pavel Vinogradov,356,"19 Apr, 2013","19 Apr, 2013",6:38:00,FALSE,FALSE,FALSE,28/03/2013,Soyuz TMA-08M,ISS
+Expedition 35,Roman Romanenko,356,"19 Apr, 2013","19 Apr, 2013",6:38:00,FALSE,FALSE,FALSE,19/12/2012,Soyuz TMA-07M,ISS
+Expedition 35,Christopher J. Cassidy,357,"11 May, 2013","11 May, 2013",5:30:00,FALSE,FALSE,FALSE,28/03/2013,Soyuz TMA-08M,ISS
+Expedition 35,Thomas H. Marshburn,357,"11 May, 2013","11 May, 2013",5:30:00,FALSE,FALSE,FALSE,19/12/2012,Soyuz TMA-07M,ISS
+Expedition 36,Fyodor Yurchikhin,358,"24 Jun, 2013","24 Jun, 2013",6:34:00,FALSE,FALSE,FALSE,28/05/2013,Soyuz TMA-09M,ISS
+Expedition 36,Alexander Misurkin,358,"24 Jun, 2013","24 Jun, 2013",6:34:00,FALSE,FALSE,FALSE,28/03/2013,Soyuz TMA-08M,ISS
+Expedition 36,Christopher J. Cassidy,359,"9 Jul, 2013","9 Jul, 2013",6:07:00,FALSE,FALSE,FALSE,28/03/2013,Soyuz TMA-08M,ISS
+Expedition 36,Luca Parmitano,359,"9 Jul, 2013","9 Jul, 2013",6:07:00,FALSE,FALSE,FALSE,28/05/2013,Soyuz TMA-09M,ISS
+Expedition 36,Christopher J. Cassidy,360,"16 Jul, 2013","16 Jul, 2013",1:32:00,FALSE,FALSE,FALSE,28/03/2013,Soyuz TMA-08M,ISS
+Expedition 36,Luca Parmitano,360,"16 Jul, 2013","16 Jul, 2013",1:32:00,FALSE,FALSE,FALSE,28/05/2013,Soyuz TMA-09M,ISS
+Expedition 36,Fyodor Yurchikhin,361,"16 Aug, 2013","16 Aug, 2013",7:29:00,FALSE,FALSE,FALSE,28/05/2013,Soyuz TMA-09M,ISS
+Expedition 36,Alexander Misurkin,361,"16 Aug, 2013","16 Aug, 2013",7:29:00,FALSE,FALSE,FALSE,28/03/2013,Soyuz TMA-08M,ISS
+Expedition 36,Fyodor Yurchikhin,362,"22 Aug, 2013","22 Aug, 2013",5:58:00,FALSE,FALSE,FALSE,28/05/2013,Soyuz TMA-09M,ISS
+Expedition 36,Alexander Misurkin,362,"22 Aug, 2013","22 Aug, 2013",5:58:00,FALSE,FALSE,FALSE,28/03/2013,Soyuz TMA-08M,ISS
+Expedition 37,Oleg Kotov,363,"9 Nov, 2013","9 Nov, 2013",5:50:00,FALSE,FALSE,FALSE,25/09/2013,Soyuz TMA-10M,ISS
+Expedition 37,Sergey Ryazansky,363,"9 Nov, 2013","9 Nov, 2013",5:50:00,FALSE,FALSE,FALSE,25/09/2013,Soyuz TMA-10M,ISS
+Expedition 38,Richard Mastracchio,364,"21 Dec, 2013","21 Dec, 2013",5:28:00,FALSE,FALSE,FALSE,7/11/2013,Soyuz TMA-11M,ISS
+Expedition 38,Michael S. Hopkins,364,"21 Dec, 2013","21 Dec, 2013",5:28:00,FALSE,FALSE,FALSE,25/09/2013,Soyuz TMA-10M,ISS
+Expedition 38,Richard Mastracchio,365,"24 Dec, 2013","24 Dec, 2013",7:30:00,FALSE,FALSE,FALSE,7/11/2013,Soyuz TMA-11M,ISS
+Expedition 38,Michael S. Hopkins,365,"24 Dec, 2013","24 Dec, 2013",7:30:00,FALSE,FALSE,FALSE,25/09/2013,Soyuz TMA-10M,ISS
+Expedition 38,Oleg Kotov,366,"27 Dec, 2013","27 Dec, 2013",8:07:00,FALSE,FALSE,FALSE,25/09/2013,Soyuz TMA-10M,ISS
+Expedition 38,Sergey Ryazansky,366,"27 Dec, 2013","27 Dec, 2013",8:07:00,FALSE,FALSE,FALSE,25/09/2013,Soyuz TMA-10M,ISS
+Expedition 38,Oleg Kotov,367,"27 Jan, 2014","27 Jan, 2014",6:08:00,FALSE,FALSE,FALSE,25/09/2013,Soyuz TMA-10M,ISS
+Expedition 38,Sergey Ryazansky,367,"27 Jan, 2014","27 Jan, 2014",6:08:00,FALSE,FALSE,FALSE,25/09/2013,Soyuz TMA-10M,ISS
+Expedition 39,Richard Mastracchio,368,"23 Apr, 2014","23 Apr, 2014",1:36:00,FALSE,FALSE,FALSE,7/11/2013,Soyuz TMA-11M,ISS
+Expedition 39,Steven Swanson,368,"23 Apr, 2014","23 Apr, 2014",1:36:00,FALSE,FALSE,FALSE,25/03/2014,Soyuz TMA-12M,ISS
+Expedition 40,Aleksandr Skvortsov,369,"19 Jun, 2014","19 Jun, 2014",7:23:00,FALSE,FALSE,FALSE,25/03/2014,Soyuz TMA-12M,ISS
+Expedition 40,Oleg Artemyev,369,"19 Jun, 2014","19 Jun, 2014",7:23:00,FALSE,FALSE,FALSE,25/03/2014,Soyuz TMA-12M,ISS
+Expedition 40,Aleksandr Skvortsov,370,"18 Aug, 2014","18 Aug, 2014",5:11:00,FALSE,FALSE,FALSE,25/03/2014,Soyuz TMA-12M,ISS
+Expedition 40,Oleg Artemyev,370,"18 Aug, 2014","18 Aug, 2014",5:11:00,FALSE,FALSE,FALSE,25/03/2014,Soyuz TMA-12M,ISS
+Expedition 41,Gregory R. Wiseman,371,"7 Oct, 2014","7 Oct, 2014",6:13:00,FALSE,FALSE,FALSE,28/05/2014,Soyuz TMA-13M,ISS
+Expedition 41,Alexander Gerst,371,"7 Oct, 2014","7 Oct, 2014",6:13:00,FALSE,FALSE,FALSE,28/05/2014,Soyuz TMA-13M,ISS
+Expedition 41,Gregory R. Wiseman,372,"15 Oct, 2014","15 Oct, 2014",6:34:00,FALSE,FALSE,FALSE,28/05/2014,Soyuz TMA-13M,ISS
+Expedition 41,Barry Wilmore,372,"15 Oct, 2014","15 Oct, 2014",6:34:00,FALSE,FALSE,FALSE,25/09/2014,Soyuz TMA-14M,ISS
+Expedition 41,Maksim Surayev,373,"22 Oct, 2014","22 Oct, 2014",3:38:00,FALSE,FALSE,FALSE,28/05/2014,Soyuz TMA-13M,ISS
+Expedition 41,Aleksandr Samokutyayev,373,"22 Oct, 2014","22 Oct, 2014",3:38:00,FALSE,FALSE,FALSE,25/09/2014,Soyuz TMA-14M,ISS
+Expedition 42/43,Barry Wilmore,374,"21 Feb, 2015","21 Feb, 2015",6:41:00,FALSE,FALSE,FALSE,25/09/2014,Soyuz TMA-14M,ISS
+Expedition 42/43,Terry W. Virts,374,"21 Feb, 2015","21 Feb, 2015",6:41:00,FALSE,FALSE,FALSE,23/11/2014,Soyuz TMA-15M,ISS
+Expedition 42/43,Barry Wilmore,375,"25 Feb, 2015","25 Feb, 2015",6:43:00,FALSE,FALSE,FALSE,25/09/2014,Soyuz TMA-14M,ISS
+Expedition 42/43,Terry W. Virts,375,"25 Feb, 2015","25 Feb, 2015",6:43:00,FALSE,FALSE,FALSE,23/11/2014,Soyuz TMA-15M,ISS
+Expedition 42/43,Terry W. Virts,376,"1 Mar, 2015","1 Mar, 2015",5:38:00,FALSE,FALSE,FALSE,23/11/2014,Soyuz TMA-15M,ISS
+Expedition 42/43,Barry Wilmore,376,"1 Mar, 2015","1 Mar, 2015",5:38:00,FALSE,FALSE,FALSE,25/09/2014,Soyuz TMA-14M,ISS
+Expedition 44/45,Gennady Padalka,377,"10 Aug, 2015","10 Aug, 2015",5:31:00,FALSE,FALSE,FALSE,27/03/2015,Soyuz TMA-16M,ISS
+Expedition 44/45,Mikhail Korniyenko,377,"10 Aug, 2015","10 Aug, 2015",5:31:00,FALSE,FALSE,FALSE,27/03/2015,Soyuz TMA-16M,ISS
+Expedition 45,Scott Kelly,378,"28 Oct, 2015","28 Oct, 2015",7:16:00,FALSE,FALSE,FALSE,27/03/2015,Soyuz TMA-16M,ISS
+Expedition 45,Kjell N. Lindgren,378,"28 Oct, 2015","28 Oct, 2015",7:16:00,FALSE,FALSE,FALSE,22/07/2015,Soyuz TMA-17M,ISS
+Expedition 45,Scott Kelly,379,"6 Nov, 2015","6 Nov, 2015",7:48:00,FALSE,FALSE,FALSE,27/03/2015,Soyuz TMA-16M,ISS
+Expedition 45,Kjell N. Lindgren,379,"6 Nov, 2015","6 Nov, 2015",7:48:00,FALSE,FALSE,FALSE,22/07/2015,Soyuz TMA-17M,ISS
+Expedition 46,Scott Kelly,380,"21 Dec, 2015","21 Dec, 2015",3:16:00,FALSE,FALSE,FALSE,27/03/2015,Soyuz TMA-16M,ISS
+Expedition 46,Timothy L. Kopra,380,"21 Dec, 2015","21 Dec, 2015",3:16:00,FALSE,FALSE,FALSE,15/12/2015,Soyuz TMA-19M,ISS
+Expedition 46,Timothy L. Kopra,381,"15 Jan, 2016","15 Jan, 2016",4:43:00,FALSE,FALSE,FALSE,15/12/2015,Soyuz TMA-19M,ISS
+Expedition 46,Tim Peake,381,"15 Jan, 2016","15 Jan, 2016",4:43:00,FALSE,FALSE,FALSE,15/12/2015,Soyuz TMA-19M,ISS
+Expedition 46,Yuri Malenchenko,382,"3 Feb, 2016","3 Feb, 2016",4:45:00,FALSE,FALSE,FALSE,15/12/2015,Soyuz TMA-19M,ISS
+Expedition 46,Sergey Volkov,382,"3 Feb, 2016","3 Feb, 2016",4:45:00,FALSE,FALSE,FALSE,2/09/2015,Soyuz TMA-18M,ISS
+Expedition 48,Jeffrey Williams,383,"19 Aug, 2016","19 Aug, 2016",5:58:00,FALSE,FALSE,FALSE,18/03/2016,Soyuz TMA-20M,ISS
+Expedition 48,Kathleen Rubins,383,"19 Aug, 2016","19 Aug, 2016",5:58:00,FALSE,FALSE,FALSE,7/07/2016,Soyuz MS-01,ISS
+Expedition 48,Jeffrey Williams,384,"1 Sep, 2016","1 Sep, 2016",6:48:00,FALSE,FALSE,FALSE,18/03/2016,Soyuz TMA-20M,ISS
+Expedition 48,Kathleen Rubins,384,"1 Sep, 2016","1 Sep, 2016",6:48:00,FALSE,FALSE,FALSE,7/07/2016,Soyuz MS-01,ISS
+Expedition 50,Robert S. Kimbrough,385,"6 Jan, 2017","6 Jan, 2017",6:31:00,FALSE,FALSE,FALSE,19/10/2016,Soyuz MS-02,ISS
+Expedition 50,Peggy Whitson,385,"6 Jan, 2017","6 Jan, 2017",6:31:00,FALSE,FALSE,FALSE,17/11/2016,Soyuz MS-03,ISS
+Expedition 50,Robert S. Kimbrough,386,"13 Jan, 2017","13 Jan, 2017",5:58:00,FALSE,FALSE,FALSE,19/10/2016,Soyuz MS-02,ISS
+Expedition 50,Thomas Pesquet,386,"13 Jan, 2017","13 Jan, 2017",5:58:00,FALSE,FALSE,FALSE,17/11/2016,Soyuz MS-03,ISS
+Expedition 50,Robert S. Kimbrough,387,"24 Mar, 2017","24 Mar, 2017",6:34:00,FALSE,FALSE,FALSE,19/10/2016,Soyuz MS-02,ISS
+Expedition 50,Thomas Pesquet,387,"24 Mar, 2017","24 Mar, 2017",6:34:00,FALSE,FALSE,FALSE,17/11/2016,Soyuz MS-03,ISS
+Expedition 50,Robert S. Kimbrough,388,"30 Mar, 2017","30 Mar, 2017",7:04:00,FALSE,FALSE,FALSE,19/10/2016,Soyuz MS-02,ISS
+Expedition 50,Peggy Whitson,388,"30 Mar, 2017","30 Mar, 2017",7:04:00,FALSE,FALSE,FALSE,17/11/2016,Soyuz MS-03,ISS
+Expedition 51,Peggy Whitson,389,"12 May, 2017","12 May, 2017",4:20:00,FALSE,FALSE,FALSE,17/11/2016,Soyuz MS-03,ISS
+Expedition 51,Jack D. Fischer,389,"12 May, 2017","12 May, 2017",4:20:00,FALSE,FALSE,FALSE,2/04/2017,Soyuz MS-04,ISS
+Expedition 51,Peggy Whitson,390,"23 May, 2017","23 May, 2017",2:46:00,FALSE,FALSE,FALSE,17/11/2016,Soyuz MS-03,ISS
+Expedition 51,Jack D. Fischer,390,"23 May, 2017","23 May, 2017",2:46:00,FALSE,FALSE,FALSE,2/04/2017,Soyuz MS-04,ISS
+Expedition 52,Fyodor Yurchikhin,391,"17 Aug, 2017","17 Aug, 2017",7:34:00,FALSE,FALSE,FALSE,2/04/2017,Soyuz MS-04,ISS
+Expedition 52,Sergey Ryazansky,391,"17 Aug, 2017","17 Aug, 2017",7:34:00,FALSE,FALSE,FALSE,28/07/2017,Soyuz MS-05,ISS
+Expedition 53,Randolph Bresnik,392,"5 Oct, 2017","5 Oct, 2017",6:55:00,FALSE,FALSE,FALSE,28/07/2017,Soyuz MS-05,ISS
+Expedition 53,Mark T. Vande Hei,392,"5 Oct, 2017","5 Oct, 2017",6:55:00,FALSE,FALSE,FALSE,12/09/2017,Soyuz MS-06,ISS
+Expedition 53,Randolph Bresnik,393,"10 Oct, 2017","10 Oct, 2017",6:26:00,FALSE,FALSE,FALSE,28/07/2017,Soyuz MS-05,ISS
+Expedition 53,Mark T. Vande Hei,393,"10 Oct, 2017","10 Oct, 2017",6:26:00,FALSE,FALSE,FALSE,12/09/2017,Soyuz MS-06,ISS
+Expedition 53,Randolph Bresnik,394,"20 Oct, 2017","20 Oct, 2017",6:49:00,FALSE,FALSE,FALSE,28/07/2017,Soyuz MS-05,ISS
+Expedition 53,Joseph M. Acaba,394,"20 Oct, 2017","20 Oct, 2017",6:49:00,FALSE,FALSE,FALSE,12/09/2017,Soyuz MS-06,ISS
+Expedition 54,Mark T. Vande Hei,395,"23 Jan, 2018","23 Jan, 2018",7:24:00,FALSE,FALSE,FALSE,12/09/2017,Soyuz MS-06,ISS
+Expedition 54,Scott Tingle,395,"23 Jan, 2018","23 Jan, 2018",7:24:00,FALSE,FALSE,FALSE,17/12/2017,Soyuz MS-07,ISS
+Expedition 54,Alexander Misurkin,396,"2 Feb, 2018","2 Feb, 2018",8:13:00,FALSE,FALSE,FALSE,12/09/2017,Soyuz MS-06,ISS
+Expedition 54,Anton Shkaplerov,396,"2 Feb, 2018","2 Feb, 2018",8:13:00,FALSE,FALSE,FALSE,17/12/2017,Soyuz MS-07,ISS
+Expedition 54,Mark T. Vande Hei,397,"16 Feb, 2018","16 Feb, 2018",5:57:00,FALSE,FALSE,FALSE,12/09/2017,Soyuz MS-06,ISS
+Expedition 54,Norishige Kanai,397,"16 Feb, 2018","16 Feb, 2018",5:57:00,FALSE,FALSE,FALSE,17/12/2017,Soyuz MS-07,ISS
+Expedition 55,Andrew J. Feustel,398,"29 Mar, 2018","29 Mar, 2018",6:10:00,FALSE,FALSE,FALSE,21/03/2018,Soyuz MS-08,ISS
+Expedition 55,Richard R. Arnold,398,"29 Mar, 2018","29 Mar, 2018",6:10:00,FALSE,FALSE,FALSE,21/03/2018,Soyuz MS-08,ISS
+Expedition 55,Andrew J. Feustel,399,"16 May, 2018","16 May, 2018",6:31:00,FALSE,FALSE,FALSE,21/03/2018,Soyuz MS-08,ISS
+Expedition 55,Richard R. Arnold,399,"16 May, 2018","16 May, 2018",6:31:00,FALSE,FALSE,FALSE,21/03/2018,Soyuz MS-08,ISS
+Expedition 56,Andrew J. Feustel,400,"14 Jun, 2018","14 Jun, 2018",6:49:00,FALSE,FALSE,FALSE,21/03/2018,Soyuz MS-08,ISS
+Expedition 56,Richard R. Arnold,400,"14 Jun, 2018","14 Jun, 2018",6:49:00,FALSE,FALSE,FALSE,21/03/2018,Soyuz MS-08,ISS
+Expedition 56,Oleg Artemyev,401,"15 Aug, 2018","16 Aug, 2018",7:46:00,FALSE,FALSE,FALSE,21/03/2018,Soyuz MS-08,ISS
+Expedition 56,Sergey Prokopyev,401,"15 Aug, 2018","16 Aug, 2018",7:46:00,FALSE,FALSE,FALSE,6/06/2018,Soyuz MS-09,ISS
+Expedition 57,Oleg Kononenko,402,"11 Dec, 2018","11 Dec, 2018",5:45:00,FALSE,FALSE,FALSE,3/12/2018,Soyuz MS-11,ISS
+Expedition 57,Sergey Prokopyev,402,"11 Dec, 2018","11 Dec, 2018",5:45:00,FALSE,FALSE,FALSE,6/06/2018,Soyuz MS-09,ISS
+Expedition 59,Anne McClain,403,"22 Mar, 2019","22 Mar, 2019",6:39:00,FALSE,FALSE,FALSE,3/12/2018,Soyuz MS-11,ISS
+Expedition 59,Nick Hague,403,"22 Mar, 2019","22 Mar, 2019",6:39:00,FALSE,FALSE,FALSE,14/03/2019,Soyuz MS-12,ISS
+Expedition 59,Nick Hague,404,"29 Mar, 2019","29 Mar, 2019",6:45:00,FALSE,FALSE,FALSE,14/03/2019,Soyuz MS-12,ISS
+Expedition 59,Christina Koch,404,"29 Mar, 2019","29 Mar, 2019",6:45:00,FALSE,FALSE,FALSE,14/03/2019,Soyuz MS-12,ISS
+Expedition 59,Anne McClain,405,"8 Apr, 2019","8 Apr, 2019",6:29:00,FALSE,FALSE,FALSE,3/12/2018,Soyuz MS-11,ISS
+Expedition 59,David Saint-Jacques,405,"8 Apr, 2019","8 Apr, 2019",6:29:00,FALSE,FALSE,FALSE,3/12/2018,Soyuz MS-11,ISS
+Expedition 59,Oleg Kononenko,406,"29 May, 2019","29 May, 2019",6:01:00,FALSE,FALSE,FALSE,3/12/2018,Soyuz MS-11,ISS
+Expedition 59,Aleksey Ovchinin,406,"29 May, 2019","29 May, 2019",6:01:00,FALSE,FALSE,FALSE,14/03/2019,Soyuz MS-12,ISS
+Expedition 60,Nick Hague,407,"21 Aug, 2019","21 Aug, 2019",6:32:00,FALSE,FALSE,FALSE,14/03/2019,Soyuz MS-12,ISS
+Expedition 60,Andrew Morgan,407,"21 Aug, 2019","21 Aug, 2019",6:32:00,FALSE,FALSE,FALSE,20/07/2019,Soyuz MS-13,ISS
+Expedition 61,Christina Koch,408,"6 Oct, 2019","6 Oct, 2019",7:01:00,FALSE,FALSE,FALSE,14/03/2019,Soyuz MS-12,ISS
+Expedition 61,Andrew Morgan,408,"6 Oct, 2019","6 Oct, 2019",7:01:00,FALSE,FALSE,FALSE,20/07/2019,Soyuz MS-13,ISS
+Expedition 61,Andrew Morgan,409,"11 Oct, 2019","11 Oct, 2019",6:45:00,FALSE,FALSE,FALSE,20/07/2019,Soyuz MS-13,ISS
+Expedition 61,Christina Koch,409,"11 Oct, 2019","11 Oct, 2019",6:45:00,FALSE,FALSE,FALSE,14/03/2019,Soyuz MS-12,ISS
+Expedition 61,Christina Koch,410,"18 Oct, 2019","18 Oct, 2019",7:17:00,FALSE,FALSE,FALSE,14/03/2019,Soyuz MS-12,ISS
+Expedition 61,Jessica Meir,410,"18 Oct, 2019","18 Oct, 2019",7:17:00,FALSE,FALSE,FALSE,25/09/2019,Soyuz MS-15,ISS
+Expedition 61,Luca Parmitano,411,"15 Nov, 2019","15 Nov, 2019",6:39:00,FALSE,FALSE,FALSE,20/07/2019,Soyuz MS-13,ISS
+Expedition 61,Andrew Morgan,411,"15 Nov, 2019","15 Nov, 2019",6:39:00,FALSE,FALSE,FALSE,20/07/2019,Soyuz MS-13,ISS
+Expedition 61,Luca Parmitano,412,"22 Nov, 2019","22 Nov, 2019",6:33:00,FALSE,FALSE,FALSE,20/07/2019,Soyuz MS-13,ISS
+Expedition 61,Andrew Morgan,412,"22 Nov, 2019","22 Nov, 2019",6:33:00,FALSE,FALSE,FALSE,20/07/2019,Soyuz MS-13,ISS
+Expedition 61,Luca Parmitano,413,"2 Dec, 2019","2 Dec, 2019",6:02:00,FALSE,FALSE,FALSE,20/07/2019,Soyuz MS-13,ISS
+Expedition 61,Andrew Morgan,413,"2 Dec, 2019","2 Dec, 2019",6:02:00,FALSE,FALSE,FALSE,20/07/2019,Soyuz MS-13,ISS
+Expedition 61,Christina Koch,414,"15 Jan, 2020","15 Jan, 2020",7:29:00,FALSE,FALSE,FALSE,14/03/2019,Soyuz MS-12,ISS
+Expedition 61,Jessica Meir,414,"15 Jan, 2020","15 Jan, 2020",7:29:00,FALSE,FALSE,FALSE,25/09/2019,Soyuz MS-15,ISS
+Expedition 61,Christina Koch,415,"20 Jan, 2020","20 Jan, 2020",6:58:00,FALSE,FALSE,FALSE,14/03/2019,Soyuz MS-12,ISS
+Expedition 61,Jessica Meir,415,"20 Jan, 2020","20 Jan, 2020",6:58:00,FALSE,FALSE,FALSE,25/09/2019,Soyuz MS-15,ISS
+Expedition 61,Andrew Morgan,416,"25 Jan, 2020","25 Jan, 2020",6:16:00,FALSE,FALSE,FALSE,20/07/2019,Soyuz MS-13,ISS
+Expedition 61,Luca Parmitano,416,"25 Jan, 2020","25 Jan, 2020",6:16:00,FALSE,FALSE,FALSE,20/07/2019,Soyuz MS-13,ISS
+Expedition 63,Christopher J. Cassidy,417,"26 Jun, 2020","26 Jun, 2020",6:07:00,FALSE,FALSE,FALSE,9/04/2020,Soyuz MS-16,ISS
+Expedition 63,Robert L. Behnken,417,"26 Jun, 2020","26 Jun, 2020",6:07:00,FALSE,FALSE,FALSE,30/05/2020,SpaceX Demo-2,ISS
+Expedition 63,Christopher J. Cassidy,418,"1 Jul, 2020","1 Jul, 2020",6:01:00,FALSE,FALSE,FALSE,9/04/2020,Soyuz MS-16,ISS
+Expedition 63,Robert L. Behnken,418,"1 Jul, 2020","1 Jul, 2020",6:01:00,FALSE,FALSE,FALSE,30/05/2020,SpaceX Demo-2,ISS
+Expedition 63,Christopher J. Cassidy,419,"16 Jul, 2020","16 Jul, 2020",6:00:00,FALSE,FALSE,FALSE,9/04/2020,Soyuz MS-16,ISS
+Expedition 63,Robert L. Behnken,419,"16 Jul, 2020","16 Jul, 2020",6:00:00,FALSE,FALSE,FALSE,30/05/2020,SpaceX Demo-2,ISS
+Expedition 63,Christopher J. Cassidy,420,"21 Jul, 2020","21 Jul, 2020",5:29:00,FALSE,FALSE,FALSE,9/04/2020,Soyuz MS-16,ISS
+Expedition 63,Robert L. Behnken,420,"21 Jul, 2020","21 Jul, 2020",5:29:00,FALSE,FALSE,FALSE,30/05/2020,SpaceX Demo-2,ISS

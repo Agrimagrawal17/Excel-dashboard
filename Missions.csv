@@ -1,0 +1,1292 @@
+Crew Name,Spacecraft (Launch),Spacecraft (Return),Changed craft,Duration (days),Launch date,Return date,Destination,Space Station,Mission Result
+Yuri Gagarin,Vostok 1,Vostok 1,FALSE,0.07,21/04/1961,21/04/1961,Earth Orbit,None visited,Returned
+Alan Shepard,Mercury-Redstone 3,Mercury-Redstone 3,FALSE,0.01,5/05/1961,5/05/1961,Non-orbital space,None visited,Returned
+Virgil Grissom,Mercury-Redstone 4,Mercury-Redstone 4,FALSE,0.01,21/07/1961,21/07/1961,Non-orbital space,None visited,Returned
+Gherman Titov,Vostok 2,Vostok 2,FALSE,1.05,6/08/1961,7/08/1961,Earth Orbit,None visited,Returned
+John Glenn,Mercury-Atlas 6,Mercury-Atlas 6,FALSE,0.21,20/02/1962,20/02/1962,Earth Orbit,None visited,Returned
+Scott Carpenter,Mercury-Atlas 7,Mercury-Atlas 7,FALSE,0.21,24/05/1962,24/05/1962,Earth Orbit,None visited,Returned
+Andriyan Nikolayev,Vostok 3,Vostok 3,FALSE,3.94,11/08/1962,15/08/1962,Earth Orbit,None visited,Returned
+Pavel Popovich,Vostok 4,Vostok 4,FALSE,2.96,12/08/1962,15/08/1962,Earth Orbit,None visited,Returned
+Wally Schirra,Mercury-Atlas 8,Mercury-Atlas 8,FALSE,0.38,3/10/1962,3/10/1962,Earth Orbit,None visited,Returned
+Gordon Cooper,Mercury-Atlas 9,Mercury-Atlas 9,FALSE,1.43,15/05/1963,16/05/1963,Earth Orbit,None visited,Returned
+Valery Bykovsky,Vostok 5,Vostok 5,FALSE,4.96,14/06/1963,19/06/1963,Earth Orbit,None visited,Returned
+Valentina Tereshkova,Vostok 6,Vostok 6,FALSE,2.95,16/06/1963,19/06/1963,Earth Orbit,None visited,Returned
+Joseph A. Walker,"X-15, Flight 90","X-15, Flight 90",FALSE,0.01,19/07/1963,19/07/1963,Non-orbital space,None visited,Returned
+Joseph A. Walker,"X-15, Flight 91","X-15, Flight 91",FALSE,0.01,22/08/1963,22/08/1963,Non-orbital space,None visited,Returned
+Boris Yegorov,Voskhod 1,Voskhod 1,FALSE,1.01,12/10/1964,13/10/1964,Earth Orbit,None visited,Returned
+Konstantin Feoktistov,Voskhod 1,Voskhod 1,FALSE,1.01,12/10/1964,13/10/1964,Earth Orbit,None visited,Returned
+Vladimir Komarov,Voskhod 1,Voskhod 1,FALSE,1.01,12/10/1964,13/10/1964,Earth Orbit,None visited,Returned
+Alexei Leonov,Voskhod 2,Voskhod 2,FALSE,1.08,18/03/1965,19/03/1965,Earth Orbit,None visited,Returned
+Pavel Belyayev,Voskhod 2,Voskhod 2,FALSE,1.08,18/03/1965,19/03/1965,Earth Orbit,None visited,Returned
+John Young,Gemini 3,Gemini 3,FALSE,0.20,23/03/1965,23/03/1965,Earth Orbit,None visited,Returned
+Virgil Grissom,Gemini 3,Gemini 3,FALSE,0.20,23/03/1965,23/03/1965,Earth Orbit,None visited,Returned
+Ed White,Gemini 4,Gemini 4,FALSE,4.08,3/06/1965,7/06/1965,Earth Orbit,None visited,Returned
+James McDivitt,Gemini 4,Gemini 4,FALSE,4.08,3/06/1965,7/06/1965,Earth Orbit,None visited,Returned
+Gordon Cooper,Gemini 5,Gemini 5,FALSE,7.95,21/08/1965,29/08/1965,Earth Orbit,None visited,Returned
+Pete Conrad,Gemini 5,Gemini 5,FALSE,7.95,21/08/1965,29/08/1965,Earth Orbit,None visited,Returned
+Frank Borman,Gemini 7,Gemini 7,FALSE,13.77,4/12/1965,18/12/1965,Earth Orbit,None visited,Returned
+Jim Lovell,Gemini 7,Gemini 7,FALSE,13.77,4/12/1965,18/12/1965,Earth Orbit,None visited,Returned
+Thomas P. Stafford,Gemini 6,Gemini 6,FALSE,1.08,15/12/1965,16/12/1965,Earth Orbit,None visited,Returned
+Wally Schirra,Gemini 6,Gemini 6,FALSE,1.08,15/12/1965,16/12/1965,Earth Orbit,None visited,Returned
+David Scott,Gemini 8,Gemini 8,FALSE,0.45,16/03/1966,17/03/1966,Earth Orbit,None visited,Returned
+Neil Armstrong,Gemini 8,Gemini 8,FALSE,0.45,16/03/1966,17/03/1966,Earth Orbit,None visited,Returned
+Gene Cernan,Gemini 9,Gemini 9,FALSE,3.01,3/06/1966,6/06/1966,Earth Orbit,None visited,Returned
+Thomas P. Stafford,Gemini 9,Gemini 9,FALSE,3.01,3/06/1966,6/06/1966,Earth Orbit,None visited,Returned
+John Young,Gemini 10,Gemini 10,FALSE,2.95,18/07/1966,21/07/1966,Earth Orbit,None visited,Returned
+Michael Collins,Gemini 10,Gemini 10,FALSE,2.95,18/07/1966,21/07/1966,Earth Orbit,None visited,Returned
+Pete Conrad,Gemini 11,Gemini 11,FALSE,2.97,12/09/1966,15/09/1966,Earth Orbit,None visited,Returned
+Richard Gordon,Gemini 11,Gemini 11,FALSE,2.97,12/09/1966,15/09/1966,Earth Orbit,None visited,Returned
+Buzz Aldrin,Gemini 12,Gemini 12,FALSE,3.94,11/11/1966,15/11/1966,Earth Orbit,None visited,Returned
+Jim Lovell,Gemini 12,Gemini 12,FALSE,3.94,11/11/1966,15/11/1966,Earth Orbit,None visited,Returned
+Vladimir Komarov,Soyuz 1,Soyuz 1,FALSE,1.12,23/04/1967,24/04/1967,Earth Orbit,None visited,Fail-to-land
+Donn F. Eisele,Apollo 7,Apollo 7,FALSE,10.84,11/10/1968,22/10/1968,Earth Orbit,None visited,Returned
+Wally Schirra,Apollo 7,Apollo 7,FALSE,10.84,11/10/1968,22/10/1968,Earth Orbit,None visited,Returned
+Walter Cunningham,Apollo 7,Apollo 7,FALSE,10.84,11/10/1968,22/10/1968,Earth Orbit,None visited,Returned
+Georgi Beregovoi,Soyuz 3,Soyuz 3,FALSE,3.95,26/10/1968,30/10/1968,Earth Orbit,None visited,Returned
+Frank Borman,Apollo 8,Apollo 8,FALSE,6.13,21/12/1968,27/12/1968,Moon,None visited,Returned
+Jim Lovell,Apollo 8,Apollo 8,FALSE,6.13,21/12/1968,27/12/1968,Moon,None visited,Returned
+William Anders,Apollo 8,Apollo 8,FALSE,6.13,21/12/1968,27/12/1968,Moon,None visited,Returned
+Vladimir Shatalov,Soyuz 4,Soyuz 4,FALSE,2.97,14/01/1969,17/01/1969,Earth Orbit,None visited,Returned
+Aleksei Yeliseyev,Soyuz 5,Soyuz 4,TRUE,1.99,15/01/1969,17/01/1969,Earth Orbit,None visited,Returned
+Boris Volynov,Soyuz 5,Soyuz 5,FALSE,3.04,15/01/1969,18/01/1969,Earth Orbit,None visited,Returned
+Yevgeny Khrunov,Soyuz 5,Soyuz 4,TRUE,1.99,15/01/1969,17/01/1969,Earth Orbit,None visited,Returned
+David Scott,Apollo 9,Apollo 9,FALSE,10.04,3/03/1969,13/03/1969,Earth Orbit,None visited,Returned
+James McDivitt,Apollo 9,Apollo 9,FALSE,10.04,3/03/1969,13/03/1969,Earth Orbit,None visited,Returned
+Rusty Schweickart,Apollo 9,Apollo 9,FALSE,10.04,3/03/1969,13/03/1969,Earth Orbit,None visited,Returned
+Gene Cernan,Apollo 10,Apollo 10,FALSE,8.00,18/05/1969,26/05/1969,Moon,None visited,Returned
+John Young,Apollo 10,Apollo 10,FALSE,8.00,18/05/1969,26/05/1969,Moon,None visited,Returned
+Thomas P. Stafford,Apollo 10,Apollo 10,FALSE,8.00,18/05/1969,26/05/1969,Moon,None visited,Returned
+Buzz Aldrin,Apollo 11,Apollo 11,FALSE,8.14,16/07/1969,24/07/1969,Moon,None visited,Returned
+Michael Collins,Apollo 11,Apollo 11,FALSE,8.14,16/07/1969,24/07/1969,Moon,None visited,Returned
+Neil Armstrong,Apollo 11,Apollo 11,FALSE,8.14,16/07/1969,24/07/1969,Moon,None visited,Returned
+Georgy Shonin,Soyuz 6,Soyuz 6,FALSE,4.95,11/10/1969,16/10/1969,Earth Orbit,None visited,Returned
+Valery Kubasov,Soyuz 6,Soyuz 6,FALSE,4.95,11/10/1969,16/10/1969,Earth Orbit,None visited,Returned
+Anatoly Filipchenko,Soyuz 7,Soyuz 7,FALSE,4.94,12/10/1969,17/10/1969,Earth Orbit,None visited,Returned
+Viktor Gorbatko,Soyuz 7,Soyuz 7,FALSE,4.94,12/10/1969,17/10/1969,Earth Orbit,None visited,Returned
+Vladislav Volkov,Soyuz 7,Soyuz 7,FALSE,4.94,12/10/1969,17/10/1969,Earth Orbit,None visited,Returned
+Aleksei Yeliseyev,Soyuz 8,Soyuz 8,FALSE,4.95,13/10/1969,18/10/1969,Earth Orbit,None visited,Returned
+Vladimir Shatalov,Soyuz 8,Soyuz 8,FALSE,4.95,13/10/1969,18/10/1969,Earth Orbit,None visited,Returned
+Alan Bean,Apollo 12,Apollo 12,FALSE,10.19,14/11/1969,24/11/1969,Moon,None visited,Returned
+Pete Conrad,Apollo 12,Apollo 12,FALSE,10.19,14/11/1969,24/11/1969,Moon,None visited,Returned
+Richard Gordon,Apollo 12,Apollo 12,FALSE,10.19,14/11/1969,24/11/1969,Moon,None visited,Returned
+Fred Haise,Apollo 13,Apollo 13,FALSE,5.95,11/04/1970,17/04/1970,Moon,None visited,Returned
+Jim Lovell,Apollo 13,Apollo 13,FALSE,5.95,11/04/1970,17/04/1970,Moon,None visited,Returned
+John Swigert,Apollo 13,Apollo 13,FALSE,5.95,11/04/1970,17/04/1970,Moon,None visited,Returned
+Andriyan Nikolayev,Soyuz 9,Soyuz 9,FALSE,17.71,1/06/1970,19/06/1970,Earth Orbit,None visited,Returned
+Vitaly Sevastyanov,Soyuz 9,Soyuz 9,FALSE,17.71,1/06/1970,19/06/1970,Earth Orbit,None visited,Returned
+Alan Shepard,Apollo 14,Apollo 14,FALSE,9.00,31/01/1971,9/02/1971,Moon,None visited,Returned
+Edgar Mitchell,Apollo 14,Apollo 14,FALSE,9.00,31/01/1971,9/02/1971,Moon,None visited,Returned
+Stuart Roosa,Apollo 14,Apollo 14,FALSE,9.00,31/01/1971,9/02/1971,Moon,None visited,Returned
+Aleksei Yeliseyev,Soyuz 10,Soyuz 10,FALSE,1.99,22/04/1971,24/04/1971,Other Space station,Salyut 1,Returned
+Nikolay Rukavishnikov,Soyuz 10,Soyuz 10,FALSE,1.99,22/04/1971,24/04/1971,Other Space station,Salyut 1,Returned
+Vladimir Shatalov,Soyuz 10,Soyuz 10,FALSE,1.99,22/04/1971,24/04/1971,Other Space station,Salyut 1,Returned
+Georgi Dobrovolski,Soyuz 11,Soyuz 11,FALSE,23.77,6/06/1971,29/06/1971,Other Space station,Salyut 1,Fail-to-land
+Viktor Patsayev,Soyuz 11,Soyuz 11,FALSE,23.77,6/06/1971,29/06/1971,Other Space station,Salyut 1,Fail-to-land
+Vladislav Volkov,Soyuz 11,Soyuz 11,FALSE,23.77,6/06/1971,29/06/1971,Other Space station,Salyut 1,Fail-to-land
+Alfred Worden,Apollo 15,Apollo 15,FALSE,12.30,26/07/1971,7/08/1971,Moon,None visited,Returned
+David Scott,Apollo 15,Apollo 15,FALSE,12.30,26/07/1971,7/08/1971,Moon,None visited,Returned
+James Irwin,Apollo 15,Apollo 15,FALSE,12.30,26/07/1971,7/08/1971,Moon,None visited,Returned
+Charles Duke,Apollo 16,Apollo 16,FALSE,11.08,16/04/1972,27/04/1972,Moon,None visited,Returned
+John Young,Apollo 16,Apollo 16,FALSE,11.08,16/04/1972,27/04/1972,Moon,None visited,Returned
+Thomas Kenneth Mattingly II,Apollo 16,Apollo 16,FALSE,11.08,16/04/1972,27/04/1972,Moon,None visited,Returned
+Gene Cernan,Apollo 17,Apollo 17,FALSE,12.58,7/12/1972,19/12/1972,Moon,None visited,Returned
+Harrison Schmitt,Apollo 17,Apollo 17,FALSE,12.58,7/12/1972,19/12/1972,Moon,None visited,Returned
+Ronald Evans,Apollo 17,Apollo 17,FALSE,12.58,7/12/1972,19/12/1972,Moon,None visited,Returned
+Joseph Kerwin,Skylab 2,Skylab 2,FALSE,28.03,25/05/1973,22/06/1973,Other Space station,Skylab,Returned
+Paul Weitz,Skylab 2,Skylab 2,FALSE,28.03,25/05/1973,22/06/1973,Other Space station,Skylab,Returned
+Pete Conrad,Skylab 2,Skylab 2,FALSE,28.03,25/05/1973,22/06/1973,Other Space station,Skylab,Returned
+Alan Bean,Skylab 3,Skylab 3,FALSE,59.47,28/07/1973,25/09/1973,Other Space station,Skylab,Returned
+Jack Lousma,Skylab 3,Skylab 3,FALSE,59.47,28/07/1973,25/09/1973,Other Space station,Skylab,Returned
+Owen Garriott,Skylab 3,Skylab 3,FALSE,59.47,28/07/1973,25/09/1973,Other Space station,Skylab,Returned
+Oleg Makarov,Soyuz 12,Soyuz 12,FALSE,1.97,27/09/1973,29/09/1973,Earth Orbit,None visited,Returned
+Vasili Lazarev,Soyuz 12,Soyuz 12,FALSE,1.97,27/09/1973,29/09/1973,Earth Orbit,None visited,Returned
+Edward Gibson,Skylab 4,Skylab 4,FALSE,84.05,16/11/1973,8/02/1974,Other Space station,Skylab,Returned
+Gerald Carr,Skylab 4,Skylab 4,FALSE,84.05,16/11/1973,8/02/1974,Other Space station,Skylab,Returned
+William Pogue,Skylab 4,Skylab 4,FALSE,84.05,16/11/1973,8/02/1974,Other Space station,Skylab,Returned
+Pyotr Klimuk,Soyuz 13,Soyuz 13,FALSE,7.87,18/12/1973,26/12/1973,Earth Orbit,None visited,Returned
+Valentin Lebedev,Soyuz 13,Soyuz 13,FALSE,7.87,18/12/1973,26/12/1973,Earth Orbit,None visited,Returned
+Pavel Popovich,Soyuz 14,Soyuz 14,FALSE,15.73,3/07/1974,19/07/1974,Other Space station,Salyut 3,Returned
+Yuri Artyukhin,Soyuz 14,Soyuz 14,FALSE,15.73,3/07/1974,19/07/1974,Other Space station,Salyut 3,Returned
+Gennadi Sarafanov,Soyuz 15,Soyuz 15,FALSE,2.01,26/08/1974,28/08/1974,Earth Orbit,None visited,Returned
+Lev Dyomin,Soyuz 15,Soyuz 15,FALSE,2.01,26/08/1974,28/08/1974,Earth Orbit,None visited,Returned
+Anatoly Filipchenko,Soyuz 16,Soyuz 16,FALSE,5.93,2/12/1974,8/12/1974,Earth Orbit,None visited,Returned
+Nikolay Rukavishnikov,Soyuz 16,Soyuz 16,FALSE,5.93,2/12/1974,8/12/1974,Earth Orbit,None visited,Returned
+Aleksei Gubarev,Soyuz 17,Soyuz 17,FALSE,29.56,10/01/1975,9/02/1975,Other Space station,Salyut 4,Returned
+Georgi Grechko,Soyuz 17,Soyuz 17,FALSE,29.56,10/01/1975,9/02/1975,Other Space station,Salyut 4,Returned
+Oleg Makarov,Soyuz 18A,Soyuz 18A,FALSE,0.01,5/04/1975,5/04/1975,Non-orbital space,None visited,Returned
+Vasili Lazarev,Soyuz 18A,Soyuz 18A,FALSE,0.01,5/04/1975,5/04/1975,Non-orbital space,None visited,Returned
+Pyotr Klimuk,Soyuz 18B,Soyuz 18B,FALSE,62.97,24/05/1975,26/07/1975,Other Space station,Salyut 4,Returned
+Vitaly Sevastyanov,Soyuz 18B,Soyuz 18B,FALSE,62.97,24/05/1975,26/07/1975,Other Space station,Salyut 4,Returned
+Alexei Leonov,Soyuz 19-ASTP,Soyuz 19-ASTP,FALSE,5.94,15/07/1975,21/07/1975,Earth Orbit,None visited,Returned
+Valery Kubasov,Soyuz 19-ASTP,Soyuz 19-ASTP,FALSE,5.94,15/07/1975,21/07/1975,Earth Orbit,None visited,Returned
+Donald Slayton,Apollo 18-ASTP,Apollo 18-ASTP,FALSE,9.06,15/07/1975,24/07/1975,Earth Orbit,None visited,Returned
+Thomas P. Stafford,Apollo 18-ASTP,Apollo 18-ASTP,FALSE,9.06,15/07/1975,24/07/1975,Earth Orbit,None visited,Returned
+Vance Brand,Apollo 18-ASTP,Apollo 18-ASTP,FALSE,9.06,15/07/1975,24/07/1975,Earth Orbit,None visited,Returned
+Boris Volynov,Soyuz 21,Soyuz 21,FALSE,49.27,6/07/1976,24/08/1976,Other Space station,Salyut 5,Returned
+Vitaly Zholobov,Soyuz 21,Soyuz 21,FALSE,49.27,6/07/1976,24/08/1976,Other Space station,Salyut 5,Returned
+Valery Bykovsky,Soyuz 22,Soyuz 22,FALSE,7.91,15/09/1976,23/09/1976,Earth Orbit,None visited,Returned
+Vladimir Aksyonov,Soyuz 22,Soyuz 22,FALSE,7.91,15/09/1976,23/09/1976,Earth Orbit,None visited,Returned
+Valery Rozhdestvensky,Soyuz 23,Soyuz 23,FALSE,2.00,14/10/1976,16/10/1976,Earth Orbit,None visited,Returned
+Vyacheslav Zudov,Soyuz 23,Soyuz 23,FALSE,2.00,14/10/1976,16/10/1976,Earth Orbit,None visited,Returned
+Viktor Gorbatko,Soyuz 24,Soyuz 24,FALSE,17.73,7/02/1977,25/02/1977,Other Space station,Salyut 5,Returned
+Yuri Glazkov,Soyuz 24,Soyuz 24,FALSE,17.73,7/02/1977,25/02/1977,Other Space station,Salyut 5,Returned
+Valery Ryumin,Soyuz 25,Soyuz 25,FALSE,2.03,9/10/1977,11/10/1977,Earth Orbit,None visited,Returned
+Vladimir Kovalyonok,Soyuz 25,Soyuz 25,FALSE,2.03,9/10/1977,11/10/1977,Earth Orbit,None visited,Returned
+Georgi Grechko,Soyuz 26,Soyuz 27,TRUE,96.42,10/12/1977,16/03/1978,Other Space station,Salyut 6,Returned
+Yuri Romanenko,Soyuz 26,Soyuz 27,TRUE,96.42,10/12/1977,16/03/1978,Other Space station,Salyut 6,Returned
+Oleg Makarov,Soyuz 27,Soyuz 26,TRUE,5.96,10/01/1978,16/01/1978,Other Space station,Salyut 6,Returned
+Vladimir Dzhanibekov,Soyuz 27,Soyuz 26,TRUE,5.96,10/01/1978,16/01/1978,Other Space station,Salyut 6,Returned
+Aleksei Gubarev,Soyuz 28,Soyuz 28,FALSE,7.93,2/03/1978,10/03/1978,Other Space station,Salyut 6,Returned
+Vladimír Remek,Soyuz 28,Soyuz 28,FALSE,7.93,2/03/1978,10/03/1978,Other Space station,Salyut 6,Returned
+Aleksandr Ivanchenkov,Soyuz 29,Soyuz 31,TRUE,139.62,15/06/1978,2/11/1978,Other Space station,Salyut 6,Returned
+Vladimir Kovalyonok,Soyuz 29,Soyuz 31,TRUE,139.62,15/06/1978,2/11/1978,Other Space station,Salyut 6,Returned
+Miros?aw Hermaszewski,Soyuz 30,Soyuz 30,FALSE,7.92,27/06/1978,5/07/1978,Other Space station,Salyut 6,Returned
+Pyotr Klimuk,Soyuz 30,Soyuz 30,FALSE,7.92,27/06/1978,5/07/1978,Other Space station,Salyut 6,Returned
+Sigmund Jähn,Soyuz 31,Soyuz 29,TRUE,7.87,26/08/1978,3/09/1978,Other Space station,Salyut 6,Returned
+Valery Bykovsky,Soyuz 31,Soyuz 29,TRUE,7.87,26/08/1978,3/09/1978,Other Space station,Salyut 6,Returned
+Valery Ryumin,Soyuz 32,Soyuz 34,TRUE,175.02,25/02/1979,19/08/1979,Other Space station,Salyut 6,Returned
+Vladimir Lyakhov,Soyuz 32,Soyuz 34,TRUE,175.02,25/02/1979,19/08/1979,Other Space station,Salyut 6,Returned
+Georgi Ivanov,Soyuz 33,Soyuz 33,FALSE,1.96,10/04/1979,12/04/1979,Earth Orbit,None visited,Returned
+Nikolay Rukavishnikov,Soyuz 33,Soyuz 33,FALSE,1.96,10/04/1979,12/04/1979,Earth Orbit,None visited,Returned
+Leonid Popov,Soyuz 35,Soyuz 37,TRUE,184.36,10/04/1980,11/10/1980,Other Space station,Salyut 6,Returned
+Valery Ryumin,Soyuz 35,Soyuz 37,TRUE,184.36,10/04/1980,11/10/1980,Other Space station,Salyut 6,Returned
+Bertalan Farkas,Soyuz 36,Soyuz 35,TRUE,8.35,26/05/1980,4/06/1980,Other Space station,Salyut 6,Returned
+Valery Kubasov,Soyuz 36,Soyuz 35,TRUE,8.35,26/05/1980,4/06/1980,Other Space station,Salyut 6,Returned
+Vladimir Aksyonov,Soyuz T-2,Soyuz T-2,FALSE,3.93,5/06/1980,9/06/1980,Other Space station,Salyut 6,Returned
+Yuri Malyshev,Soyuz T-2,Soyuz T-2,FALSE,3.93,5/06/1980,9/06/1980,Other Space station,Salyut 6,Returned
+Pham Tuân,Soyuz 37,Soyuz 36,TRUE,7.86,23/07/1980,31/07/1980,Other Space station,Salyut 6,Returned
+Viktor Gorbatko,Soyuz 37,Soyuz 36,TRUE,7.86,23/07/1980,31/07/1980,Other Space station,Salyut 6,Returned
+Arnaldo Tamayo Méndez,Soyuz 38,Soyuz 38,FALSE,7.86,18/09/1980,26/09/1980,Other Space station,Salyut 6,Returned
+Yuri Romanenko,Soyuz 38,Soyuz 38,FALSE,7.86,18/09/1980,26/09/1980,Other Space station,Salyut 6,Returned
+Gennadi Strekalov,Soyuz T-3,Soyuz T-3,FALSE,12.80,27/11/1980,10/12/1980,Other Space station,Salyut 6,Returned
+Leonid Kizim,Soyuz T-3,Soyuz T-3,FALSE,12.80,27/11/1980,10/12/1980,Other Space station,Salyut 6,Returned
+Oleg Makarov,Soyuz T-3,Soyuz T-3,FALSE,12.80,27/11/1980,10/12/1980,Other Space station,Salyut 6,Returned
+Viktor Savinykh,Soyuz T-4,Soyuz T-4,FALSE,74.73,12/03/1981,26/05/1981,Other Space station,Salyut 6,Returned
+Vladimir Kovalyonok,Soyuz T-4,Soyuz T-4,FALSE,74.73,12/03/1981,26/05/1981,Other Space station,Salyut 6,Returned
+Jügderdemidiin Gürragchaa,Soyuz 39,Soyuz 39,FALSE,7.86,22/03/1981,30/03/1981,Other Space station,Salyut 6,Returned
+Vladimir Dzhanibekov,Soyuz 39,Soyuz 39,FALSE,7.86,22/03/1981,30/03/1981,Other Space station,Salyut 6,Returned
+John Young,"STS-1, Columbia","STS-1, Columbia",FALSE,2.27,12/04/1981,14/04/1981,Earth Orbit,None visited,Returned
+Robert Crippen,"STS-1, Columbia","STS-1, Columbia",FALSE,2.27,12/04/1981,14/04/1981,Earth Orbit,None visited,Returned
+Dumitru Prunariu,Soyuz 40,Soyuz 40,FALSE,7.90,14/05/1981,22/05/1981,Other Space station,Salyut 6,Returned
+Leonid Popov,Soyuz 40,Soyuz 40,FALSE,7.90,14/05/1981,22/05/1981,Other Space station,Salyut 6,Returned
+Joseph H. Engle,"STS-2, Columbia","STS-2, Columbia",FALSE,2.26,12/11/1981,14/11/1981,Earth Orbit,None visited,Returned
+Richard H. Truly,"STS-2, Columbia","STS-2, Columbia",FALSE,2.26,12/11/1981,14/11/1981,Earth Orbit,None visited,Returned
+C. Gordon Fullerton,"STS-3, Columbia","STS-3, Columbia",FALSE,8.00,22/03/1982,30/03/1982,Earth Orbit,None visited,Returned
+Jack Lousma,"STS-3, Columbia","STS-3, Columbia",FALSE,8.00,22/03/1982,30/03/1982,Earth Orbit,None visited,Returned
+Anatoli Berezovoy,Soyuz T-5,Soyuz T-7,TRUE,211.38,13/05/1982,10/12/1982,Other Space station,Salyut 7,Returned
+Valentin Lebedev,Soyuz T-5,Soyuz T-7,TRUE,211.38,13/05/1982,10/12/1982,Other Space station,Salyut 7,Returned
+Aleksandr Ivanchenkov,Soyuz T-6,Soyuz T-6,FALSE,7.91,24/06/1982,2/07/1982,Other Space station,Salyut 7,Returned
+Jean-Loup Chrétien,Soyuz T-6,Soyuz T-6,FALSE,7.91,24/06/1982,2/07/1982,Other Space station,Salyut 7,Returned
+Vladimir Dzhanibekov,Soyuz T-6,Soyuz T-6,FALSE,7.91,24/06/1982,2/07/1982,Other Space station,Salyut 7,Returned
+Henry Hartsfield,"STS-4, Columbia","STS-4, Columbia",FALSE,7.05,27/06/1982,4/07/1982,Earth Orbit,None visited,Returned
+Thomas Kenneth Mattingly II,"STS-4, Columbia","STS-4, Columbia",FALSE,7.05,27/06/1982,4/07/1982,Earth Orbit,None visited,Returned
+Aleksandr Serebrov,Soyuz T-7,Soyuz T-5,TRUE,7.91,19/08/1982,27/08/1982,Other Space station,Salyut 7,Returned
+Leonid Popov,Soyuz T-7,Soyuz T-5,TRUE,7.91,19/08/1982,27/08/1982,Other Space station,Salyut 7,Returned
+Svetlana Savitskaya,Soyuz T-7,Soyuz T-5,TRUE,7.91,19/08/1982,27/08/1982,Other Space station,Salyut 7,Returned
+Joseph P. Allen,"STS-5, Columbia","STS-5, Columbia",FALSE,5.09,11/11/1982,16/11/1982,Earth Orbit,None visited,Returned
+Robert Overmyer,"STS-5, Columbia","STS-5, Columbia",FALSE,5.09,11/11/1982,16/11/1982,Earth Orbit,None visited,Returned
+Vance Brand,"STS-5, Columbia","STS-5, Columbia",FALSE,5.09,11/11/1982,16/11/1982,Earth Orbit,None visited,Returned
+William B. Lenoir,"STS-5, Columbia","STS-5, Columbia",FALSE,5.09,11/11/1982,16/11/1982,Earth Orbit,None visited,Returned
+Donald Peterson,"STS-6, Challenger","STS-6, Challenger",FALSE,5.02,4/04/1983,9/04/1983,Earth Orbit,None visited,Returned
+Karol Bobko,"STS-6, Challenger","STS-6, Challenger",FALSE,5.02,4/04/1983,9/04/1983,Earth Orbit,None visited,Returned
+Paul Weitz,"STS-6, Challenger","STS-6, Challenger",FALSE,5.02,4/04/1983,9/04/1983,Earth Orbit,None visited,Returned
+Story Musgrave,"STS-6, Challenger","STS-6, Challenger",FALSE,5.02,4/04/1983,9/04/1983,Earth Orbit,None visited,Returned
+Aleksandr Serebrov,Soyuz T-8,Soyuz T-8,FALSE,2.01,20/04/1983,22/04/1983,Earth Orbit,None visited,Returned
+Gennadi Strekalov,Soyuz T-8,Soyuz T-8,FALSE,2.01,20/04/1983,22/04/1983,Earth Orbit,None visited,Returned
+Vladimir Titov,Soyuz T-8,Soyuz T-8,FALSE,2.01,20/04/1983,22/04/1983,Earth Orbit,None visited,Returned
+Frederick Hauck,"STS-7, Challenger","STS-7, Challenger",FALSE,6.10,18/06/1983,24/06/1983,Earth Orbit,None visited,Returned
+John Fabian,"STS-7, Challenger","STS-7, Challenger",FALSE,6.10,18/06/1983,24/06/1983,Earth Orbit,None visited,Returned
+Norman Thagard,"STS-7, Challenger","STS-7, Challenger",FALSE,6.10,18/06/1983,24/06/1983,Earth Orbit,None visited,Returned
+Robert Crippen,"STS-7, Challenger","STS-7, Challenger",FALSE,6.10,18/06/1983,24/06/1983,Earth Orbit,None visited,Returned
+Sally Ride,"STS-7, Challenger","STS-7, Challenger",FALSE,6.10,18/06/1983,24/06/1983,Earth Orbit,None visited,Returned
+Aleksandr Pavlovich Aleksandrov,Soyuz T-9,Soyuz T-9,FALSE,149.45,27/06/1983,23/11/1983,Other Space station,Salyut 7,Returned
+Vladimir Lyakhov,Soyuz T-9,Soyuz T-9,FALSE,149.45,27/06/1983,23/11/1983,Other Space station,Salyut 7,Returned
+Dale Gardner,"STS-8, Challenger","STS-8, Challenger",FALSE,6.05,30/08/1983,5/09/1983,Earth Orbit,None visited,Returned
+Daniel Brandenstein,"STS-8, Challenger","STS-8, Challenger",FALSE,6.05,30/08/1983,5/09/1983,Earth Orbit,None visited,Returned
+Guion Bluford,"STS-8, Challenger","STS-8, Challenger",FALSE,6.05,30/08/1983,5/09/1983,Earth Orbit,None visited,Returned
+Richard H. Truly,"STS-8, Challenger","STS-8, Challenger",FALSE,6.05,30/08/1983,5/09/1983,Earth Orbit,None visited,Returned
+William Thornton,"STS-8, Challenger","STS-8, Challenger",FALSE,6.05,30/08/1983,5/09/1983,Earth Orbit,None visited,Returned
+Brewster Shaw,"STS-9, Columbia","STS-9, Columbia",FALSE,10.33,28/11/1983,8/12/1983,Earth Orbit,None visited,Returned
+Byron Lichtenberg,"STS-9, Columbia","STS-9, Columbia",FALSE,10.33,28/11/1983,8/12/1983,Earth Orbit,None visited,Returned
+John Young,"STS-9, Columbia","STS-9, Columbia",FALSE,10.33,28/11/1983,8/12/1983,Earth Orbit,None visited,Returned
+Owen Garriott,"STS-9, Columbia","STS-9, Columbia",FALSE,10.33,28/11/1983,8/12/1983,Earth Orbit,None visited,Returned
+Robert Parker,"STS-9, Columbia","STS-9, Columbia",FALSE,10.33,28/11/1983,8/12/1983,Earth Orbit,None visited,Returned
+Ulf Merbold,"STS-9, Columbia","STS-9, Columbia",FALSE,10.33,28/11/1983,8/12/1983,Earth Orbit,None visited,Returned
+Bruce McCandless II,"41-B, Challenger","41-B, Challenger",FALSE,7.97,3/02/1984,11/02/1984,Earth Orbit,None visited,Returned
+Robert L. Gibson,"41-B, Challenger","41-B, Challenger",FALSE,7.97,3/02/1984,11/02/1984,Earth Orbit,None visited,Returned
+Robert Stewart,"41-B, Challenger","41-B, Challenger",FALSE,7.97,3/02/1984,11/02/1984,Earth Orbit,None visited,Returned
+Ronald McNair,"41-B, Challenger","41-B, Challenger",FALSE,7.97,3/02/1984,11/02/1984,Earth Orbit,None visited,Returned
+Vance Brand,"41-B, Challenger","41-B, Challenger",FALSE,7.97,3/02/1984,11/02/1984,Earth Orbit,None visited,Returned
+Leonid Kizim,Soyuz T-10B,Soyuz T-11,TRUE,236.95,8/02/1984,2/10/1984,Other Space station,Salyut 7,Returned
+Oleg Atkov,Soyuz T-10B,Soyuz T-11,TRUE,236.95,8/02/1984,2/10/1984,Other Space station,Salyut 7,Returned
+Vladimir Solovyov,Soyuz T-10B,Soyuz T-11,TRUE,236.95,8/02/1984,2/10/1984,Other Space station,Salyut 7,Returned
+Gennadi Strekalov,Soyuz T-11,Soyuz T-10B,TRUE,7.90,3/04/1984,11/04/1984,Other Space station,Salyut 7,Returned
+Rakesh Sharma,Soyuz T-11,Soyuz T-10B,TRUE,7.90,3/04/1984,11/04/1984,Other Space station,Salyut 7,Returned
+Yuri Malyshev,Soyuz T-11,Soyuz T-10B,TRUE,7.90,3/04/1984,11/04/1984,Other Space station,Salyut 7,Returned
+Francis Scobee,"41-C, Challenger","41-C, Challenger",FALSE,6.99,6/04/1984,13/04/1984,Earth Orbit,None visited,Returned
+George Nelson,"41-C, Challenger","41-C, Challenger",FALSE,6.99,6/04/1984,13/04/1984,Earth Orbit,None visited,Returned
+James van Hoften,"41-C, Challenger","41-C, Challenger",FALSE,6.99,6/04/1984,13/04/1984,Earth Orbit,None visited,Returned
+Robert Crippen,"41-C, Challenger","41-C, Challenger",FALSE,6.99,6/04/1984,13/04/1984,Earth Orbit,None visited,Returned
+Terry Hart,"41-C, Challenger","41-C, Challenger",FALSE,6.99,6/04/1984,13/04/1984,Earth Orbit,None visited,Returned
+Igor Volk,Soyuz T-12,Soyuz T-12,FALSE,11.80,17/07/1984,29/07/1984,Other Space station,Salyut 7,Returned
+Svetlana Savitskaya,Soyuz T-12,Soyuz T-12,FALSE,11.80,17/07/1984,29/07/1984,Other Space station,Salyut 7,Returned
+Vladimir Dzhanibekov,Soyuz T-12,Soyuz T-12,FALSE,11.80,17/07/1984,29/07/1984,Other Space station,Salyut 7,Returned
+Charles Walker,"41-D, Discovery","41-D, Discovery",FALSE,6.04,30/08/1984,5/09/1984,Earth Orbit,None visited,Returned
+Henry Hartsfield,"41-D, Discovery","41-D, Discovery",FALSE,6.04,30/08/1984,5/09/1984,Earth Orbit,None visited,Returned
+Judith Resnik,"41-D, Discovery","41-D, Discovery",FALSE,6.04,30/08/1984,5/09/1984,Earth Orbit,None visited,Returned
+Michael Coats,"41-D, Discovery","41-D, Discovery",FALSE,6.04,30/08/1984,5/09/1984,Earth Orbit,None visited,Returned
+Richard Mullane,"41-D, Discovery","41-D, Discovery",FALSE,6.04,30/08/1984,5/09/1984,Earth Orbit,None visited,Returned
+Steven Hawley,"41-D, Discovery","41-D, Discovery",FALSE,6.04,30/08/1984,5/09/1984,Earth Orbit,None visited,Returned
+David Leestma,"41-G, Challenger","41-G, Challenger",FALSE,8.23,5/10/1984,13/10/1984,Earth Orbit,None visited,Returned
+Jon McBride,"41-G, Challenger","41-G, Challenger",FALSE,8.23,5/10/1984,13/10/1984,Earth Orbit,None visited,Returned
+Kathryn D. Sullivan,"41-G, Challenger","41-G, Challenger",FALSE,8.23,5/10/1984,13/10/1984,Earth Orbit,None visited,Returned
+Marc Garneau,"41-G, Challenger","41-G, Challenger",FALSE,8.23,5/10/1984,13/10/1984,Earth Orbit,None visited,Returned
+Paul Scully-Power,"41-G, Challenger","41-G, Challenger",FALSE,8.23,5/10/1984,13/10/1984,Earth Orbit,None visited,Returned
+Robert Crippen,"41-G, Challenger","41-G, Challenger",FALSE,8.23,5/10/1984,13/10/1984,Earth Orbit,None visited,Returned
+Sally Ride,"41-G, Challenger","41-G, Challenger",FALSE,8.23,5/10/1984,13/10/1984,Earth Orbit,None visited,Returned
+Anna Fisher,"51-A, Discovery","51-A, Discovery",FALSE,7.99,8/11/1984,16/11/1984,Earth Orbit,None visited,Returned
+Dale Gardner,"51-A, Discovery","51-A, Discovery",FALSE,7.99,8/11/1984,16/11/1984,Earth Orbit,None visited,Returned
+David M. Walker,"51-A, Discovery","51-A, Discovery",FALSE,7.99,8/11/1984,16/11/1984,Earth Orbit,None visited,Returned
+Frederick Hauck,"51-A, Discovery","51-A, Discovery",FALSE,7.99,8/11/1984,16/11/1984,Earth Orbit,None visited,Returned
+Joseph P. Allen,"51-A, Discovery","51-A, Discovery",FALSE,7.99,8/11/1984,16/11/1984,Earth Orbit,None visited,Returned
+Ellison Onizuka,"51-C, Discovery","51-C, Discovery",FALSE,3.07,24/01/1985,27/01/1985,Earth Orbit,None visited,Returned
+Gary Payton,"51-C, Discovery","51-C, Discovery",FALSE,3.07,24/01/1985,27/01/1985,Earth Orbit,None visited,Returned
+James Buchli,"51-C, Discovery","51-C, Discovery",FALSE,3.07,24/01/1985,27/01/1985,Earth Orbit,None visited,Returned
+Loren Shriver,"51-C, Discovery","51-C, Discovery",FALSE,3.07,24/01/1985,27/01/1985,Earth Orbit,None visited,Returned
+Thomas Kenneth Mattingly II,"51-C, Discovery","51-C, Discovery",FALSE,3.07,24/01/1985,27/01/1985,Earth Orbit,None visited,Returned
+Charles Walker,"51-D, Discovery","51-D, Discovery",FALSE,7.00,12/04/1985,19/04/1985,Earth Orbit,None visited,Returned
+Donald Williams,"51-D, Discovery","51-D, Discovery",FALSE,7.00,12/04/1985,19/04/1985,Earth Orbit,None visited,Returned
+Jake Garn,"51-D, Discovery","51-D, Discovery",FALSE,7.00,12/04/1985,19/04/1985,Earth Orbit,None visited,Returned
+Jeffrey Hoffman,"51-D, Discovery","51-D, Discovery",FALSE,7.00,12/04/1985,19/04/1985,Earth Orbit,None visited,Returned
+Karol Bobko,"51-D, Discovery","51-D, Discovery",FALSE,7.00,12/04/1985,19/04/1985,Earth Orbit,None visited,Returned
+Margaret Rhea Seddon,"51-D, Discovery","51-D, Discovery",FALSE,7.00,12/04/1985,19/04/1985,Earth Orbit,None visited,Returned
+Stanley Griggs,"51-D, Discovery","51-D, Discovery",FALSE,7.00,12/04/1985,19/04/1985,Earth Orbit,None visited,Returned
+Don Lind,"51-B, Challenger","51-B, Challenger",FALSE,7.01,29/04/1985,6/05/1985,Earth Orbit,None visited,Returned
+Frederick Gregory,"51-B, Challenger","51-B, Challenger",FALSE,7.01,29/04/1985,6/05/1985,Earth Orbit,None visited,Returned
+Lodewijk van den Berg,"51-B, Challenger","51-B, Challenger",FALSE,7.01,29/04/1985,6/05/1985,Earth Orbit,None visited,Returned
+Norman Thagard,"51-B, Challenger","51-B, Challenger",FALSE,7.01,29/04/1985,6/05/1985,Earth Orbit,None visited,Returned
+Robert Overmyer,"51-B, Challenger","51-B, Challenger",FALSE,7.01,29/04/1985,6/05/1985,Earth Orbit,None visited,Returned
+Taylor Wang,"51-B, Challenger","51-B, Challenger",FALSE,7.01,29/04/1985,6/05/1985,Earth Orbit,None visited,Returned
+William Thornton,"51-B, Challenger","51-B, Challenger",FALSE,7.01,29/04/1985,6/05/1985,Earth Orbit,None visited,Returned
+Viktor Savinykh,Soyuz T-13,Soyuz T-14,TRUE,168.16,6/06/1985,21/11/1985,Other Space station,Salyut 7,Returned
+Vladimir Dzhanibekov,Soyuz T-13,Soyuz T-13,FALSE,112.13,6/06/1985,26/09/1985,Other Space station,Salyut 7,Returned
+Daniel Brandenstein,"51-G, Discovery","51-G, Discovery",FALSE,7.07,17/06/1985,24/06/1985,Earth Orbit,None visited,Returned
+John Creighton,"51-G, Discovery","51-G, Discovery",FALSE,7.07,17/06/1985,24/06/1985,Earth Orbit,None visited,Returned
+John Fabian,"51-G, Discovery","51-G, Discovery",FALSE,7.07,17/06/1985,24/06/1985,Earth Orbit,None visited,Returned
+Patrick Baudry,"51-G, Discovery","51-G, Discovery",FALSE,7.07,17/06/1985,24/06/1985,Earth Orbit,None visited,Returned
+Shannon Lucid,"51-G, Discovery","51-G, Discovery",FALSE,7.07,17/06/1985,24/06/1985,Earth Orbit,None visited,Returned
+Steven R. Nagel,"51-G, Discovery","51-G, Discovery",FALSE,7.07,17/06/1985,24/06/1985,Earth Orbit,None visited,Returned
+Sultan Salman Al Saud,"51-G, Discovery","51-G, Discovery",FALSE,7.07,17/06/1985,24/06/1985,Earth Orbit,None visited,Returned
+Anthony W. England,"51-F, Challenger","51-F, Challenger",FALSE,7.95,29/07/1985,6/08/1985,Earth Orbit,None visited,Returned
+C. Gordon Fullerton,"51-F, Challenger","51-F, Challenger",FALSE,7.95,29/07/1985,6/08/1985,Earth Orbit,None visited,Returned
+John-David F. Bartoe,"51-F, Challenger","51-F, Challenger",FALSE,7.95,29/07/1985,6/08/1985,Earth Orbit,None visited,Returned
+Karl Henize,"51-F, Challenger","51-F, Challenger",FALSE,7.95,29/07/1985,6/08/1985,Earth Orbit,None visited,Returned
+Loren Acton,"51-F, Challenger","51-F, Challenger",FALSE,7.95,29/07/1985,6/08/1985,Earth Orbit,None visited,Returned
+Roy Bridges,"51-F, Challenger","51-F, Challenger",FALSE,7.95,29/07/1985,6/08/1985,Earth Orbit,None visited,Returned
+Story Musgrave,"51-F, Challenger","51-F, Challenger",FALSE,7.95,29/07/1985,6/08/1985,Earth Orbit,None visited,Returned
+James van Hoften,"51-I, Discovery","51-I, Discovery",FALSE,7.10,27/08/1985,3/09/1985,Earth Orbit,None visited,Returned
+John Lounge,"51-I, Discovery","51-I, Discovery",FALSE,7.10,27/08/1985,3/09/1985,Earth Orbit,None visited,Returned
+Joseph H. Engle,"51-I, Discovery","51-I, Discovery",FALSE,7.10,27/08/1985,3/09/1985,Earth Orbit,None visited,Returned
+Richard Covey,"51-I, Discovery","51-I, Discovery",FALSE,7.10,27/08/1985,3/09/1985,Earth Orbit,None visited,Returned
+William Frederick Fisher,"51-I, Discovery","51-I, Discovery",FALSE,7.10,27/08/1985,3/09/1985,Earth Orbit,None visited,Returned
+Aleksandr Volkov,Soyuz T-14,Soyuz T-14,FALSE,64.91,17/09/1985,21/11/1985,Other Space station,Salyut 7,Returned
+Georgi Grechko,Soyuz T-14,Soyuz T-13,TRUE,8.88,17/09/1985,26/09/1985,Other Space station,Salyut 7,Returned
+Vladimir Vasyutin,Soyuz T-14,Soyuz T-14,FALSE,64.91,17/09/1985,21/11/1985,Other Space station,Salyut 7,Returned
+David Hilmers,"51-J, Atlantis","51-J, Atlantis",FALSE,4.07,3/10/1985,7/10/1985,Earth Orbit,None visited,Returned
+Karol Bobko,"51-J, Atlantis","51-J, Atlantis",FALSE,4.07,3/10/1985,7/10/1985,Earth Orbit,None visited,Returned
+Robert Stewart,"51-J, Atlantis","51-J, Atlantis",FALSE,4.07,3/10/1985,7/10/1985,Earth Orbit,None visited,Returned
+Ronald Grabe,"51-J, Atlantis","51-J, Atlantis",FALSE,4.07,3/10/1985,7/10/1985,Earth Orbit,None visited,Returned
+William Pailes,"51-J, Atlantis","51-J, Atlantis",FALSE,4.07,3/10/1985,7/10/1985,Earth Orbit,None visited,Returned
+Bonnie J. Dunbar,"61-A, Challenger","61-A, Challenger",FALSE,7.03,30/10/1985,6/11/1985,Earth Orbit,None visited,Returned
+Ernst Messerschmid,"61-A, Challenger","61-A, Challenger",FALSE,7.03,30/10/1985,6/11/1985,Earth Orbit,None visited,Returned
+Guion Bluford,"61-A, Challenger","61-A, Challenger",FALSE,7.03,30/10/1985,6/11/1985,Earth Orbit,None visited,Returned
+Henry Hartsfield,"61-A, Challenger","61-A, Challenger",FALSE,7.03,30/10/1985,6/11/1985,Earth Orbit,None visited,Returned
+James Buchli,"61-A, Challenger","61-A, Challenger",FALSE,7.03,30/10/1985,6/11/1985,Earth Orbit,None visited,Returned
+Reinhard Furrer,"61-A, Challenger","61-A, Challenger",FALSE,7.03,30/10/1985,6/11/1985,Earth Orbit,None visited,Returned
+Steven R. Nagel,"61-A, Challenger","61-A, Challenger",FALSE,7.03,30/10/1985,6/11/1985,Earth Orbit,None visited,Returned
+Wubbo Ockels,"61-A, Challenger","61-A, Challenger",FALSE,7.03,30/10/1985,6/11/1985,Earth Orbit,None visited,Returned
+Brewster Shaw,"61-B, Atlantis","61-B, Atlantis",FALSE,6.88,27/11/1985,3/12/1985,Earth Orbit,None visited,Returned
+Bryan O'Connor,"61-B, Atlantis","61-B, Atlantis",FALSE,6.88,27/11/1985,3/12/1985,Earth Orbit,None visited,Returned
+Charles Walker,"61-B, Atlantis","61-B, Atlantis",FALSE,6.88,27/11/1985,3/12/1985,Earth Orbit,None visited,Returned
+Jerry L. Ross,"61-B, Atlantis","61-B, Atlantis",FALSE,6.88,27/11/1985,3/12/1985,Earth Orbit,None visited,Returned
+Mary Cleave,"61-B, Atlantis","61-B, Atlantis",FALSE,6.88,27/11/1985,3/12/1985,Earth Orbit,None visited,Returned
+Rodolfo Neri Vela,"61-B, Atlantis","61-B, Atlantis",FALSE,6.88,27/11/1985,3/12/1985,Earth Orbit,None visited,Returned
+Sherwood Spring,"61-B, Atlantis","61-B, Atlantis",FALSE,6.88,27/11/1985,3/12/1985,Earth Orbit,None visited,Returned
+Bill Nelson,"61-C, Columbia","61-C, Columbia",FALSE,6.09,12/01/1986,18/01/1986,Earth Orbit,None visited,Returned
+Charles Bolden,"61-C, Columbia","61-C, Columbia",FALSE,6.09,12/01/1986,18/01/1986,Earth Orbit,None visited,Returned
+Franklin Chang-Diaz,"61-C, Columbia","61-C, Columbia",FALSE,6.09,12/01/1986,18/01/1986,Earth Orbit,None visited,Returned
+George Nelson,"61-C, Columbia","61-C, Columbia",FALSE,6.09,12/01/1986,18/01/1986,Earth Orbit,None visited,Returned
+Robert Cenker,"61-C, Columbia","61-C, Columbia",FALSE,6.09,12/01/1986,18/01/1986,Earth Orbit,None visited,Returned
+Robert L. Gibson,"61-C, Columbia","61-C, Columbia",FALSE,6.09,12/01/1986,18/01/1986,Earth Orbit,None visited,Returned
+Steven Hawley,"61-C, Columbia","61-C, Columbia",FALSE,6.09,12/01/1986,18/01/1986,Earth Orbit,None visited,Returned
+Christa McAuliffe,"51-L, Challenger","51-L, Challenger",FALSE,0.00,28/01/1986,28/01/1986,Non-orbital space,None visited,Fail-to-land
+Ellison Onizuka,"51-L, Challenger","51-L, Challenger",FALSE,0.00,28/01/1986,28/01/1986,Non-orbital space,None visited,Fail-to-land
+Francis Scobee,"51-L, Challenger","51-L, Challenger",FALSE,0.00,28/01/1986,28/01/1986,Non-orbital space,None visited,Fail-to-land
+Gregory Jarvis,"51-L, Challenger","51-L, Challenger",FALSE,0.00,28/01/1986,28/01/1986,Non-orbital space,None visited,Fail-to-land
+Judith Resnik,"51-L, Challenger","51-L, Challenger",FALSE,0.00,28/01/1986,28/01/1986,Non-orbital space,None visited,Fail-to-land
+Michael Smith,"51-L, Challenger","51-L, Challenger",FALSE,0.00,28/01/1986,28/01/1986,Non-orbital space,None visited,Fail-to-land
+Ronald McNair,"51-L, Challenger","51-L, Challenger",FALSE,0.00,28/01/1986,28/01/1986,Non-orbital space,None visited,Fail-to-land
+Leonid Kizim,Soyuz T-15,Soyuz T-15,FALSE,125.00,13/03/1986,16/07/1986,Mir,"Mir, Salyut 7",Returned
+Vladimir Solovyov,Soyuz T-15,Soyuz T-15,FALSE,125.00,13/03/1986,16/07/1986,Mir,"Mir, Salyut 7",Returned
+Aleksandr Laveykin,Soyuz TM-2,Soyuz TM-2,FALSE,174.14,5/02/1987,30/07/1987,Mir,Mir,Returned
+Yuri Romanenko,Soyuz TM-2,Soyuz TM-3,TRUE,326.48,5/02/1987,29/12/1987,Mir,Mir,Returned
+Aleksandr Pavlovich Aleksandrov,Soyuz TM-3,Soyuz TM-3,FALSE,160.30,22/07/1987,29/12/1987,Mir,Mir,Returned
+Aleksandr Viktorenko,Soyuz TM-3,Soyuz TM-2,TRUE,7.96,22/07/1987,30/07/1987,Mir,Mir,Returned
+Muhammed Faris,Soyuz TM-3,Soyuz TM-2,TRUE,7.96,22/07/1987,30/07/1987,Mir,Mir,Returned
+Anatoli Levchenko,Soyuz TM-4,Soyuz TM-3,TRUE,7.92,21/12/1987,29/12/1987,Mir,Mir,Returned
+Musa Manarov,Soyuz TM-4,Soyuz TM-6,TRUE,365.94,21/12/1987,21/12/1988,Mir,Mir,Returned
+Vladimir Titov,Soyuz TM-4,Soyuz TM-6,TRUE,365.94,21/12/1987,21/12/1988,Mir,Mir,Returned
+Aleksandr Panayotov Aleksandrov,Soyuz TM-5,Soyuz TM-4,TRUE,9.52,7/06/1988,17/06/1988,Mir,Mir,Returned
+Anatoly Solovyev,Soyuz TM-5,Soyuz TM-4,TRUE,9.52,7/06/1988,17/06/1988,Mir,Mir,Returned
+Viktor Savinykh,Soyuz TM-5,Soyuz TM-4,TRUE,9.52,7/06/1988,17/06/1988,Mir,Mir,Returned
+Abdul Ahad Mohmand,Soyuz TM-6,Soyuz TM-5,TRUE,9.17,29/08/1988,7/09/1988,Mir,Mir,Returned
+Valery Polyakov,Soyuz TM-6,Soyuz TM-7,TRUE,240.90,29/08/1988,27/04/1989,Mir,Mir,Returned
+Vladimir Lyakhov,Soyuz TM-6,Soyuz TM-5,TRUE,9.17,29/08/1988,7/09/1988,Mir,Mir,Returned
+David Hilmers,"STS-26, Discovery","STS-26, Discovery",FALSE,4.04,29/09/1988,3/10/1988,Earth Orbit,None visited,Returned
+Frederick Hauck,"STS-26, Discovery","STS-26, Discovery",FALSE,4.04,29/09/1988,3/10/1988,Earth Orbit,None visited,Returned
+George Nelson,"STS-26, Discovery","STS-26, Discovery",FALSE,4.04,29/09/1988,3/10/1988,Earth Orbit,None visited,Returned
+John Lounge,"STS-26, Discovery","STS-26, Discovery",FALSE,4.04,29/09/1988,3/10/1988,Earth Orbit,None visited,Returned
+Richard Covey,"STS-26, Discovery","STS-26, Discovery",FALSE,4.04,29/09/1988,3/10/1988,Earth Orbit,None visited,Returned
+Aleksandr Volkov,Soyuz TM-7,Soyuz TM-7,FALSE,151.46,26/11/1988,27/04/1989,Mir,Mir,Returned
+Jean-Loup Chrétien,Soyuz TM-7,Soyuz TM-6,TRUE,24.80,26/11/1988,21/12/1988,Mir,Mir,Returned
+Sergei Krikalev,Soyuz TM-7,Soyuz TM-7,FALSE,151.46,26/11/1988,27/04/1989,Mir,Mir,Returned
+Guy Gardner,"STS-27, Atlantis","STS-27, Atlantis",FALSE,4.38,2/12/1988,6/12/1988,Earth Orbit,None visited,Returned
+Jerry L. Ross,"STS-27, Atlantis","STS-27, Atlantis",FALSE,4.38,2/12/1988,6/12/1988,Earth Orbit,None visited,Returned
+Richard Mullane,"STS-27, Atlantis","STS-27, Atlantis",FALSE,4.38,2/12/1988,6/12/1988,Earth Orbit,None visited,Returned
+Robert L. Gibson,"STS-27, Atlantis","STS-27, Atlantis",FALSE,4.38,2/12/1988,6/12/1988,Earth Orbit,None visited,Returned
+William Shepherd,"STS-27, Atlantis","STS-27, Atlantis",FALSE,4.38,2/12/1988,6/12/1988,Earth Orbit,None visited,Returned
+James Bagian,"STS-29, Discovery","STS-29, Discovery",FALSE,4.99,13/03/1989,18/03/1989,Earth Orbit,None visited,Returned
+James Buchli,"STS-29, Discovery","STS-29, Discovery",FALSE,4.99,13/03/1989,18/03/1989,Earth Orbit,None visited,Returned
+John Blaha,"STS-29, Discovery","STS-29, Discovery",FALSE,4.99,13/03/1989,18/03/1989,Earth Orbit,None visited,Returned
+Michael Coats,"STS-29, Discovery","STS-29, Discovery",FALSE,4.99,13/03/1989,18/03/1989,Earth Orbit,None visited,Returned
+Robert Springer,"STS-29, Discovery","STS-29, Discovery",FALSE,4.99,13/03/1989,18/03/1989,Earth Orbit,None visited,Returned
+David M. Walker,"STS-30, Atlantis","STS-30, Atlantis",FALSE,4.04,4/05/1989,8/05/1989,Earth Orbit,None visited,Returned
+Mark C. Lee,"STS-30, Atlantis","STS-30, Atlantis",FALSE,4.04,4/05/1989,8/05/1989,Earth Orbit,None visited,Returned
+Mary Cleave,"STS-30, Atlantis","STS-30, Atlantis",FALSE,4.04,4/05/1989,8/05/1989,Earth Orbit,None visited,Returned
+Norman Thagard,"STS-30, Atlantis","STS-30, Atlantis",FALSE,4.04,4/05/1989,8/05/1989,Earth Orbit,None visited,Returned
+Ronald Grabe,"STS-30, Atlantis","STS-30, Atlantis",FALSE,4.04,4/05/1989,8/05/1989,Earth Orbit,None visited,Returned
+Brewster Shaw,"STS-28, Columbia","STS-28, Columbia",FALSE,5.04,8/08/1989,13/08/1989,Earth Orbit,None visited,Returned
+David Leestma,"STS-28, Columbia","STS-28, Columbia",FALSE,5.04,8/08/1989,13/08/1989,Earth Orbit,None visited,Returned
+James Adamson,"STS-28, Columbia","STS-28, Columbia",FALSE,5.04,8/08/1989,13/08/1989,Earth Orbit,None visited,Returned
+Mark Brown,"STS-28, Columbia","STS-28, Columbia",FALSE,5.04,8/08/1989,13/08/1989,Earth Orbit,None visited,Returned
+Richard N. Richards,"STS-28, Columbia","STS-28, Columbia",FALSE,5.04,8/08/1989,13/08/1989,Earth Orbit,None visited,Returned
+Aleksandr Serebrov,Soyuz TM-8,Soyuz TM-8,FALSE,166.29,5/09/1989,19/02/1990,Mir,Mir,Returned
+Aleksandr Viktorenko,Soyuz TM-8,Soyuz TM-8,FALSE,166.29,5/09/1989,19/02/1990,Mir,Mir,Returned
+Donald Williams,"STS-34, Atlantis","STS-34, Atlantis",FALSE,4.99,18/10/1989,23/10/1989,Earth Orbit,None visited,Returned
+Ellen Baker,"STS-34, Atlantis","STS-34, Atlantis",FALSE,4.99,18/10/1989,23/10/1989,Earth Orbit,None visited,Returned
+Franklin Chang-Diaz,"STS-34, Atlantis","STS-34, Atlantis",FALSE,4.99,18/10/1989,23/10/1989,Earth Orbit,None visited,Returned
+Michael J. McCulley,"STS-34, Atlantis","STS-34, Atlantis",FALSE,4.99,18/10/1989,23/10/1989,Earth Orbit,None visited,Returned
+Shannon Lucid,"STS-34, Atlantis","STS-34, Atlantis",FALSE,4.99,18/10/1989,23/10/1989,Earth Orbit,None visited,Returned
+Frederick Gregory,"STS-33, Discovery","STS-33, Discovery",FALSE,5.01,23/11/1989,28/11/1989,Earth Orbit,None visited,Returned
+John Blaha,"STS-33, Discovery","STS-33, Discovery",FALSE,5.01,23/11/1989,28/11/1989,Earth Orbit,None visited,Returned
+Kathryn C. Thornton,"STS-33, Discovery","STS-33, Discovery",FALSE,5.01,23/11/1989,28/11/1989,Earth Orbit,None visited,Returned
+Sonny Carter,"STS-33, Discovery","STS-33, Discovery",FALSE,5.01,23/11/1989,28/11/1989,Earth Orbit,None visited,Returned
+Story Musgrave,"STS-33, Discovery","STS-33, Discovery",FALSE,5.01,23/11/1989,28/11/1989,Earth Orbit,None visited,Returned
+Bonnie J. Dunbar,"STS-32, Columbia","STS-32, Columbia",FALSE,10.88,9/01/1990,20/01/1990,Earth Orbit,None visited,Returned
+Daniel Brandenstein,"STS-32, Columbia","STS-32, Columbia",FALSE,10.88,9/01/1990,20/01/1990,Earth Orbit,None visited,Returned
+G. David Low,"STS-32, Columbia","STS-32, Columbia",FALSE,10.88,9/01/1990,20/01/1990,Earth Orbit,None visited,Returned
+James Wetherbee,"STS-32, Columbia","STS-32, Columbia",FALSE,10.88,9/01/1990,20/01/1990,Earth Orbit,None visited,Returned
+Marsha Ivins,"STS-32, Columbia","STS-32, Columbia",FALSE,10.88,9/01/1990,20/01/1990,Earth Orbit,None visited,Returned
+Aleksandr Balandin,Soyuz TM-9,Soyuz TM-9,FALSE,179.05,11/02/1990,9/08/1990,Mir,Mir,Returned
+Anatoly Solovyev,Soyuz TM-9,Soyuz TM-9,FALSE,179.05,11/02/1990,9/08/1990,Mir,Mir,Returned
+David Hilmers,"STS-36, Atlantis","STS-36, Atlantis",FALSE,4.43,28/02/1990,4/03/1990,Earth Orbit,None visited,Returned
+John Casper,"STS-36, Atlantis","STS-36, Atlantis",FALSE,4.43,28/02/1990,4/03/1990,Earth Orbit,None visited,Returned
+John Creighton,"STS-36, Atlantis","STS-36, Atlantis",FALSE,4.43,28/02/1990,4/03/1990,Earth Orbit,None visited,Returned
+Pierre Thuot,"STS-36, Atlantis","STS-36, Atlantis",FALSE,4.43,28/02/1990,4/03/1990,Earth Orbit,None visited,Returned
+Richard Mullane,"STS-36, Atlantis","STS-36, Atlantis",FALSE,4.43,28/02/1990,4/03/1990,Earth Orbit,None visited,Returned
+Bruce McCandless II,"STS-31, Discovery","STS-31, Discovery",FALSE,5.05,24/04/1990,29/04/1990,Earth Orbit,None visited,Returned
+Charles Bolden,"STS-31, Discovery","STS-31, Discovery",FALSE,5.05,24/04/1990,29/04/1990,Earth Orbit,None visited,Returned
+Kathryn D. Sullivan,"STS-31, Discovery","STS-31, Discovery",FALSE,5.05,24/04/1990,29/04/1990,Earth Orbit,None visited,Returned
+Loren Shriver,"STS-31, Discovery","STS-31, Discovery",FALSE,5.05,24/04/1990,29/04/1990,Earth Orbit,None visited,Returned
+Steven Hawley,"STS-31, Discovery","STS-31, Discovery",FALSE,5.05,24/04/1990,29/04/1990,Earth Orbit,None visited,Returned
+Gennadi Manakov,Soyuz TM-10,Soyuz TM-10,FALSE,130.86,1/08/1990,10/12/1990,Mir,Mir,Returned
+Gennadi Strekalov,Soyuz TM-10,Soyuz TM-10,FALSE,130.86,1/08/1990,10/12/1990,Mir,Mir,Returned
+Bruce Melnick,"STS-41, Discovery","STS-41, Discovery",FALSE,4.09,6/10/1990,10/10/1990,Earth Orbit,None visited,Returned
+Richard N. Richards,"STS-41, Discovery","STS-41, Discovery",FALSE,4.09,6/10/1990,10/10/1990,Earth Orbit,None visited,Returned
+Robert Cabana,"STS-41, Discovery","STS-41, Discovery",FALSE,4.09,6/10/1990,10/10/1990,Earth Orbit,None visited,Returned
+Thomas Akers,"STS-41, Discovery","STS-41, Discovery",FALSE,4.09,6/10/1990,10/10/1990,Earth Orbit,None visited,Returned
+William Shepherd,"STS-41, Discovery","STS-41, Discovery",FALSE,4.09,6/10/1990,10/10/1990,Earth Orbit,None visited,Returned
+Carl Meade,"STS-38, Atlantis","STS-38, Atlantis",FALSE,4.91,15/11/1990,20/11/1990,Earth Orbit,None visited,Returned
+Charles Gemar,"STS-38, Atlantis","STS-38, Atlantis",FALSE,4.91,15/11/1990,20/11/1990,Earth Orbit,None visited,Returned
+Frank Culbertson,"STS-38, Atlantis","STS-38, Atlantis",FALSE,4.91,15/11/1990,20/11/1990,Earth Orbit,None visited,Returned
+Richard Covey,"STS-38, Atlantis","STS-38, Atlantis",FALSE,4.91,15/11/1990,20/11/1990,Earth Orbit,None visited,Returned
+Robert Springer,"STS-38, Atlantis","STS-38, Atlantis",FALSE,4.91,15/11/1990,20/11/1990,Earth Orbit,None visited,Returned
+Guy Gardner,"STS-35, Columbia","STS-35, Columbia",FALSE,8.96,2/12/1990,11/12/1990,Earth Orbit,None visited,Returned
+Jeffrey Hoffman,"STS-35, Columbia","STS-35, Columbia",FALSE,8.96,2/12/1990,11/12/1990,Earth Orbit,None visited,Returned
+John Lounge,"STS-35, Columbia","STS-35, Columbia",FALSE,8.96,2/12/1990,11/12/1990,Earth Orbit,None visited,Returned
+Robert Parker,"STS-35, Columbia","STS-35, Columbia",FALSE,8.96,2/12/1990,11/12/1990,Earth Orbit,None visited,Returned
+Ronald A. Parise,"STS-35, Columbia","STS-35, Columbia",FALSE,8.96,2/12/1990,11/12/1990,Earth Orbit,None visited,Returned
+Samuel T. Durrance,"STS-35, Columbia","STS-35, Columbia",FALSE,8.96,2/12/1990,11/12/1990,Earth Orbit,None visited,Returned
+Vance Brand,"STS-35, Columbia","STS-35, Columbia",FALSE,8.96,2/12/1990,11/12/1990,Earth Orbit,None visited,Returned
+Musa Manarov,Soyuz TM-11,Soyuz TM-11,FALSE,175.08,2/12/1990,26/05/1991,Mir,Mir,Returned
+Toyohiro Akiyama,Soyuz TM-11,Soyuz TM-10,TRUE,7.91,2/12/1990,10/12/1990,Mir,Mir,Returned
+Viktor M. Afanasyev,Soyuz TM-11,Soyuz TM-11,FALSE,175.08,2/12/1990,26/05/1991,Mir,Mir,Returned
+Jerome Apt,"STS-37, Atlantis","STS-37, Atlantis",FALSE,5.98,5/04/1991,11/04/1991,Earth Orbit,None visited,Returned
+Jerry L. Ross,"STS-37, Atlantis","STS-37, Atlantis",FALSE,5.98,5/04/1991,11/04/1991,Earth Orbit,None visited,Returned
+Kenneth Cameron,"STS-37, Atlantis","STS-37, Atlantis",FALSE,5.98,5/04/1991,11/04/1991,Earth Orbit,None visited,Returned
+Linda Godwin,"STS-37, Atlantis","STS-37, Atlantis",FALSE,5.98,5/04/1991,11/04/1991,Earth Orbit,None visited,Returned
+Steven R. Nagel,"STS-37, Atlantis","STS-37, Atlantis",FALSE,5.98,5/04/1991,11/04/1991,Earth Orbit,None visited,Returned
+Charles L. Veach,"STS-39, Discovery","STS-39, Discovery",FALSE,8.31,28/04/1991,6/05/1991,Earth Orbit,None visited,Returned
+Donald McMonagle,"STS-39, Discovery","STS-39, Discovery",FALSE,8.31,28/04/1991,6/05/1991,Earth Orbit,None visited,Returned
+Gregory Harbaugh,"STS-39, Discovery","STS-39, Discovery",FALSE,8.31,28/04/1991,6/05/1991,Earth Orbit,None visited,Returned
+Guion Bluford,"STS-39, Discovery","STS-39, Discovery",FALSE,8.31,28/04/1991,6/05/1991,Earth Orbit,None visited,Returned
+Lloyd Hammond,"STS-39, Discovery","STS-39, Discovery",FALSE,8.31,28/04/1991,6/05/1991,Earth Orbit,None visited,Returned
+Michael Coats,"STS-39, Discovery","STS-39, Discovery",FALSE,8.31,28/04/1991,6/05/1991,Earth Orbit,None visited,Returned
+Richard Hieb,"STS-39, Discovery","STS-39, Discovery",FALSE,8.31,28/04/1991,6/05/1991,Earth Orbit,None visited,Returned
+Anatoly Artsebarsky,Soyuz TM-12,Soyuz TM-12,FALSE,144.64,18/05/1991,10/10/1991,Mir,Mir,Returned
+Helen Sharman,Soyuz TM-12,Soyuz TM-11,TRUE,7.88,18/05/1991,26/05/1991,Mir,Mir,Returned
+Sergei Krikalev,Soyuz TM-12,Soyuz TM-13,TRUE,311.83,18/05/1991,25/03/1992,Mir,Mir,Returned
+Bryan O'Connor,"STS-40, Columbia","STS-40, Columbia",FALSE,9.09,5/06/1991,14/06/1991,Earth Orbit,None visited,Returned
+Francis Gaffney,"STS-40, Columbia","STS-40, Columbia",FALSE,9.09,5/06/1991,14/06/1991,Earth Orbit,None visited,Returned
+James Bagian,"STS-40, Columbia","STS-40, Columbia",FALSE,9.09,5/06/1991,14/06/1991,Earth Orbit,None visited,Returned
+Margaret Rhea Seddon,"STS-40, Columbia","STS-40, Columbia",FALSE,9.09,5/06/1991,14/06/1991,Earth Orbit,None visited,Returned
+Millie Hughes-Fulford,"STS-40, Columbia","STS-40, Columbia",FALSE,9.09,5/06/1991,14/06/1991,Earth Orbit,None visited,Returned
+Sidney Gutierrez,"STS-40, Columbia","STS-40, Columbia",FALSE,9.09,5/06/1991,14/06/1991,Earth Orbit,None visited,Returned
+Tamara E. Jernigan,"STS-40, Columbia","STS-40, Columbia",FALSE,9.09,5/06/1991,14/06/1991,Earth Orbit,None visited,Returned
+G. David Low,"STS-43, Atlantis","STS-43, Atlantis",FALSE,8.89,2/08/1991,11/08/1991,Earth Orbit,None visited,Returned
+James Adamson,"STS-43, Atlantis","STS-43, Atlantis",FALSE,8.89,2/08/1991,11/08/1991,Earth Orbit,None visited,Returned
+John Blaha,"STS-43, Atlantis","STS-43, Atlantis",FALSE,8.89,2/08/1991,11/08/1991,Earth Orbit,None visited,Returned
+Michael Baker,"STS-43, Atlantis","STS-43, Atlantis",FALSE,8.89,2/08/1991,11/08/1991,Earth Orbit,None visited,Returned
+Shannon Lucid,"STS-43, Atlantis","STS-43, Atlantis",FALSE,8.89,2/08/1991,11/08/1991,Earth Orbit,None visited,Returned
+Charles Gemar,"STS-48, Discovery","STS-48, Discovery",FALSE,5.35,12/09/1991,18/09/1991,Earth Orbit,None visited,Returned
+James Buchli,"STS-48, Discovery","STS-48, Discovery",FALSE,5.35,12/09/1991,18/09/1991,Earth Orbit,None visited,Returned
+John Creighton,"STS-48, Discovery","STS-48, Discovery",FALSE,5.35,12/09/1991,18/09/1991,Earth Orbit,None visited,Returned
+Kenneth Reightler,"STS-48, Discovery","STS-48, Discovery",FALSE,5.35,12/09/1991,18/09/1991,Earth Orbit,None visited,Returned
+Mark Brown,"STS-48, Discovery","STS-48, Discovery",FALSE,5.35,12/09/1991,18/09/1991,Earth Orbit,None visited,Returned
+Aleksandr Volkov,Soyuz TM-13,Soyuz TM-13,FALSE,175.12,2/10/1991,25/03/1992,Mir,Mir,Returned
+Franz Viehböck,Soyuz TM-13,Soyuz TM-12,TRUE,7.93,2/10/1991,10/10/1991,Mir,Mir,Returned
+Toktar Aubakirov,Soyuz TM-13,Soyuz TM-12,TRUE,7.93,2/10/1991,10/10/1991,Mir,Mir,Returned
+Frederick Gregory,"STS-44, Atlantis","STS-44, Atlantis",FALSE,6.95,24/11/1991,1/12/1991,Earth Orbit,None visited,Returned
+James S. Voss,"STS-44, Atlantis","STS-44, Atlantis",FALSE,6.95,24/11/1991,1/12/1991,Earth Orbit,None visited,Returned
+Mario Runco,"STS-44, Atlantis","STS-44, Atlantis",FALSE,6.95,24/11/1991,1/12/1991,Earth Orbit,None visited,Returned
+Story Musgrave,"STS-44, Atlantis","STS-44, Atlantis",FALSE,6.95,24/11/1991,1/12/1991,Earth Orbit,None visited,Returned
+Terence Henricks,"STS-44, Atlantis","STS-44, Atlantis",FALSE,6.95,24/11/1991,1/12/1991,Earth Orbit,None visited,Returned
+Thomas Hennen,"STS-44, Atlantis","STS-44, Atlantis",FALSE,6.95,24/11/1991,1/12/1991,Earth Orbit,None visited,Returned
+David Hilmers,"STS-42, Discovery","STS-42, Discovery",FALSE,8.05,22/01/1992,30/01/1992,Earth Orbit,None visited,Returned
+Norman Thagard,"STS-42, Discovery","STS-42, Discovery",FALSE,8.05,22/01/1992,30/01/1992,Earth Orbit,None visited,Returned
+Roberta Bondar,"STS-42, Discovery","STS-42, Discovery",FALSE,8.05,22/01/1992,30/01/1992,Earth Orbit,None visited,Returned
+Ronald Grabe,"STS-42, Discovery","STS-42, Discovery",FALSE,8.05,22/01/1992,30/01/1992,Earth Orbit,None visited,Returned
+Stephen Oswald,"STS-42, Discovery","STS-42, Discovery",FALSE,8.05,22/01/1992,30/01/1992,Earth Orbit,None visited,Returned
+Ulf Merbold,"STS-42, Discovery","STS-42, Discovery",FALSE,8.05,22/01/1992,30/01/1992,Earth Orbit,None visited,Returned
+William Readdy,"STS-42, Discovery","STS-42, Discovery",FALSE,8.05,22/01/1992,30/01/1992,Earth Orbit,None visited,Returned
+Aleksandr Viktorenko,Soyuz TM-14,Soyuz TM-14,FALSE,145.59,17/03/1992,10/08/1992,Mir,Mir,Returned
+Alexsandr Kaleri,Soyuz TM-14,Soyuz TM-14,FALSE,145.59,17/03/1992,10/08/1992,Mir,Mir,Returned
+Klaus-Dietrich Flade,Soyuz TM-14,Soyuz TM-13,TRUE,7.91,17/03/1992,25/03/1992,Mir,Mir,Returned
+Brian Duffy,"STS-45, Atlantis","STS-45, Atlantis",FALSE,8.92,24/03/1992,2/04/1992,Earth Orbit,None visited,Returned
+Byron Lichtenberg,"STS-45, Atlantis","STS-45, Atlantis",FALSE,8.92,24/03/1992,2/04/1992,Earth Orbit,None visited,Returned
+Charles Bolden,"STS-45, Atlantis","STS-45, Atlantis",FALSE,8.92,24/03/1992,2/04/1992,Earth Orbit,None visited,Returned
+David Leestma,"STS-45, Atlantis","STS-45, Atlantis",FALSE,8.92,24/03/1992,2/04/1992,Earth Orbit,None visited,Returned
+Dirk Frimout,"STS-45, Atlantis","STS-45, Atlantis",FALSE,8.92,24/03/1992,2/04/1992,Earth Orbit,None visited,Returned
+Kathryn D. Sullivan,"STS-45, Atlantis","STS-45, Atlantis",FALSE,8.92,24/03/1992,2/04/1992,Earth Orbit,None visited,Returned
+Michael Foale,"STS-45, Atlantis","STS-45, Atlantis",FALSE,8.92,24/03/1992,2/04/1992,Earth Orbit,None visited,Returned
+Bruce Melnick,"STS-49, Endeavour","STS-49, Endeavour",FALSE,8.89,7/05/1992,16/05/1992,Earth Orbit,None visited,Returned
+Daniel Brandenstein,"STS-49, Endeavour","STS-49, Endeavour",FALSE,8.89,7/05/1992,16/05/1992,Earth Orbit,None visited,Returned
+Kathryn C. Thornton,"STS-49, Endeavour","STS-49, Endeavour",FALSE,8.89,7/05/1992,16/05/1992,Earth Orbit,None visited,Returned
+Kevin Chilton,"STS-49, Endeavour","STS-49, Endeavour",FALSE,8.89,7/05/1992,16/05/1992,Earth Orbit,None visited,Returned
+Pierre Thuot,"STS-49, Endeavour","STS-49, Endeavour",FALSE,8.89,7/05/1992,16/05/1992,Earth Orbit,None visited,Returned
+Richard Hieb,"STS-49, Endeavour","STS-49, Endeavour",FALSE,8.89,7/05/1992,16/05/1992,Earth Orbit,None visited,Returned
+Thomas Akers,"STS-49, Endeavour","STS-49, Endeavour",FALSE,8.89,7/05/1992,16/05/1992,Earth Orbit,None visited,Returned
+Bonnie J. Dunbar,"STS-50, Columbia","STS-50, Columbia",FALSE,13.81,25/06/1992,9/07/1992,Earth Orbit,None visited,Returned
+Carl Meade,"STS-50, Columbia","STS-50, Columbia",FALSE,13.81,25/06/1992,9/07/1992,Earth Orbit,None visited,Returned
+Ellen Baker,"STS-50, Columbia","STS-50, Columbia",FALSE,13.81,25/06/1992,9/07/1992,Earth Orbit,None visited,Returned
+Eugene H. Trinh,"STS-50, Columbia","STS-50, Columbia",FALSE,13.81,25/06/1992,9/07/1992,Earth Orbit,None visited,Returned
+Kenneth Bowersox,"STS-50, Columbia","STS-50, Columbia",FALSE,13.81,25/06/1992,9/07/1992,Earth Orbit,None visited,Returned
+Lawrence J. DeLucas,"STS-50, Columbia","STS-50, Columbia",FALSE,13.81,25/06/1992,9/07/1992,Earth Orbit,None visited,Returned
+Richard N. Richards,"STS-50, Columbia","STS-50, Columbia",FALSE,13.81,25/06/1992,9/07/1992,Earth Orbit,None visited,Returned
+Anatoly Solovyev,Soyuz TM-15,Soyuz TM-15,FALSE,188.90,27/07/1992,1/02/1993,Mir,Mir,Returned
+Michel Tognini,Soyuz TM-15,Soyuz TM-14,TRUE,13.79,27/07/1992,10/08/1992,Mir,Mir,Returned
+Sergei Avdeyev,Soyuz TM-15,Soyuz TM-15,FALSE,188.90,27/07/1992,1/02/1993,Mir,Mir,Returned
+Andrew M. Allen,"STS-46, Atlantis","STS-46, Atlantis",FALSE,7.97,31/07/1992,8/08/1992,Earth Orbit,None visited,Returned
+Claude Nicollier,"STS-46, Atlantis","STS-46, Atlantis",FALSE,7.97,31/07/1992,8/08/1992,Earth Orbit,None visited,Returned
+Franco Malerba,"STS-46, Atlantis","STS-46, Atlantis",FALSE,7.97,31/07/1992,8/08/1992,Earth Orbit,None visited,Returned
+Franklin Chang-Diaz,"STS-46, Atlantis","STS-46, Atlantis",FALSE,7.97,31/07/1992,8/08/1992,Earth Orbit,None visited,Returned
+Jeffrey Hoffman,"STS-46, Atlantis","STS-46, Atlantis",FALSE,7.97,31/07/1992,8/08/1992,Earth Orbit,None visited,Returned
+Loren Shriver,"STS-46, Atlantis","STS-46, Atlantis",FALSE,7.97,31/07/1992,8/08/1992,Earth Orbit,None visited,Returned
+Marsha Ivins,"STS-46, Atlantis","STS-46, Atlantis",FALSE,7.97,31/07/1992,8/08/1992,Earth Orbit,None visited,Returned
+Curtis Brown,"STS-47, Endeavour","STS-47, Endeavour",FALSE,7.94,12/09/1992,20/09/1992,Earth Orbit,None visited,Returned
+Jerome Apt,"STS-47, Endeavour","STS-47, Endeavour",FALSE,7.94,12/09/1992,20/09/1992,Earth Orbit,None visited,Returned
+Mae Jemison,"STS-47, Endeavour","STS-47, Endeavour",FALSE,7.94,12/09/1992,20/09/1992,Earth Orbit,None visited,Returned
+Mamoru Mohri,"STS-47, Endeavour","STS-47, Endeavour",FALSE,7.94,12/09/1992,20/09/1992,Earth Orbit,None visited,Returned
+Mark C. Lee,"STS-47, Endeavour","STS-47, Endeavour",FALSE,7.94,12/09/1992,20/09/1992,Earth Orbit,None visited,Returned
+Nancy Jan Davis,"STS-47, Endeavour","STS-47, Endeavour",FALSE,7.94,12/09/1992,20/09/1992,Earth Orbit,None visited,Returned
+Robert L. Gibson,"STS-47, Endeavour","STS-47, Endeavour",FALSE,7.94,12/09/1992,20/09/1992,Earth Orbit,None visited,Returned
+Charles L. Veach,"STS-52, Columbia","STS-52, Columbia",FALSE,9.87,22/10/1992,1/11/1992,Earth Orbit,None visited,Returned
+James Wetherbee,"STS-52, Columbia","STS-52, Columbia",FALSE,9.87,22/10/1992,1/11/1992,Earth Orbit,None visited,Returned
+Michael Baker,"STS-52, Columbia","STS-52, Columbia",FALSE,9.87,22/10/1992,1/11/1992,Earth Orbit,None visited,Returned
+Steven MacLean,"STS-52, Columbia","STS-52, Columbia",FALSE,9.87,22/10/1992,1/11/1992,Earth Orbit,None visited,Returned
+Tamara E. Jernigan,"STS-52, Columbia","STS-52, Columbia",FALSE,9.87,22/10/1992,1/11/1992,Earth Orbit,None visited,Returned
+William Shepherd,"STS-52, Columbia","STS-52, Columbia",FALSE,9.87,22/10/1992,1/11/1992,Earth Orbit,None visited,Returned
+David M. Walker,"STS-53, Discovery","STS-53, Discovery",FALSE,7.31,2/12/1992,9/12/1992,Earth Orbit,None visited,Returned
+Guion Bluford,"STS-53, Discovery","STS-53, Discovery",FALSE,7.31,2/12/1992,9/12/1992,Earth Orbit,None visited,Returned
+James S. Voss,"STS-53, Discovery","STS-53, Discovery",FALSE,7.31,2/12/1992,9/12/1992,Earth Orbit,None visited,Returned
+Michael Clifford,"STS-53, Discovery","STS-53, Discovery",FALSE,7.31,2/12/1992,9/12/1992,Earth Orbit,None visited,Returned
+Robert Cabana,"STS-53, Discovery","STS-53, Discovery",FALSE,7.31,2/12/1992,9/12/1992,Earth Orbit,None visited,Returned
+Donald McMonagle,"STS-54, Endeavour","STS-54, Endeavour",FALSE,5.99,13/01/1993,19/01/1993,Earth Orbit,None visited,Returned
+Gregory Harbaugh,"STS-54, Endeavour","STS-54, Endeavour",FALSE,5.99,13/01/1993,19/01/1993,Earth Orbit,None visited,Returned
+John Casper,"STS-54, Endeavour","STS-54, Endeavour",FALSE,5.99,13/01/1993,19/01/1993,Earth Orbit,None visited,Returned
+Mario Runco,"STS-54, Endeavour","STS-54, Endeavour",FALSE,5.99,13/01/1993,19/01/1993,Earth Orbit,None visited,Returned
+Susan Helms,"STS-54, Endeavour","STS-54, Endeavour",FALSE,5.99,13/01/1993,19/01/1993,Earth Orbit,None visited,Returned
+Aleksandr Poleshchuk,Soyuz TM-16,Soyuz TM-16,FALSE,179.03,24/01/1993,22/07/1993,Mir,Mir,Returned
+Gennadi Manakov,Soyuz TM-16,Soyuz TM-16,FALSE,179.03,24/01/1993,22/07/1993,Mir,Mir,Returned
+Ellen Ochoa,"STS-56, Discovery","STS-56, Discovery",FALSE,9.26,8/04/1993,17/04/1993,Earth Orbit,None visited,Returned
+Kenneth Cameron,"STS-56, Discovery","STS-56, Discovery",FALSE,9.26,8/04/1993,17/04/1993,Earth Orbit,None visited,Returned
+Kenneth Cockrell,"STS-56, Discovery","STS-56, Discovery",FALSE,9.26,8/04/1993,17/04/1993,Earth Orbit,None visited,Returned
+Michael Foale,"STS-56, Discovery","STS-56, Discovery",FALSE,9.26,8/04/1993,17/04/1993,Earth Orbit,None visited,Returned
+Stephen Oswald,"STS-56, Discovery","STS-56, Discovery",FALSE,9.26,8/04/1993,17/04/1993,Earth Orbit,None visited,Returned
+Bernard Harris,"STS-55, Columbia","STS-55, Columbia",FALSE,9.99,26/04/1993,6/05/1993,Earth Orbit,None visited,Returned
+Charles Precourt,"STS-55, Columbia","STS-55, Columbia",FALSE,9.99,26/04/1993,6/05/1993,Earth Orbit,None visited,Returned
+Hans Schlegel,"STS-55, Columbia","STS-55, Columbia",FALSE,9.99,26/04/1993,6/05/1993,Earth Orbit,None visited,Returned
+Jerry L. Ross,"STS-55, Columbia","STS-55, Columbia",FALSE,9.99,26/04/1993,6/05/1993,Earth Orbit,None visited,Returned
+Steven R. Nagel,"STS-55, Columbia","STS-55, Columbia",FALSE,9.99,26/04/1993,6/05/1993,Earth Orbit,None visited,Returned
+Terence Henricks,"STS-55, Columbia","STS-55, Columbia",FALSE,9.99,26/04/1993,6/05/1993,Earth Orbit,None visited,Returned
+Ulrich Walter,"STS-55, Columbia","STS-55, Columbia",FALSE,9.99,26/04/1993,6/05/1993,Earth Orbit,None visited,Returned
+Brian Duffy,"STS-57, Endeavour","STS-57, Endeavour",FALSE,9.99,21/06/1993,1/07/1993,Earth Orbit,None visited,Returned
+G. David Low,"STS-57, Endeavour","STS-57, Endeavour",FALSE,9.99,21/06/1993,1/07/1993,Earth Orbit,None visited,Returned
+Janice E. Voss,"STS-57, Endeavour","STS-57, Endeavour",FALSE,9.99,21/06/1993,1/07/1993,Earth Orbit,None visited,Returned
+Nancy J. Currie-Gregg,"STS-57, Endeavour","STS-57, Endeavour",FALSE,9.99,21/06/1993,1/07/1993,Earth Orbit,None visited,Returned
+Peter Wisoff,"STS-57, Endeavour","STS-57, Endeavour",FALSE,9.99,21/06/1993,1/07/1993,Earth Orbit,None visited,Returned
+Ronald Grabe,"STS-57, Endeavour","STS-57, Endeavour",FALSE,9.99,21/06/1993,1/07/1993,Earth Orbit,None visited,Returned
+Aleksandr Serebrov,Soyuz TM-17,Soyuz TM-17,FALSE,196.74,1/07/1993,14/01/1994,Mir,Mir,Returned
+Jean-Pierre Haigneré,Soyuz TM-17,Soyuz TM-16,TRUE,20.46,1/07/1993,22/07/1993,Mir,Mir,Returned
+Vasily Tsibliyev,Soyuz TM-17,Soyuz TM-17,FALSE,196.74,1/07/1993,14/01/1994,Mir,Mir,Returned
+Carl E. Walz,"STS-51, Discovery","STS-51, Discovery",FALSE,9.84,12/09/1993,22/09/1993,Earth Orbit,None visited,Returned
+Daniel Bursch,"STS-51, Discovery","STS-51, Discovery",FALSE,9.84,12/09/1993,22/09/1993,Earth Orbit,None visited,Returned
+Frank Culbertson,"STS-51, Discovery","STS-51, Discovery",FALSE,9.84,12/09/1993,22/09/1993,Earth Orbit,None visited,Returned
+James H. Newman,"STS-51, Discovery","STS-51, Discovery",FALSE,9.84,12/09/1993,22/09/1993,Earth Orbit,None visited,Returned
+William Readdy,"STS-51, Discovery","STS-51, Discovery",FALSE,9.84,12/09/1993,22/09/1993,Earth Orbit,None visited,Returned
+David Wolf,"STS-58, Columbia","STS-58, Columbia",FALSE,14.01,18/10/1993,1/11/1993,Earth Orbit,None visited,Returned
+John Blaha,"STS-58, Columbia","STS-58, Columbia",FALSE,14.01,18/10/1993,1/11/1993,Earth Orbit,None visited,Returned
+Margaret Rhea Seddon,"STS-58, Columbia","STS-58, Columbia",FALSE,14.01,18/10/1993,1/11/1993,Earth Orbit,None visited,Returned
+Martin J. Fettman,"STS-58, Columbia","STS-58, Columbia",FALSE,14.01,18/10/1993,1/11/1993,Earth Orbit,None visited,Returned
+Richard A. Searfoss,"STS-58, Columbia","STS-58, Columbia",FALSE,14.01,18/10/1993,1/11/1993,Earth Orbit,None visited,Returned
+Shannon Lucid,"STS-58, Columbia","STS-58, Columbia",FALSE,14.01,18/10/1993,1/11/1993,Earth Orbit,None visited,Returned
+William S. McArthur,"STS-58, Columbia","STS-58, Columbia",FALSE,14.01,18/10/1993,1/11/1993,Earth Orbit,None visited,Returned
+Claude Nicollier,"STS-61, Endeavour","STS-61, Endeavour",FALSE,10.83,2/12/1993,13/12/1993,Earth Orbit,None visited,Returned
+Jeffrey Hoffman,"STS-61, Endeavour","STS-61, Endeavour",FALSE,10.83,2/12/1993,13/12/1993,Earth Orbit,None visited,Returned
+Kathryn C. Thornton,"STS-61, Endeavour","STS-61, Endeavour",FALSE,10.83,2/12/1993,13/12/1993,Earth Orbit,None visited,Returned
+Kenneth Bowersox,"STS-61, Endeavour","STS-61, Endeavour",FALSE,10.83,2/12/1993,13/12/1993,Earth Orbit,None visited,Returned
+Richard Covey,"STS-61, Endeavour","STS-61, Endeavour",FALSE,10.83,2/12/1993,13/12/1993,Earth Orbit,None visited,Returned
+Story Musgrave,"STS-61, Endeavour","STS-61, Endeavour",FALSE,10.83,2/12/1993,13/12/1993,Earth Orbit,None visited,Returned
+Thomas Akers,"STS-61, Endeavour","STS-61, Endeavour",FALSE,10.83,2/12/1993,13/12/1993,Earth Orbit,None visited,Returned
+Valery Polyakov,Soyuz TM-18,Soyuz TM-20,TRUE,437.75,8/01/1994,22/03/1995,Mir,Mir,Returned
+Viktor M. Afanasyev,Soyuz TM-18,Soyuz TM-18,FALSE,182.02,8/01/1994,9/07/1994,Mir,Mir,Returned
+Yury Usachov,Soyuz TM-18,Soyuz TM-18,FALSE,182.02,8/01/1994,9/07/1994,Mir,Mir,Returned
+Charles Bolden,"STS-60, Discovery","STS-60, Discovery",FALSE,8.30,3/02/1994,11/02/1994,Earth Orbit,None visited,Returned
+Franklin Chang-Diaz,"STS-60, Discovery","STS-60, Discovery",FALSE,8.30,3/02/1994,11/02/1994,Earth Orbit,None visited,Returned
+Kenneth Reightler,"STS-60, Discovery","STS-60, Discovery",FALSE,8.30,3/02/1994,11/02/1994,Earth Orbit,None visited,Returned
+Nancy Jan Davis,"STS-60, Discovery","STS-60, Discovery",FALSE,8.30,3/02/1994,11/02/1994,Earth Orbit,None visited,Returned
+Ronald M. Sega,"STS-60, Discovery","STS-60, Discovery",FALSE,8.30,3/02/1994,11/02/1994,Earth Orbit,None visited,Returned
+Sergei Krikalev,"STS-60, Discovery","STS-60, Discovery",FALSE,8.30,3/02/1994,11/02/1994,Earth Orbit,None visited,Returned
+Andrew M. Allen,"STS-62, Columbia","STS-62, Columbia",FALSE,13.97,4/03/1994,18/03/1994,Earth Orbit,None visited,Returned
+Charles Gemar,"STS-62, Columbia","STS-62, Columbia",FALSE,13.97,4/03/1994,18/03/1994,Earth Orbit,None visited,Returned
+John Casper,"STS-62, Columbia","STS-62, Columbia",FALSE,13.97,4/03/1994,18/03/1994,Earth Orbit,None visited,Returned
+Marsha Ivins,"STS-62, Columbia","STS-62, Columbia",FALSE,13.97,4/03/1994,18/03/1994,Earth Orbit,None visited,Returned
+Pierre Thuot,"STS-62, Columbia","STS-62, Columbia",FALSE,13.97,4/03/1994,18/03/1994,Earth Orbit,None visited,Returned
+Jerome Apt,"STS-59, Endeavour","STS-59, Endeavour",FALSE,11.24,9/04/1994,20/04/1994,Earth Orbit,None visited,Returned
+Kevin Chilton,"STS-59, Endeavour","STS-59, Endeavour",FALSE,11.24,9/04/1994,20/04/1994,Earth Orbit,None visited,Returned
+Linda Godwin,"STS-59, Endeavour","STS-59, Endeavour",FALSE,11.24,9/04/1994,20/04/1994,Earth Orbit,None visited,Returned
+Michael Clifford,"STS-59, Endeavour","STS-59, Endeavour",FALSE,11.24,9/04/1994,20/04/1994,Earth Orbit,None visited,Returned
+Sidney Gutierrez,"STS-59, Endeavour","STS-59, Endeavour",FALSE,11.24,9/04/1994,20/04/1994,Earth Orbit,None visited,Returned
+Thomas D. Jones,"STS-59, Endeavour","STS-59, Endeavour",FALSE,11.24,9/04/1994,20/04/1994,Earth Orbit,None visited,Returned
+Talgat Musabayev,Soyuz TM-19,Soyuz TM-19,FALSE,125.95,1/07/1994,4/11/1994,Mir,Mir,Returned
+Yuri Malenchenko,Soyuz TM-19,Soyuz TM-19,FALSE,125.95,1/07/1994,4/11/1994,Mir,Mir,Returned
+Carl E. Walz,"STS-65, Columbia","STS-65, Columbia",FALSE,14.75,8/07/1994,22/07/1994,Earth Orbit,None visited,Returned
+Chiaki Mukai,"STS-65, Columbia","STS-65, Columbia",FALSE,14.75,8/07/1994,22/07/1994,Earth Orbit,None visited,Returned
+Donald Thomas,"STS-65, Columbia","STS-65, Columbia",FALSE,14.75,8/07/1994,22/07/1994,Earth Orbit,None visited,Returned
+James Halsell,"STS-65, Columbia","STS-65, Columbia",FALSE,14.75,8/07/1994,22/07/1994,Earth Orbit,None visited,Returned
+Leroy Chiao,"STS-65, Columbia","STS-65, Columbia",FALSE,14.75,8/07/1994,22/07/1994,Earth Orbit,None visited,Returned
+Richard Hieb,"STS-65, Columbia","STS-65, Columbia",FALSE,14.75,8/07/1994,22/07/1994,Earth Orbit,None visited,Returned
+Robert Cabana,"STS-65, Columbia","STS-65, Columbia",FALSE,14.75,8/07/1994,22/07/1994,Earth Orbit,None visited,Returned
+Carl Meade,"STS-64, Discovery","STS-64, Discovery",FALSE,10.95,9/09/1994,20/09/1994,Earth Orbit,None visited,Returned
+Jerry Linenger,"STS-64, Discovery","STS-64, Discovery",FALSE,10.95,9/09/1994,20/09/1994,Earth Orbit,None visited,Returned
+Lloyd Hammond,"STS-64, Discovery","STS-64, Discovery",FALSE,10.95,9/09/1994,20/09/1994,Earth Orbit,None visited,Returned
+Mark C. Lee,"STS-64, Discovery","STS-64, Discovery",FALSE,10.95,9/09/1994,20/09/1994,Earth Orbit,None visited,Returned
+Richard N. Richards,"STS-64, Discovery","STS-64, Discovery",FALSE,10.95,9/09/1994,20/09/1994,Earth Orbit,None visited,Returned
+Susan Helms,"STS-64, Discovery","STS-64, Discovery",FALSE,10.95,9/09/1994,20/09/1994,Earth Orbit,None visited,Returned
+Daniel Bursch,"STS-68, Endeavour","STS-68, Endeavour",FALSE,11.24,30/09/1994,11/10/1994,Earth Orbit,None visited,Returned
+Michael Baker,"STS-68, Endeavour","STS-68, Endeavour",FALSE,11.24,30/09/1994,11/10/1994,Earth Orbit,None visited,Returned
+Peter Wisoff,"STS-68, Endeavour","STS-68, Endeavour",FALSE,11.24,30/09/1994,11/10/1994,Earth Orbit,None visited,Returned
+Steven Smith,"STS-68, Endeavour","STS-68, Endeavour",FALSE,11.24,30/09/1994,11/10/1994,Earth Orbit,None visited,Returned
+Terrence Wilcutt,"STS-68, Endeavour","STS-68, Endeavour",FALSE,11.24,30/09/1994,11/10/1994,Earth Orbit,None visited,Returned
+Thomas D. Jones,"STS-68, Endeavour","STS-68, Endeavour",FALSE,11.24,30/09/1994,11/10/1994,Earth Orbit,None visited,Returned
+Aleksandr Viktorenko,Soyuz TM-20,Soyuz TM-20,FALSE,169.22,3/10/1994,22/03/1995,Mir,Mir,Returned
+Ulf Merbold,Soyuz TM-20,Soyuz TM-19,TRUE,31.53,3/10/1994,4/11/1994,Mir,Mir,Returned
+Yelena Kondakova,Soyuz TM-20,Soyuz TM-20,FALSE,169.22,3/10/1994,22/03/1995,Mir,Mir,Returned
+Curtis Brown,"STS-66, Atlantis","STS-66, Atlantis",FALSE,10.94,3/11/1994,14/11/1994,Earth Orbit,None visited,Returned
+Donald McMonagle,"STS-66, Atlantis","STS-66, Atlantis",FALSE,10.94,3/11/1994,14/11/1994,Earth Orbit,None visited,Returned
+Ellen Ochoa,"STS-66, Atlantis","STS-66, Atlantis",FALSE,10.94,3/11/1994,14/11/1994,Earth Orbit,None visited,Returned
+Jean-François Clervoy,"STS-66, Atlantis","STS-66, Atlantis",FALSE,10.94,3/11/1994,14/11/1994,Earth Orbit,None visited,Returned
+Joseph Tanner,"STS-66, Atlantis","STS-66, Atlantis",FALSE,10.94,3/11/1994,14/11/1994,Earth Orbit,None visited,Returned
+Scott Parazynski,"STS-66, Atlantis","STS-66, Atlantis",FALSE,10.94,3/11/1994,14/11/1994,Earth Orbit,None visited,Returned
+Bernard Harris,"STS-63, Discovery","STS-63, Discovery",FALSE,8.27,3/02/1995,11/02/1995,Earth Orbit,None visited,Returned
+Eileen Collins,"STS-63, Discovery","STS-63, Discovery",FALSE,8.27,3/02/1995,11/02/1995,Earth Orbit,None visited,Returned
+James Wetherbee,"STS-63, Discovery","STS-63, Discovery",FALSE,8.27,3/02/1995,11/02/1995,Earth Orbit,None visited,Returned
+Janice E. Voss,"STS-63, Discovery","STS-63, Discovery",FALSE,8.27,3/02/1995,11/02/1995,Earth Orbit,None visited,Returned
+Michael Foale,"STS-63, Discovery","STS-63, Discovery",FALSE,8.27,3/02/1995,11/02/1995,Earth Orbit,None visited,Returned
+Vladimir Titov,"STS-63, Discovery","STS-63, Discovery",FALSE,8.27,3/02/1995,11/02/1995,Earth Orbit,None visited,Returned
+John Grunsfeld,"STS-67, Endeavour","STS-67, Endeavour",FALSE,16.63,2/03/1995,18/03/1995,Earth Orbit,None visited,Returned
+Ronald A. Parise,"STS-67, Endeavour","STS-67, Endeavour",FALSE,16.63,2/03/1995,18/03/1995,Earth Orbit,None visited,Returned
+Samuel T. Durrance,"STS-67, Endeavour","STS-67, Endeavour",FALSE,16.63,2/03/1995,18/03/1995,Earth Orbit,None visited,Returned
+Stephen Oswald,"STS-67, Endeavour","STS-67, Endeavour",FALSE,16.63,2/03/1995,18/03/1995,Earth Orbit,None visited,Returned
+Tamara E. Jernigan,"STS-67, Endeavour","STS-67, Endeavour",FALSE,16.63,2/03/1995,18/03/1995,Earth Orbit,None visited,Returned
+Wendy Lawrence,"STS-67, Endeavour","STS-67, Endeavour",FALSE,16.63,2/03/1995,18/03/1995,Earth Orbit,None visited,Returned
+William Gregory,"STS-67, Endeavour","STS-67, Endeavour",FALSE,16.63,2/03/1995,18/03/1995,Earth Orbit,None visited,Returned
+Gennadi Strekalov,Soyuz TM-21,"STS-71, Atlantis",TRUE,115.36,14/03/1995,7/07/1995,Mir,Mir,Returned
+Norman Thagard,Soyuz TM-21,"STS-71, Atlantis",TRUE,115.36,14/03/1995,7/07/1995,Mir,Mir,Returned
+Vladimir N. Dezhurov,Soyuz TM-21,"STS-71, Atlantis",TRUE,115.36,14/03/1995,7/07/1995,Mir,Mir,Returned
+Anatoly Solovyev,"STS-71, Atlantis",Soyuz TM-21,TRUE,75.47,27/06/1995,11/09/1995,Mir,Mir,Returned
+Bonnie J. Dunbar,"STS-71, Atlantis","STS-71, Atlantis",FALSE,9.81,27/06/1995,7/07/1995,Mir,Mir,Returned
+Charles Precourt,"STS-71, Atlantis","STS-71, Atlantis",FALSE,9.81,27/06/1995,7/07/1995,Mir,Mir,Returned
+Ellen Baker,"STS-71, Atlantis","STS-71, Atlantis",FALSE,9.81,27/06/1995,7/07/1995,Mir,Mir,Returned
+Gregory Harbaugh,"STS-71, Atlantis","STS-71, Atlantis",FALSE,9.81,27/06/1995,7/07/1995,Mir,Mir,Returned
+Nikolai Budarin,"STS-71, Atlantis",Soyuz TM-21,TRUE,75.47,27/06/1995,11/09/1995,Mir,Mir,Returned
+Robert L. Gibson,"STS-71, Atlantis","STS-71, Atlantis",FALSE,9.81,27/06/1995,7/07/1995,Mir,Mir,Returned
+Donald Thomas,"STS-70, Discovery","STS-70, Discovery",FALSE,8.93,13/07/1995,22/07/1995,Earth Orbit,None visited,Returned
+Kevin Kregel,"STS-70, Discovery","STS-70, Discovery",FALSE,8.93,13/07/1995,22/07/1995,Earth Orbit,None visited,Returned
+Mary Weber,"STS-70, Discovery","STS-70, Discovery",FALSE,8.93,13/07/1995,22/07/1995,Earth Orbit,None visited,Returned
+Nancy J. Currie-Gregg,"STS-70, Discovery","STS-70, Discovery",FALSE,8.93,13/07/1995,22/07/1995,Earth Orbit,None visited,Returned
+Terence Henricks,"STS-70, Discovery","STS-70, Discovery",FALSE,8.93,13/07/1995,22/07/1995,Earth Orbit,None visited,Returned
+Sergei Avdeyev,Soyuz TM-22,Soyuz TM-22,FALSE,179.07,3/09/1995,29/02/1996,Mir,Mir,Returned
+Thomas Reiter,Soyuz TM-22,Soyuz TM-22,FALSE,179.07,3/09/1995,29/02/1996,Mir,Mir,Returned
+Yuri Gidzenko,Soyuz TM-22,Soyuz TM-22,FALSE,179.07,3/09/1995,29/02/1996,Mir,Mir,Returned
+David M. Walker,"STS-69, Endeavour","STS-69, Endeavour",FALSE,10.85,7/09/1995,18/09/1995,Earth Orbit,None visited,Returned
+James H. Newman,"STS-69, Endeavour","STS-69, Endeavour",FALSE,10.85,7/09/1995,18/09/1995,Earth Orbit,None visited,Returned
+James S. Voss,"STS-69, Endeavour","STS-69, Endeavour",FALSE,10.85,7/09/1995,18/09/1995,Earth Orbit,None visited,Returned
+Kenneth Cockrell,"STS-69, Endeavour","STS-69, Endeavour",FALSE,10.85,7/09/1995,18/09/1995,Earth Orbit,None visited,Returned
+Michael Gernhardt,"STS-69, Endeavour","STS-69, Endeavour",FALSE,10.85,7/09/1995,18/09/1995,Earth Orbit,None visited,Returned
+Albert Sacco,"STS-73, Columbia","STS-73, Columbia",FALSE,15.91,20/10/1995,5/11/1995,Earth Orbit,None visited,Returned
+Catherine Coleman,"STS-73, Columbia","STS-73, Columbia",FALSE,15.91,20/10/1995,5/11/1995,Earth Orbit,None visited,Returned
+Frederick W. Leslie,"STS-73, Columbia","STS-73, Columbia",FALSE,15.91,20/10/1995,5/11/1995,Earth Orbit,None visited,Returned
+Kathryn C. Thornton,"STS-73, Columbia","STS-73, Columbia",FALSE,15.91,20/10/1995,5/11/1995,Earth Orbit,None visited,Returned
+Kenneth Bowersox,"STS-73, Columbia","STS-73, Columbia",FALSE,15.91,20/10/1995,5/11/1995,Earth Orbit,None visited,Returned
+Kent Rominger,"STS-73, Columbia","STS-73, Columbia",FALSE,15.91,20/10/1995,5/11/1995,Earth Orbit,None visited,Returned
+Michael Lopez-Alegria,"STS-73, Columbia","STS-73, Columbia",FALSE,15.91,20/10/1995,5/11/1995,Earth Orbit,None visited,Returned
+Chris Hadfield,"STS-74, Atlantis","STS-74, Atlantis",FALSE,8.19,12/11/1995,20/11/1995,Mir,Mir,Returned
+James Halsell,"STS-74, Atlantis","STS-74, Atlantis",FALSE,8.19,12/11/1995,20/11/1995,Mir,Mir,Returned
+Jerry L. Ross,"STS-74, Atlantis","STS-74, Atlantis",FALSE,8.19,12/11/1995,20/11/1995,Mir,Mir,Returned
+Kenneth Cameron,"STS-74, Atlantis","STS-74, Atlantis",FALSE,8.19,12/11/1995,20/11/1995,Mir,Mir,Returned
+William S. McArthur,"STS-74, Atlantis","STS-74, Atlantis",FALSE,8.19,12/11/1995,20/11/1995,Mir,Mir,Returned
+Brent W. Jett,"STS-72, Endeavour","STS-72, Endeavour",FALSE,8.92,11/01/1996,20/01/1996,Earth Orbit,None visited,Returned
+Brian Duffy,"STS-72, Endeavour","STS-72, Endeavour",FALSE,8.92,11/01/1996,20/01/1996,Earth Orbit,None visited,Returned
+Daniel Barry,"STS-72, Endeavour","STS-72, Endeavour",FALSE,8.92,11/01/1996,20/01/1996,Earth Orbit,None visited,Returned
+Koichi Wakata,"STS-72, Endeavour","STS-72, Endeavour",FALSE,8.92,11/01/1996,20/01/1996,Earth Orbit,None visited,Returned
+Leroy Chiao,"STS-72, Endeavour","STS-72, Endeavour",FALSE,8.92,11/01/1996,20/01/1996,Earth Orbit,None visited,Returned
+Winston Scott,"STS-72, Endeavour","STS-72, Endeavour",FALSE,8.92,11/01/1996,20/01/1996,Earth Orbit,None visited,Returned
+Yuri Onufrienko,Soyuz TM-23,Soyuz TM-23,FALSE,193.80,21/02/1996,2/09/1996,Mir,Mir,Returned
+Yury Usachov,Soyuz TM-23,Soyuz TM-23,FALSE,193.80,21/02/1996,2/09/1996,Mir,Mir,Returned
+Andrew M. Allen,"STS-75, Columbia","STS-75, Columbia",FALSE,15.74,22/02/1996,9/03/1996,Earth Orbit,None visited,Returned
+Claude Nicollier,"STS-75, Columbia","STS-75, Columbia",FALSE,15.74,22/02/1996,9/03/1996,Earth Orbit,None visited,Returned
+Franklin Chang-Diaz,"STS-75, Columbia","STS-75, Columbia",FALSE,15.74,22/02/1996,9/03/1996,Earth Orbit,None visited,Returned
+Jeffrey Hoffman,"STS-75, Columbia","STS-75, Columbia",FALSE,15.74,22/02/1996,9/03/1996,Earth Orbit,None visited,Returned
+Maurizio Cheli,"STS-75, Columbia","STS-75, Columbia",FALSE,15.74,22/02/1996,9/03/1996,Earth Orbit,None visited,Returned
+Scott Horowitz,"STS-75, Columbia","STS-75, Columbia",FALSE,15.74,22/02/1996,9/03/1996,Earth Orbit,None visited,Returned
+Umberto Guidoni,"STS-75, Columbia","STS-75, Columbia",FALSE,15.74,22/02/1996,9/03/1996,Earth Orbit,None visited,Returned
+Kevin Chilton,"STS-76, Atlantis","STS-76, Atlantis",FALSE,9.22,22/03/1996,31/03/1996,Mir,Mir,Returned
+Linda Godwin,"STS-76, Atlantis","STS-76, Atlantis",FALSE,9.22,22/03/1996,31/03/1996,Mir,Mir,Returned
+Michael Clifford,"STS-76, Atlantis","STS-76, Atlantis",FALSE,9.22,22/03/1996,31/03/1996,Mir,Mir,Returned
+Richard A. Searfoss,"STS-76, Atlantis","STS-76, Atlantis",FALSE,9.22,22/03/1996,31/03/1996,Mir,Mir,Returned
+Ronald M. Sega,"STS-76, Atlantis","STS-76, Atlantis",FALSE,9.22,22/03/1996,31/03/1996,Mir,Mir,Returned
+Shannon Lucid,"STS-76, Atlantis","STS-79, Atlantis",TRUE,188.17,22/03/1996,26/09/1996,Mir,Mir,Returned
+Andrew Thomas,"STS-77, Endeavour","STS-77, Endeavour",FALSE,10.03,19/05/1996,29/05/1996,Earth Orbit,None visited,Returned
+Curtis Brown,"STS-77, Endeavour","STS-77, Endeavour",FALSE,10.03,19/05/1996,29/05/1996,Earth Orbit,None visited,Returned
+Daniel Bursch,"STS-77, Endeavour","STS-77, Endeavour",FALSE,10.03,19/05/1996,29/05/1996,Earth Orbit,None visited,Returned
+John Casper,"STS-77, Endeavour","STS-77, Endeavour",FALSE,10.03,19/05/1996,29/05/1996,Earth Orbit,None visited,Returned
+Marc Garneau,"STS-77, Endeavour","STS-77, Endeavour",FALSE,10.03,19/05/1996,29/05/1996,Earth Orbit,None visited,Returned
+Mario Runco,"STS-77, Endeavour","STS-77, Endeavour",FALSE,10.03,19/05/1996,29/05/1996,Earth Orbit,None visited,Returned
+Charles Brady,"STS-78, Columbia","STS-78, Columbia",FALSE,16.91,20/06/1996,7/07/1996,Earth Orbit,None visited,Returned
+Jean-Jacques Favier,"STS-78, Columbia","STS-78, Columbia",FALSE,16.91,20/06/1996,7/07/1996,Earth Orbit,None visited,Returned
+Kevin Kregel,"STS-78, Columbia","STS-78, Columbia",FALSE,16.91,20/06/1996,7/07/1996,Earth Orbit,None visited,Returned
+Richard Linnehan,"STS-78, Columbia","STS-78, Columbia",FALSE,16.91,20/06/1996,7/07/1996,Earth Orbit,None visited,Returned
+Robert Thirsk,"STS-78, Columbia","STS-78, Columbia",FALSE,16.91,20/06/1996,7/07/1996,Earth Orbit,None visited,Returned
+Susan Helms,"STS-78, Columbia","STS-78, Columbia",FALSE,16.91,20/06/1996,7/07/1996,Earth Orbit,None visited,Returned
+Terence Henricks,"STS-78, Columbia","STS-78, Columbia",FALSE,16.91,20/06/1996,7/07/1996,Earth Orbit,None visited,Returned
+Alexsandr Kaleri,Soyuz TM-24,Soyuz TM-24,FALSE,196.73,17/08/1996,2/03/1997,Mir,Mir,Returned
+Claudie Haigneré,Soyuz TM-24,Soyuz TM-23,TRUE,15.77,17/08/1996,2/09/1996,Mir,Mir,Returned
+Valery Korzun,Soyuz TM-24,Soyuz TM-24,FALSE,196.73,17/08/1996,2/03/1997,Mir,Mir,Returned
+Carl E. Walz,"STS-79, Atlantis","STS-79, Atlantis",FALSE,10.14,16/09/1996,26/09/1996,Mir,Mir,Returned
+Jerome Apt,"STS-79, Atlantis","STS-79, Atlantis",FALSE,10.14,16/09/1996,26/09/1996,Mir,Mir,Returned
+John Blaha,"STS-79, Atlantis","STS-81, Atlantis",TRUE,128.23,16/09/1996,22/01/1997,Mir,Mir,Returned
+Terrence Wilcutt,"STS-79, Atlantis","STS-79, Atlantis",FALSE,10.14,16/09/1996,26/09/1996,Mir,Mir,Returned
+Thomas Akers,"STS-79, Atlantis","STS-79, Atlantis",FALSE,10.14,16/09/1996,26/09/1996,Mir,Mir,Returned
+William Readdy,"STS-79, Atlantis","STS-79, Atlantis",FALSE,10.14,16/09/1996,26/09/1996,Mir,Mir,Returned
+Kenneth Cockrell,"STS-80, Columbia","STS-80, Columbia",FALSE,17.66,19/11/1996,7/12/1996,Earth Orbit,None visited,Returned
+Kent Rominger,"STS-80, Columbia","STS-80, Columbia",FALSE,17.66,19/11/1996,7/12/1996,Earth Orbit,None visited,Returned
+Story Musgrave,"STS-80, Columbia","STS-80, Columbia",FALSE,17.66,19/11/1996,7/12/1996,Earth Orbit,None visited,Returned
+Tamara E. Jernigan,"STS-80, Columbia","STS-80, Columbia",FALSE,17.66,19/11/1996,7/12/1996,Earth Orbit,None visited,Returned
+Thomas D. Jones,"STS-80, Columbia","STS-80, Columbia",FALSE,17.66,19/11/1996,7/12/1996,Earth Orbit,None visited,Returned
+Brent W. Jett,"STS-81, Atlantis","STS-81, Atlantis",FALSE,10.21,12/01/1997,22/01/1997,Mir,Mir,Returned
+Jerry Linenger,"STS-81, Atlantis","STS-84, Atlantis",TRUE,132.17,12/01/1997,24/05/1997,Mir,Mir,Returned
+John Grunsfeld,"STS-81, Atlantis","STS-81, Atlantis",FALSE,10.21,12/01/1997,22/01/1997,Mir,Mir,Returned
+Marsha Ivins,"STS-81, Atlantis","STS-81, Atlantis",FALSE,10.21,12/01/1997,22/01/1997,Mir,Mir,Returned
+Michael Baker,"STS-81, Atlantis","STS-81, Atlantis",FALSE,10.21,12/01/1997,22/01/1997,Mir,Mir,Returned
+Peter Wisoff,"STS-81, Atlantis","STS-81, Atlantis",FALSE,10.21,12/01/1997,22/01/1997,Mir,Mir,Returned
+Aleksandr Lazutkin,Soyuz TM-25,Soyuz TM-25,FALSE,184.92,10/02/1997,14/08/1997,Mir,Mir,Returned
+Reinhold Ewald,Soyuz TM-25,Soyuz TM-24,TRUE,19.69,10/02/1997,2/03/1997,Mir,Mir,Returned
+Vasily Tsibliyev,Soyuz TM-25,Soyuz TM-25,FALSE,184.92,10/02/1997,14/08/1997,Mir,Mir,Returned
+Gregory Harbaugh,"STS-82, Discovery","STS-82, Discovery",FALSE,9.98,11/02/1997,21/02/1997,Earth Orbit,None visited,Returned
+Joseph Tanner,"STS-82, Discovery","STS-82, Discovery",FALSE,9.98,11/02/1997,21/02/1997,Earth Orbit,None visited,Returned
+Kenneth Bowersox,"STS-82, Discovery","STS-82, Discovery",FALSE,9.98,11/02/1997,21/02/1997,Earth Orbit,None visited,Returned
+Mark C. Lee,"STS-82, Discovery","STS-82, Discovery",FALSE,9.98,11/02/1997,21/02/1997,Earth Orbit,None visited,Returned
+Scott Horowitz,"STS-82, Discovery","STS-82, Discovery",FALSE,9.98,11/02/1997,21/02/1997,Earth Orbit,None visited,Returned
+Steven Hawley,"STS-82, Discovery","STS-82, Discovery",FALSE,9.98,11/02/1997,21/02/1997,Earth Orbit,None visited,Returned
+Steven Smith,"STS-82, Discovery","STS-82, Discovery",FALSE,9.98,11/02/1997,21/02/1997,Earth Orbit,None visited,Returned
+Donald Thomas,"STS-83, Columbia","STS-83, Columbia",FALSE,3.97,4/04/1997,8/04/1997,Earth Orbit,None visited,Returned
+Gregory Linteris,"STS-83, Columbia","STS-83, Columbia",FALSE,3.97,4/04/1997,8/04/1997,Earth Orbit,None visited,Returned
+James Halsell,"STS-83, Columbia","STS-83, Columbia",FALSE,3.97,4/04/1997,8/04/1997,Earth Orbit,None visited,Returned
+Janice E. Voss,"STS-83, Columbia","STS-83, Columbia",FALSE,3.97,4/04/1997,8/04/1997,Earth Orbit,None visited,Returned
+Michael Gernhardt,"STS-83, Columbia","STS-83, Columbia",FALSE,3.97,4/04/1997,8/04/1997,Earth Orbit,None visited,Returned
+Roger Crouch,"STS-83, Columbia","STS-83, Columbia",FALSE,3.97,4/04/1997,8/04/1997,Earth Orbit,None visited,Returned
+Susan Kilrain,"STS-83, Columbia","STS-83, Columbia",FALSE,3.97,4/04/1997,8/04/1997,Earth Orbit,None visited,Returned
+Carlos I. Noriega,"STS-84, Atlantis","STS-84, Atlantis",FALSE,9.22,15/05/1997,24/05/1997,Mir,Mir,Returned
+Charles Precourt,"STS-84, Atlantis","STS-84, Atlantis",FALSE,9.22,15/05/1997,24/05/1997,Mir,Mir,Returned
+Edward Lu,"STS-84, Atlantis","STS-84, Atlantis",FALSE,9.22,15/05/1997,24/05/1997,Mir,Mir,Returned
+Eileen Collins,"STS-84, Atlantis","STS-84, Atlantis",FALSE,9.22,15/05/1997,24/05/1997,Mir,Mir,Returned
+Jean-François Clervoy,"STS-84, Atlantis","STS-84, Atlantis",FALSE,9.22,15/05/1997,24/05/1997,Mir,Mir,Returned
+Michael Foale,"STS-84, Atlantis","STS-86, Atlantis",TRUE,144.08,15/05/1997,6/10/1997,Mir,Mir,Returned
+Yelena Kondakova,"STS-84, Atlantis","STS-84, Atlantis",FALSE,9.22,15/05/1997,24/05/1997,Mir,Mir,Returned
+Donald Thomas,"STS-94, Columbia","STS-94, Columbia",FALSE,15.70,1/07/1997,17/07/1997,Earth Orbit,None visited,Returned
+Gregory Linteris,"STS-94, Columbia","STS-94, Columbia",FALSE,15.70,1/07/1997,17/07/1997,Earth Orbit,None visited,Returned
+James Halsell,"STS-94, Columbia","STS-94, Columbia",FALSE,15.70,1/07/1997,17/07/1997,Earth Orbit,None visited,Returned
+Janice E. Voss,"STS-94, Columbia","STS-94, Columbia",FALSE,15.70,1/07/1997,17/07/1997,Earth Orbit,None visited,Returned
+Michael Gernhardt,"STS-94, Columbia","STS-94, Columbia",FALSE,15.70,1/07/1997,17/07/1997,Earth Orbit,None visited,Returned
+Roger Crouch,"STS-94, Columbia","STS-94, Columbia",FALSE,15.70,1/07/1997,17/07/1997,Earth Orbit,None visited,Returned
+Susan Kilrain,"STS-94, Columbia","STS-94, Columbia",FALSE,15.70,1/07/1997,17/07/1997,Earth Orbit,None visited,Returned
+Anatoly Solovyev,Soyuz TM-26,Soyuz TM-26,FALSE,197.73,5/08/1997,19/02/1998,Mir,Mir,Returned
+Pavel Vinogradov,Soyuz TM-26,Soyuz TM-26,FALSE,197.73,5/08/1997,19/02/1998,Mir,Mir,Returned
+Bjarni Tryggvason,"STS-85, Discovery","STS-85, Discovery",FALSE,11.85,7/08/1997,19/08/1997,Earth Orbit,None visited,Returned
+Curtis Brown,"STS-85, Discovery","STS-85, Discovery",FALSE,11.85,7/08/1997,19/08/1997,Earth Orbit,None visited,Returned
+Kent Rominger,"STS-85, Discovery","STS-85, Discovery",FALSE,11.85,7/08/1997,19/08/1997,Earth Orbit,None visited,Returned
+Nancy Jan Davis,"STS-85, Discovery","STS-85, Discovery",FALSE,11.85,7/08/1997,19/08/1997,Earth Orbit,None visited,Returned
+Robert Curbeam,"STS-85, Discovery","STS-85, Discovery",FALSE,11.85,7/08/1997,19/08/1997,Earth Orbit,None visited,Returned
+Stephen Robinson,"STS-85, Discovery","STS-85, Discovery",FALSE,11.85,7/08/1997,19/08/1997,Earth Orbit,None visited,Returned
+David Wolf,"STS-86, Atlantis","STS-89, Endeavour",TRUE,128.33,25/09/1997,31/01/1998,Mir,Mir,Returned
+James Wetherbee,"STS-86, Atlantis","STS-86, Atlantis",FALSE,10.81,25/09/1997,6/10/1997,Mir,Mir,Returned
+Jean-Loup Chrétien,"STS-86, Atlantis","STS-86, Atlantis",FALSE,10.81,25/09/1997,6/10/1997,Mir,Mir,Returned
+Michael J. Bloomfield,"STS-86, Atlantis","STS-86, Atlantis",FALSE,10.81,25/09/1997,6/10/1997,Mir,Mir,Returned
+Scott Parazynski,"STS-86, Atlantis","STS-86, Atlantis",FALSE,10.81,25/09/1997,6/10/1997,Mir,Mir,Returned
+Vladimir Titov,"STS-86, Atlantis","STS-86, Atlantis",FALSE,10.81,25/09/1997,6/10/1997,Mir,Mir,Returned
+Wendy Lawrence,"STS-86, Atlantis","STS-86, Atlantis",FALSE,10.81,25/09/1997,6/10/1997,Mir,Mir,Returned
+Kalpana Chawla,"STS-87, Columbia","STS-87, Columbia",FALSE,15.69,19/11/1997,5/12/1997,Earth Orbit,None visited,Returned
+Kevin Kregel,"STS-87, Columbia","STS-87, Columbia",FALSE,15.69,19/11/1997,5/12/1997,Earth Orbit,None visited,Returned
+Leonid Kadenyuk,"STS-87, Columbia","STS-87, Columbia",FALSE,15.69,19/11/1997,5/12/1997,Earth Orbit,None visited,Returned
+Steven Lindsey,"STS-87, Columbia","STS-87, Columbia",FALSE,15.69,19/11/1997,5/12/1997,Earth Orbit,None visited,Returned
+Takao Doi,"STS-87, Columbia","STS-87, Columbia",FALSE,15.69,19/11/1997,5/12/1997,Earth Orbit,None visited,Returned
+Winston Scott,"STS-87, Columbia","STS-87, Columbia",FALSE,15.69,19/11/1997,5/12/1997,Earth Orbit,None visited,Returned
+Andrew Thomas,"STS-89, Endeavour","STS-91, Discovery",TRUE,140.63,23/01/1998,12/06/1998,Mir,Mir,Returned
+Bonnie J. Dunbar,"STS-89, Endeavour","STS-89, Endeavour",FALSE,8.82,23/01/1998,31/01/1998,Mir,Mir,Returned
+James F. Reilly,"STS-89, Endeavour","STS-89, Endeavour",FALSE,8.82,23/01/1998,31/01/1998,Mir,Mir,Returned
+Joe Edwards,"STS-89, Endeavour","STS-89, Endeavour",FALSE,8.82,23/01/1998,31/01/1998,Mir,Mir,Returned
+Michael P. Anderson,"STS-89, Endeavour","STS-89, Endeavour",FALSE,8.82,23/01/1998,31/01/1998,Mir,Mir,Returned
+Salizhan Sharipov,"STS-89, Endeavour","STS-89, Endeavour",FALSE,8.82,23/01/1998,31/01/1998,Mir,Mir,Returned
+Terrence Wilcutt,"STS-89, Endeavour","STS-89, Endeavour",FALSE,8.82,23/01/1998,31/01/1998,Mir,Mir,Returned
+Léopold Eyharts,Soyuz TM-27,Soyuz TM-26,TRUE,20.69,29/01/1998,19/02/1998,Mir,Mir,Returned
+Nikolai Budarin,Soyuz TM-27,Soyuz TM-27,FALSE,207.54,29/01/1998,25/08/1998,Mir,Mir,Returned
+Talgat Musabayev,Soyuz TM-27,Soyuz TM-27,FALSE,207.54,29/01/1998,25/08/1998,Mir,Mir,Returned
+Dafydd Williams,"STS-90, Columbia","STS-90, Columbia",FALSE,15.91,17/04/1998,3/05/1998,Earth Orbit,None visited,Returned
+James Pawelczyk,"STS-90, Columbia","STS-90, Columbia",FALSE,15.91,17/04/1998,3/05/1998,Earth Orbit,None visited,Returned
+Jay Buckey,"STS-90, Columbia","STS-90, Columbia",FALSE,15.91,17/04/1998,3/05/1998,Earth Orbit,None visited,Returned
+Kathryn Hire,"STS-90, Columbia","STS-90, Columbia",FALSE,15.91,17/04/1998,3/05/1998,Earth Orbit,None visited,Returned
+Richard A. Searfoss,"STS-90, Columbia","STS-90, Columbia",FALSE,15.91,17/04/1998,3/05/1998,Earth Orbit,None visited,Returned
+Richard Linnehan,"STS-90, Columbia","STS-90, Columbia",FALSE,15.91,17/04/1998,3/05/1998,Earth Orbit,None visited,Returned
+Scott Altman,"STS-90, Columbia","STS-90, Columbia",FALSE,15.91,17/04/1998,3/05/1998,Earth Orbit,None visited,Returned
+Charles Precourt,"STS-91, Discovery","STS-91, Discovery",FALSE,9.83,2/06/1998,12/06/1998,Mir,Mir,Returned
+Dominic Gorie,"STS-91, Discovery","STS-91, Discovery",FALSE,9.83,2/06/1998,12/06/1998,Mir,Mir,Returned
+Franklin Chang-Diaz,"STS-91, Discovery","STS-91, Discovery",FALSE,9.83,2/06/1998,12/06/1998,Mir,Mir,Returned
+Janet L. Kavandi,"STS-91, Discovery","STS-91, Discovery",FALSE,9.83,2/06/1998,12/06/1998,Mir,Mir,Returned
+Valery Ryumin,"STS-91, Discovery","STS-91, Discovery",FALSE,9.83,2/06/1998,12/06/1998,Mir,Mir,Returned
+Wendy Lawrence,"STS-91, Discovery","STS-91, Discovery",FALSE,9.83,2/06/1998,12/06/1998,Mir,Mir,Returned
+Gennady Padalka,Soyuz TM-28,Soyuz TM-28,FALSE,198.69,13/08/1998,28/02/1999,Mir,Mir,Returned
+Sergei Avdeyev,Soyuz TM-28,Soyuz TM-29,TRUE,379.62,13/08/1998,28/08/1999,Mir,Mir,Returned
+Yuri Baturin,Soyuz TM-28,Soyuz TM-27,TRUE,11.82,13/08/1998,25/08/1998,Mir,Mir,Returned
+Chiaki Mukai,"STS-95, Discovery","STS-95, Discovery",FALSE,8.91,29/10/1998,7/11/1998,Earth Orbit,None visited,Returned
+Curtis Brown,"STS-95, Discovery","STS-95, Discovery",FALSE,8.91,29/10/1998,7/11/1998,Earth Orbit,None visited,Returned
+John Glenn,"STS-95, Discovery","STS-95, Discovery",FALSE,8.91,29/10/1998,7/11/1998,Earth Orbit,None visited,Returned
+Pedro Duque,"STS-95, Discovery","STS-95, Discovery",FALSE,8.91,29/10/1998,7/11/1998,Earth Orbit,None visited,Returned
+Scott Parazynski,"STS-95, Discovery","STS-95, Discovery",FALSE,8.91,29/10/1998,7/11/1998,Earth Orbit,None visited,Returned
+Stephen Robinson,"STS-95, Discovery","STS-95, Discovery",FALSE,8.91,29/10/1998,7/11/1998,Earth Orbit,None visited,Returned
+Steven Lindsey,"STS-95, Discovery","STS-95, Discovery",FALSE,8.91,29/10/1998,7/11/1998,Earth Orbit,None visited,Returned
+Frederick Sturckow,"STS-88, Endeavour","STS-88, Endeavour",FALSE,11.80,4/12/1998,16/12/1998,ISS,ISS,Returned
+James H. Newman,"STS-88, Endeavour","STS-88, Endeavour",FALSE,11.80,4/12/1998,16/12/1998,ISS,ISS,Returned
+Jerry L. Ross,"STS-88, Endeavour","STS-88, Endeavour",FALSE,11.80,4/12/1998,16/12/1998,ISS,ISS,Returned
+Nancy J. Currie-Gregg,"STS-88, Endeavour","STS-88, Endeavour",FALSE,11.80,4/12/1998,16/12/1998,ISS,ISS,Returned
+Robert Cabana,"STS-88, Endeavour","STS-88, Endeavour",FALSE,11.80,4/12/1998,16/12/1998,ISS,ISS,Returned
+Sergei Krikalev,"STS-88, Endeavour","STS-88, Endeavour",FALSE,11.80,4/12/1998,16/12/1998,ISS,ISS,Returned
+Ivan Bella,Soyuz TM-29,Soyuz TM-28,TRUE,7.91,20/02/1999,28/02/1999,Mir,Mir,Returned
+Jean-Pierre Haigneré,Soyuz TM-29,Soyuz TM-29,FALSE,188.84,20/02/1999,28/08/1999,Mir,Mir,Returned
+Viktor M. Afanasyev,Soyuz TM-29,Soyuz TM-29,FALSE,188.84,20/02/1999,28/08/1999,Mir,Mir,Returned
+Daniel Barry,"STS-96, Discovery","STS-96, Discovery",FALSE,9.80,27/05/1999,6/06/1999,ISS,ISS,Returned
+Ellen Ochoa,"STS-96, Discovery","STS-96, Discovery",FALSE,9.80,27/05/1999,6/06/1999,ISS,ISS,Returned
+Julie Payette,"STS-96, Discovery","STS-96, Discovery",FALSE,9.80,27/05/1999,6/06/1999,ISS,ISS,Returned
+Kent Rominger,"STS-96, Discovery","STS-96, Discovery",FALSE,9.80,27/05/1999,6/06/1999,ISS,ISS,Returned
+Rick Husband,"STS-96, Discovery","STS-96, Discovery",FALSE,9.80,27/05/1999,6/06/1999,ISS,ISS,Returned
+Tamara E. Jernigan,"STS-96, Discovery","STS-96, Discovery",FALSE,9.80,27/05/1999,6/06/1999,ISS,ISS,Returned
+Valery Tokarev,"STS-96, Discovery","STS-96, Discovery",FALSE,9.80,27/05/1999,6/06/1999,ISS,ISS,Returned
+Catherine Coleman,"STS-93, Columbia","STS-93, Columbia",FALSE,4.95,23/07/1999,28/07/1999,Earth Orbit,None visited,Returned
+Eileen Collins,"STS-93, Columbia","STS-93, Columbia",FALSE,4.95,23/07/1999,28/07/1999,Earth Orbit,None visited,Returned
+Jeffrey Ashby,"STS-93, Columbia","STS-93, Columbia",FALSE,4.95,23/07/1999,28/07/1999,Earth Orbit,None visited,Returned
+Michel Tognini,"STS-93, Columbia","STS-93, Columbia",FALSE,4.95,23/07/1999,28/07/1999,Earth Orbit,None visited,Returned
+Steven Hawley,"STS-93, Columbia","STS-93, Columbia",FALSE,4.95,23/07/1999,28/07/1999,Earth Orbit,None visited,Returned
+Claude Nicollier,"STS-103, Discovery","STS-103, Discovery",FALSE,7.97,20/12/1999,28/12/1999,Earth Orbit,None visited,Returned
+Curtis Brown,"STS-103, Discovery","STS-103, Discovery",FALSE,7.97,20/12/1999,28/12/1999,Earth Orbit,None visited,Returned
+Jean-François Clervoy,"STS-103, Discovery","STS-103, Discovery",FALSE,7.97,20/12/1999,28/12/1999,Earth Orbit,None visited,Returned
+John Grunsfeld,"STS-103, Discovery","STS-103, Discovery",FALSE,7.97,20/12/1999,28/12/1999,Earth Orbit,None visited,Returned
+Michael Foale,"STS-103, Discovery","STS-103, Discovery",FALSE,7.97,20/12/1999,28/12/1999,Earth Orbit,None visited,Returned
+Scott Kelly,"STS-103, Discovery","STS-103, Discovery",FALSE,7.97,20/12/1999,28/12/1999,Earth Orbit,None visited,Returned
+Steven Smith,"STS-103, Discovery","STS-103, Discovery",FALSE,7.97,20/12/1999,28/12/1999,Earth Orbit,None visited,Returned
+Dominic Gorie,"STS-99, Endeavour","STS-99, Endeavour",FALSE,11.24,11/02/2000,22/02/2000,Earth Orbit,None visited,Returned
+Gerhard Thiele,"STS-99, Endeavour","STS-99, Endeavour",FALSE,11.24,11/02/2000,22/02/2000,Earth Orbit,None visited,Returned
+Janet L. Kavandi,"STS-99, Endeavour","STS-99, Endeavour",FALSE,11.24,11/02/2000,22/02/2000,Earth Orbit,None visited,Returned
+Janice E. Voss,"STS-99, Endeavour","STS-99, Endeavour",FALSE,11.24,11/02/2000,22/02/2000,Earth Orbit,None visited,Returned
+Kevin Kregel,"STS-99, Endeavour","STS-99, Endeavour",FALSE,11.24,11/02/2000,22/02/2000,Earth Orbit,None visited,Returned
+Mamoru Mohri,"STS-99, Endeavour","STS-99, Endeavour",FALSE,11.24,11/02/2000,22/02/2000,Earth Orbit,None visited,Returned
+Alexsandr Kaleri,Soyuz TM-30,Soyuz TM-30,FALSE,72.82,4/04/2000,16/06/2000,Mir,Mir,Returned
+Sergei Zalyotin,Soyuz TM-30,Soyuz TM-30,FALSE,72.82,4/04/2000,16/06/2000,Mir,Mir,Returned
+James Halsell,"STS-101, Atlantis","STS-101, Atlantis",FALSE,9.84,19/05/2000,29/05/2000,ISS,ISS,Returned
+James S. Voss,"STS-101, Atlantis","STS-101, Atlantis",FALSE,9.84,19/05/2000,29/05/2000,ISS,ISS,Returned
+Jeffrey Williams,"STS-101, Atlantis","STS-101, Atlantis",FALSE,9.84,19/05/2000,29/05/2000,ISS,ISS,Returned
+Mary Weber,"STS-101, Atlantis","STS-101, Atlantis",FALSE,9.84,19/05/2000,29/05/2000,ISS,ISS,Returned
+Scott Horowitz,"STS-101, Atlantis","STS-101, Atlantis",FALSE,9.84,19/05/2000,29/05/2000,ISS,ISS,Returned
+Susan Helms,"STS-101, Atlantis","STS-101, Atlantis",FALSE,9.84,19/05/2000,29/05/2000,ISS,ISS,Returned
+Yury Usachov,"STS-101, Atlantis","STS-101, Atlantis",FALSE,9.84,19/05/2000,29/05/2000,ISS,ISS,Returned
+Boris Morukov,"STS-106, Atlantis","STS-106, Atlantis",FALSE,11.80,8/09/2000,20/09/2000,ISS,ISS,Returned
+Daniel Burbank,"STS-106, Atlantis","STS-106, Atlantis",FALSE,11.80,8/09/2000,20/09/2000,ISS,ISS,Returned
+Edward Lu,"STS-106, Atlantis","STS-106, Atlantis",FALSE,11.80,8/09/2000,20/09/2000,ISS,ISS,Returned
+Richard Mastracchio,"STS-106, Atlantis","STS-106, Atlantis",FALSE,11.80,8/09/2000,20/09/2000,ISS,ISS,Returned
+Scott Altman,"STS-106, Atlantis","STS-106, Atlantis",FALSE,11.80,8/09/2000,20/09/2000,ISS,ISS,Returned
+Terrence Wilcutt,"STS-106, Atlantis","STS-106, Atlantis",FALSE,11.80,8/09/2000,20/09/2000,ISS,ISS,Returned
+Yuri Malenchenko,"STS-106, Atlantis","STS-106, Atlantis",FALSE,11.80,8/09/2000,20/09/2000,ISS,ISS,Returned
+Brian Duffy,"STS-92, Discovery","STS-92, Discovery",FALSE,12.91,11/10/2000,24/10/2000,ISS,ISS,Returned
+Koichi Wakata,"STS-92, Discovery","STS-92, Discovery",FALSE,12.91,11/10/2000,24/10/2000,ISS,ISS,Returned
+Leroy Chiao,"STS-92, Discovery","STS-92, Discovery",FALSE,12.91,11/10/2000,24/10/2000,ISS,ISS,Returned
+Michael Lopez-Alegria,"STS-92, Discovery","STS-92, Discovery",FALSE,12.91,11/10/2000,24/10/2000,ISS,ISS,Returned
+Pamela Melroy,"STS-92, Discovery","STS-92, Discovery",FALSE,12.91,11/10/2000,24/10/2000,ISS,ISS,Returned
+Peter Wisoff,"STS-92, Discovery","STS-92, Discovery",FALSE,12.91,11/10/2000,24/10/2000,ISS,ISS,Returned
+William S. McArthur,"STS-92, Discovery","STS-92, Discovery",FALSE,12.91,11/10/2000,24/10/2000,ISS,ISS,Returned
+Sergei Krikalev,Soyuz TM-31,"STS-102, Discovery",TRUE,140.99,31/10/2000,21/03/2001,ISS,ISS,Returned
+William Shepherd,Soyuz TM-31,"STS-102, Discovery",TRUE,140.99,31/10/2000,21/03/2001,ISS,ISS,Returned
+Yuri Gidzenko,Soyuz TM-31,"STS-102, Discovery",TRUE,140.99,31/10/2000,21/03/2001,ISS,ISS,Returned
+Brent W. Jett,"STS-97, Endeavour","STS-97, Endeavour",FALSE,10.83,1/12/2000,11/12/2000,ISS,ISS,Returned
+Carlos I. Noriega,"STS-97, Endeavour","STS-97, Endeavour",FALSE,10.83,1/12/2000,11/12/2000,ISS,ISS,Returned
+Joseph Tanner,"STS-97, Endeavour","STS-97, Endeavour",FALSE,10.83,1/12/2000,11/12/2000,ISS,ISS,Returned
+Marc Garneau,"STS-97, Endeavour","STS-97, Endeavour",FALSE,10.83,1/12/2000,11/12/2000,ISS,ISS,Returned
+Michael J. Bloomfield,"STS-97, Endeavour","STS-97, Endeavour",FALSE,10.83,1/12/2000,11/12/2000,ISS,ISS,Returned
+Kenneth Cockrell,"STS-98, Atlantis","STS-98, Atlantis",FALSE,12.89,7/02/2001,20/02/2001,ISS,ISS,Returned
+Mark Polansky,"STS-98, Atlantis","STS-98, Atlantis",FALSE,12.89,7/02/2001,20/02/2001,ISS,ISS,Returned
+Marsha Ivins,"STS-98, Atlantis","STS-98, Atlantis",FALSE,12.89,7/02/2001,20/02/2001,ISS,ISS,Returned
+Robert Curbeam,"STS-98, Atlantis","STS-98, Atlantis",FALSE,12.89,7/02/2001,20/02/2001,ISS,ISS,Returned
+Thomas D. Jones,"STS-98, Atlantis","STS-98, Atlantis",FALSE,12.89,7/02/2001,20/02/2001,ISS,ISS,Returned
+Andrew Thomas,"STS-102, Discovery","STS-102, Discovery",FALSE,12.83,8/03/2001,21/03/2001,ISS,ISS,Returned
+James M. Kelly,"STS-102, Discovery","STS-102, Discovery",FALSE,12.83,8/03/2001,21/03/2001,ISS,ISS,Returned
+James S. Voss,"STS-102, Discovery","STS-105, Discovery",TRUE,167.28,8/03/2001,22/08/2001,ISS,ISS,Returned
+James Wetherbee,"STS-102, Discovery","STS-102, Discovery",FALSE,12.83,8/03/2001,21/03/2001,ISS,ISS,Returned
+Paul W. Richards,"STS-102, Discovery","STS-102, Discovery",FALSE,12.83,8/03/2001,21/03/2001,ISS,ISS,Returned
+Susan Helms,"STS-102, Discovery","STS-105, Discovery",TRUE,167.28,8/03/2001,22/08/2001,ISS,ISS,Returned
+Yury Usachov,"STS-102, Discovery","STS-105, Discovery",TRUE,167.28,8/03/2001,22/08/2001,ISS,ISS,Returned
+Chris Hadfield,"STS-100, Endeavour","STS-100, Endeavour",FALSE,11.90,19/04/2001,1/05/2001,ISS,ISS,Returned
+Jeffrey Ashby,"STS-100, Endeavour","STS-100, Endeavour",FALSE,11.90,19/04/2001,1/05/2001,ISS,ISS,Returned
+John Phillips,"STS-100, Endeavour","STS-100, Endeavour",FALSE,11.90,19/04/2001,1/05/2001,ISS,ISS,Returned
+Kent Rominger,"STS-100, Endeavour","STS-100, Endeavour",FALSE,11.90,19/04/2001,1/05/2001,ISS,ISS,Returned
+Scott Parazynski,"STS-100, Endeavour","STS-100, Endeavour",FALSE,11.90,19/04/2001,1/05/2001,ISS,ISS,Returned
+Umberto Guidoni,"STS-100, Endeavour","STS-100, Endeavour",FALSE,11.90,19/04/2001,1/05/2001,ISS,ISS,Returned
+Yuri Lonchakov,"STS-100, Endeavour","STS-100, Endeavour",FALSE,11.90,19/04/2001,1/05/2001,ISS,ISS,Returned
+Dennis Tito,Soyuz TM-32,Soyuz TM-31,TRUE,7.92,28/04/2001,6/05/2001,ISS,ISS,Returned
+Talgat Musabayev,Soyuz TM-32,Soyuz TM-31,TRUE,7.92,28/04/2001,6/05/2001,ISS,ISS,Returned
+Yuri Baturin,Soyuz TM-32,Soyuz TM-31,TRUE,7.92,28/04/2001,6/05/2001,ISS,ISS,Returned
+Charles Hobaugh,"STS-104, Atlantis","STS-104, Atlantis",FALSE,12.78,12/07/2001,25/07/2001,ISS,ISS,Returned
+James F. Reilly,"STS-104, Atlantis","STS-104, Atlantis",FALSE,12.78,12/07/2001,25/07/2001,ISS,ISS,Returned
+Janet L. Kavandi,"STS-104, Atlantis","STS-104, Atlantis",FALSE,12.78,12/07/2001,25/07/2001,ISS,ISS,Returned
+Michael Gernhardt,"STS-104, Atlantis","STS-104, Atlantis",FALSE,12.78,12/07/2001,25/07/2001,ISS,ISS,Returned
+Steven Lindsey,"STS-104, Atlantis","STS-104, Atlantis",FALSE,12.78,12/07/2001,25/07/2001,ISS,ISS,Returned
+Daniel Barry,"STS-105, Discovery","STS-105, Discovery",FALSE,11.88,10/08/2001,22/08/2001,ISS,ISS,Returned
+Frank Culbertson,"STS-105, Discovery","STS-108, Endeavour",TRUE,128.87,10/08/2001,17/12/2001,ISS,ISS,Returned
+Frederick Sturckow,"STS-105, Discovery","STS-105, Discovery",FALSE,11.88,10/08/2001,22/08/2001,ISS,ISS,Returned
+Mikhail Tyurin,"STS-105, Discovery","STS-108, Endeavour",TRUE,128.87,10/08/2001,17/12/2001,ISS,ISS,Returned
+Patrick Forrester,"STS-105, Discovery","STS-105, Discovery",FALSE,11.88,10/08/2001,22/08/2001,ISS,ISS,Returned
+Scott Horowitz,"STS-105, Discovery","STS-105, Discovery",FALSE,11.88,10/08/2001,22/08/2001,ISS,ISS,Returned
+Vladimir N. Dezhurov,"STS-105, Discovery","STS-108, Endeavour",TRUE,128.87,10/08/2001,17/12/2001,ISS,ISS,Returned
+Claudie Haigneré,Soyuz TM-33,Soyuz TM-32,TRUE,9.83,21/10/2001,31/10/2001,ISS,ISS,Returned
+Konstantin Kozeyev,Soyuz TM-33,Soyuz TM-32,TRUE,9.83,21/10/2001,31/10/2001,ISS,ISS,Returned
+Viktor M. Afanasyev,Soyuz TM-33,Soyuz TM-32,TRUE,9.83,21/10/2001,31/10/2001,ISS,ISS,Returned
+Carl E. Walz,"STS-108, Endeavour","STS-111, Endeavour",TRUE,195.82,5/12/2001,19/06/2002,ISS,ISS,Returned
+Daniel Bursch,"STS-108, Endeavour","STS-111, Endeavour",TRUE,195.82,5/12/2001,19/06/2002,ISS,ISS,Returned
+Daniel Tani,"STS-108, Endeavour","STS-108, Endeavour",FALSE,11.82,5/12/2001,17/12/2001,ISS,ISS,Returned
+Dominic Gorie,"STS-108, Endeavour","STS-108, Endeavour",FALSE,11.82,5/12/2001,17/12/2001,ISS,ISS,Returned
+Linda Godwin,"STS-108, Endeavour","STS-108, Endeavour",FALSE,11.82,5/12/2001,17/12/2001,ISS,ISS,Returned
+Mark Kelly,"STS-108, Endeavour","STS-108, Endeavour",FALSE,11.82,5/12/2001,17/12/2001,ISS,ISS,Returned
+Yuri Onufrienko,"STS-108, Endeavour","STS-111, Endeavour",TRUE,195.82,5/12/2001,19/06/2002,ISS,ISS,Returned
+Duane Carey,"STS-109, Columbia","STS-109, Columbia",FALSE,10.92,1/03/2002,12/03/2002,Earth Orbit,None visited,Returned
+James H. Newman,"STS-109, Columbia","STS-109, Columbia",FALSE,10.92,1/03/2002,12/03/2002,Earth Orbit,None visited,Returned
+John Grunsfeld,"STS-109, Columbia","STS-109, Columbia",FALSE,10.92,1/03/2002,12/03/2002,Earth Orbit,None visited,Returned
+Michael Massimino,"STS-109, Columbia","STS-109, Columbia",FALSE,10.92,1/03/2002,12/03/2002,Earth Orbit,None visited,Returned
+Nancy J. Currie-Gregg,"STS-109, Columbia","STS-109, Columbia",FALSE,10.92,1/03/2002,12/03/2002,Earth Orbit,None visited,Returned
+Richard Linnehan,"STS-109, Columbia","STS-109, Columbia",FALSE,10.92,1/03/2002,12/03/2002,Earth Orbit,None visited,Returned
+Scott Altman,"STS-109, Columbia","STS-109, Columbia",FALSE,10.92,1/03/2002,12/03/2002,Earth Orbit,None visited,Returned
+Ellen Ochoa,"STS-110, Atlantis","STS-110, Atlantis",FALSE,10.82,8/04/2002,19/04/2002,ISS,ISS,Returned
+Jerry L. Ross,"STS-110, Atlantis","STS-110, Atlantis",FALSE,10.82,8/04/2002,19/04/2002,ISS,ISS,Returned
+Lee Morin,"STS-110, Atlantis","STS-110, Atlantis",FALSE,10.82,8/04/2002,19/04/2002,ISS,ISS,Returned
+Michael J. Bloomfield,"STS-110, Atlantis","STS-110, Atlantis",FALSE,10.82,8/04/2002,19/04/2002,ISS,ISS,Returned
+Rex Walheim,"STS-110, Atlantis","STS-110, Atlantis",FALSE,10.82,8/04/2002,19/04/2002,ISS,ISS,Returned
+Stephen Frick,"STS-110, Atlantis","STS-110, Atlantis",FALSE,10.82,8/04/2002,19/04/2002,ISS,ISS,Returned
+Steven Smith,"STS-110, Atlantis","STS-110, Atlantis",FALSE,10.82,8/04/2002,19/04/2002,ISS,ISS,Returned
+Mark Shuttleworth,Soyuz TM-34,Soyuz TM-33,TRUE,9.89,25/04/2002,5/05/2002,ISS,ISS,Returned
+Roberto Vittori,Soyuz TM-34,Soyuz TM-33,TRUE,9.89,25/04/2002,5/05/2002,ISS,ISS,Returned
+Yuri Gidzenko,Soyuz TM-34,Soyuz TM-33,TRUE,9.89,25/04/2002,5/05/2002,ISS,ISS,Returned
+Franklin Chang-Diaz,"STS-111, Endeavour","STS-111, Endeavour",FALSE,13.86,5/06/2002,19/06/2002,ISS,ISS,Returned
+Kenneth Cockrell,"STS-111, Endeavour","STS-111, Endeavour",FALSE,13.86,5/06/2002,19/06/2002,ISS,ISS,Returned
+Paul Lockhart,"STS-111, Endeavour","STS-111, Endeavour",FALSE,13.86,5/06/2002,19/06/2002,ISS,ISS,Returned
+Peggy Whitson,"STS-111, Endeavour","STS-113, Endeavour",TRUE,184.93,5/06/2002,7/12/2002,ISS,ISS,Returned
+Philippe Perrin,"STS-111, Endeavour","STS-111, Endeavour",FALSE,13.86,5/06/2002,19/06/2002,ISS,ISS,Returned
+Sergei Treshchov,"STS-111, Endeavour","STS-113, Endeavour",TRUE,184.93,5/06/2002,7/12/2002,ISS,ISS,Returned
+Valery Korzun,"STS-111, Endeavour","STS-113, Endeavour",TRUE,184.93,5/06/2002,7/12/2002,ISS,ISS,Returned
+David Wolf,"STS-112, Atlantis","STS-112, Atlantis",FALSE,10.83,7/10/2002,18/10/2002,ISS,ISS,Returned
+Fyodor Yurchikhin,"STS-112, Atlantis","STS-112, Atlantis",FALSE,10.83,7/10/2002,18/10/2002,ISS,ISS,Returned
+Jeffrey Ashby,"STS-112, Atlantis","STS-112, Atlantis",FALSE,10.83,7/10/2002,18/10/2002,ISS,ISS,Returned
+Pamela Melroy,"STS-112, Atlantis","STS-112, Atlantis",FALSE,10.83,7/10/2002,18/10/2002,ISS,ISS,Returned
+Piers Sellers,"STS-112, Atlantis","STS-112, Atlantis",FALSE,10.83,7/10/2002,18/10/2002,ISS,ISS,Returned
+Sandra Magnus,"STS-112, Atlantis","STS-112, Atlantis",FALSE,10.83,7/10/2002,18/10/2002,ISS,ISS,Returned
+Frank De Winne,Soyuz TMA-1,Soyuz TM-34,TRUE,10.87,30/10/2002,10/11/2002,ISS,ISS,Returned
+Sergei Zalyotin,Soyuz TMA-1,Soyuz TM-34,TRUE,10.87,30/10/2002,10/11/2002,ISS,ISS,Returned
+Yuri Lonchakov,Soyuz TMA-1,Soyuz TM-34,TRUE,10.87,30/10/2002,10/11/2002,ISS,ISS,Returned
+Donald Pettit,"STS-113, Endeavour",Soyuz TMA-1,TRUE,161.05,24/11/2002,4/05/2003,ISS,ISS,Returned
+James Wetherbee,"STS-113, Endeavour","STS-113, Endeavour",FALSE,13.78,24/11/2002,7/12/2002,ISS,ISS,Returned
+John Herrington,"STS-113, Endeavour","STS-113, Endeavour",FALSE,13.78,24/11/2002,7/12/2002,ISS,ISS,Returned
+Kenneth Bowersox,"STS-113, Endeavour",Soyuz TMA-1,TRUE,161.05,24/11/2002,4/05/2003,ISS,ISS,Returned
+Michael Lopez-Alegria,"STS-113, Endeavour","STS-113, Endeavour",FALSE,13.78,24/11/2002,7/12/2002,ISS,ISS,Returned
+Nikolai Budarin,"STS-113, Endeavour",Soyuz TMA-1,TRUE,161.05,24/11/2002,4/05/2003,ISS,ISS,Returned
+Paul Lockhart,"STS-113, Endeavour","STS-113, Endeavour",FALSE,13.78,24/11/2002,7/12/2002,ISS,ISS,Returned
+David M. Brown,"STS-107, Columbia","STS-107, Columbia",FALSE,15.93,16/01/2003,1/02/2003,Earth Orbit,None visited,Fail-to-land
+Ilan Ramon,"STS-107, Columbia","STS-107, Columbia",FALSE,15.93,16/01/2003,1/02/2003,Earth Orbit,None visited,Fail-to-land
+Kalpana Chawla,"STS-107, Columbia","STS-107, Columbia",FALSE,15.93,16/01/2003,1/02/2003,Earth Orbit,None visited,Fail-to-land
+Laurel B. Clark,"STS-107, Columbia","STS-107, Columbia",FALSE,15.93,16/01/2003,1/02/2003,Earth Orbit,None visited,Fail-to-land
+Michael P. Anderson,"STS-107, Columbia","STS-107, Columbia",FALSE,15.93,16/01/2003,1/02/2003,Earth Orbit,None visited,Fail-to-land
+Rick Husband,"STS-107, Columbia","STS-107, Columbia",FALSE,15.93,16/01/2003,1/02/2003,Earth Orbit,None visited,Fail-to-land
+William C. McCool,"STS-107, Columbia","STS-107, Columbia",FALSE,15.93,16/01/2003,1/02/2003,Earth Orbit,None visited,Fail-to-land
+Edward Lu,Soyuz TMA-2,Soyuz TMA-2,FALSE,183.95,26/04/2003,27/10/2003,ISS,ISS,Returned
+Yuri Malenchenko,Soyuz TMA-2,Soyuz TMA-2,FALSE,183.95,26/04/2003,27/10/2003,ISS,ISS,Returned
+Yang Liwei,Shenzhou 5,Shenzhou 5,FALSE,0.89,15/10/2003,15/10/2003,Earth Orbit,None visited,Returned
+Alexsandr Kaleri,Soyuz TMA-3,Soyuz TMA-3,FALSE,194.77,18/10/2003,30/04/2004,ISS,ISS,Returned
+Michael Foale,Soyuz TMA-3,Soyuz TMA-3,FALSE,194.77,18/10/2003,30/04/2004,ISS,ISS,Returned
+Pedro Duque,Soyuz TMA-3,Soyuz TMA-2,TRUE,8.88,18/10/2003,27/10/2003,ISS,ISS,Returned
+André Kuipers,Soyuz TMA-4,Soyuz TMA-3,TRUE,10.87,19/04/2004,30/04/2004,ISS,ISS,Returned
+Gennady Padalka,Soyuz TMA-4,Soyuz TMA-4,FALSE,187.89,19/04/2004,24/10/2004,ISS,ISS,Returned
+Michael Fincke,Soyuz TMA-4,Soyuz TMA-4,FALSE,187.89,19/04/2004,24/10/2004,ISS,ISS,Returned
+Mike Melvill,"SpaceShipOne, Flight 15","SpaceShipOne, Flight 15",FALSE,0.02,21/06/2004,21/06/2004,Non-orbital space,None visited,Returned
+Mike Melvill,"SpaceShipOne, Flight 16","SpaceShipOne, Flight 16",FALSE,0.02,29/09/2004,29/09/2004,Non-orbital space,None visited,Returned
+Brian Binnie,"SpaceShipOne, Flight 17","SpaceShipOne, Flight 17",FALSE,0.02,4/10/2004,4/10/2004,Non-orbital space,None visited,Returned
+Leroy Chiao,Soyuz TMA-5,Soyuz TMA-5,FALSE,192.79,14/10/2004,24/04/2005,ISS,ISS,Returned
+Salizhan Sharipov,Soyuz TMA-5,Soyuz TMA-5,FALSE,192.79,14/10/2004,24/04/2005,ISS,ISS,Returned
+Yuri Shargin,Soyuz TMA-5,Soyuz TMA-4,TRUE,9.90,14/10/2004,24/10/2004,ISS,ISS,Returned
+John Phillips,Soyuz TMA-6,Soyuz TMA-6,FALSE,179.02,15/04/2005,11/10/2005,ISS,ISS,Returned
+Roberto Vittori,Soyuz TMA-6,Soyuz TMA-5,TRUE,9.89,15/04/2005,24/04/2005,ISS,ISS,Returned
+Sergei Krikalev,Soyuz TMA-6,Soyuz TMA-6,FALSE,179.02,15/04/2005,11/10/2005,ISS,ISS,Returned
+Andrew Thomas,"STS-114, Discovery","STS-114, Discovery",FALSE,13.90,26/07/2005,9/08/2005,ISS,ISS,Returned
+Charles Camarda,"STS-114, Discovery","STS-114, Discovery",FALSE,13.90,26/07/2005,9/08/2005,ISS,ISS,Returned
+Eileen Collins,"STS-114, Discovery","STS-114, Discovery",FALSE,13.90,26/07/2005,9/08/2005,ISS,ISS,Returned
+James M. Kelly,"STS-114, Discovery","STS-114, Discovery",FALSE,13.90,26/07/2005,9/08/2005,ISS,ISS,Returned
+Soichi Noguchi,"STS-114, Discovery","STS-114, Discovery",FALSE,13.90,26/07/2005,9/08/2005,ISS,ISS,Returned
+Stephen Robinson,"STS-114, Discovery","STS-114, Discovery",FALSE,13.90,26/07/2005,9/08/2005,ISS,ISS,Returned
+Wendy Lawrence,"STS-114, Discovery","STS-114, Discovery",FALSE,13.90,26/07/2005,9/08/2005,ISS,ISS,Returned
+Gregory Olsen,Soyuz TMA-7,Soyuz TMA-6,TRUE,9.89,1/10/2005,11/10/2005,ISS,ISS,Returned
+Valery Tokarev,Soyuz TMA-7,Soyuz TMA-7,FALSE,189.83,1/10/2005,8/04/2006,ISS,ISS,Returned
+William S. McArthur,Soyuz TMA-7,Soyuz TMA-7,FALSE,189.83,1/10/2005,8/04/2006,ISS,ISS,Returned
+Fei Junlong,Shenzhou 6,Shenzhou 6,FALSE,4.81,12/10/2005,16/10/2005,Earth Orbit,None visited,Returned
+Nie Haisheng,Shenzhou 6,Shenzhou 6,FALSE,4.81,12/10/2005,16/10/2005,Earth Orbit,None visited,Returned
+Jeffrey Williams,Soyuz TMA-8,Soyuz TMA-8,FALSE,182.95,30/03/2006,29/09/2006,ISS,ISS,Returned
+Marcos Pontes,Soyuz TMA-8,Soyuz TMA-7,TRUE,9.89,30/03/2006,8/04/2006,ISS,ISS,Returned
+Pavel Vinogradov,Soyuz TMA-8,Soyuz TMA-8,FALSE,182.95,30/03/2006,29/09/2006,ISS,ISS,Returned
+Lisa Nowak,"STS-121, Discovery","STS-121, Discovery",FALSE,12.78,4/07/2006,17/07/2006,ISS,ISS,Returned
+Mark Kelly,"STS-121, Discovery","STS-121, Discovery",FALSE,12.78,4/07/2006,17/07/2006,ISS,ISS,Returned
+Michael Fossum,"STS-121, Discovery","STS-121, Discovery",FALSE,12.78,4/07/2006,17/07/2006,ISS,ISS,Returned
+Piers Sellers,"STS-121, Discovery","STS-121, Discovery",FALSE,12.78,4/07/2006,17/07/2006,ISS,ISS,Returned
+Stephanie Wilson,"STS-121, Discovery","STS-121, Discovery",FALSE,12.78,4/07/2006,17/07/2006,ISS,ISS,Returned
+Steven Lindsey,"STS-121, Discovery","STS-121, Discovery",FALSE,12.78,4/07/2006,17/07/2006,ISS,ISS,Returned
+Thomas Reiter,"STS-121, Discovery","STS-116, Discovery",TRUE,170.12,4/07/2006,21/12/2006,ISS,ISS,Returned
+Brent W. Jett,"STS-115, Atlantis","STS-115, Atlantis",FALSE,11.80,9/09/2006,21/09/2006,ISS,ISS,Returned
+Christopher Ferguson,"STS-115, Atlantis","STS-115, Atlantis",FALSE,11.80,9/09/2006,21/09/2006,ISS,ISS,Returned
+Daniel Burbank,"STS-115, Atlantis","STS-115, Atlantis",FALSE,11.80,9/09/2006,21/09/2006,ISS,ISS,Returned
+Heidemarie Stefanyshyn-Piper,"STS-115, Atlantis","STS-115, Atlantis",FALSE,11.80,9/09/2006,21/09/2006,ISS,ISS,Returned
+Joseph Tanner,"STS-115, Atlantis","STS-115, Atlantis",FALSE,11.80,9/09/2006,21/09/2006,ISS,ISS,Returned
+Steven MacLean,"STS-115, Atlantis","STS-115, Atlantis",FALSE,11.80,9/09/2006,21/09/2006,ISS,ISS,Returned
+Anousheh Ansari,Soyuz TMA-9,Soyuz TMA-8,TRUE,10.88,18/09/2006,29/09/2006,ISS,ISS,Returned
+Michael Lopez-Alegria,Soyuz TMA-9,Soyuz TMA-9,FALSE,215.35,18/09/2006,21/04/2007,ISS,ISS,Returned
+Mikhail Tyurin,Soyuz TMA-9,Soyuz TMA-9,FALSE,215.35,18/09/2006,21/04/2007,ISS,ISS,Returned
+Christer Fuglesang,"STS-116, Discovery","STS-116, Discovery",FALSE,12.86,9/12/2006,21/12/2006,ISS,ISS,Returned
+Joan Higginbotham,"STS-116, Discovery","STS-116, Discovery",FALSE,12.86,9/12/2006,21/12/2006,ISS,ISS,Returned
+Mark Polansky,"STS-116, Discovery","STS-116, Discovery",FALSE,12.86,9/12/2006,21/12/2006,ISS,ISS,Returned
+Nicholas Patrick,"STS-116, Discovery","STS-116, Discovery",FALSE,12.86,9/12/2006,21/12/2006,ISS,ISS,Returned
+Robert Curbeam,"STS-116, Discovery","STS-116, Discovery",FALSE,12.86,9/12/2006,21/12/2006,ISS,ISS,Returned
+Sunita Williams,"STS-116, Discovery","STS-117, Atlantis",TRUE,195.79,9/12/2006,22/06/2007,ISS,ISS,Returned
+William Oefelein,"STS-116, Discovery","STS-116, Discovery",FALSE,12.86,9/12/2006,21/12/2006,ISS,ISS,Returned
+Charles Simonyi,Soyuz TMA-10,Soyuz TMA-9,TRUE,13.79,7/04/2007,21/04/2007,ISS,ISS,Returned
+Fyodor Yurchikhin,Soyuz TMA-10,Soyuz TMA-10,FALSE,196.71,7/04/2007,21/10/2007,ISS,ISS,Returned
+Oleg Kotov,Soyuz TMA-10,Soyuz TMA-10,FALSE,196.71,7/04/2007,21/10/2007,ISS,ISS,Returned
+Clayton Anderson,"STS-117, Atlantis","STS-120, Discovery",TRUE,151.27,8/06/2007,7/11/2007,ISS,ISS,Returned
+Frederick Sturckow,"STS-117, Atlantis","STS-117, Atlantis",FALSE,13.84,8/06/2007,22/06/2007,ISS,ISS,Returned
+James F. Reilly,"STS-117, Atlantis","STS-117, Atlantis",FALSE,13.84,8/06/2007,22/06/2007,ISS,ISS,Returned
+John D. Olivas,"STS-117, Atlantis","STS-117, Atlantis",FALSE,13.84,8/06/2007,22/06/2007,ISS,ISS,Returned
+Lee Archambault,"STS-117, Atlantis","STS-117, Atlantis",FALSE,13.84,8/06/2007,22/06/2007,ISS,ISS,Returned
+Patrick Forrester,"STS-117, Atlantis","STS-117, Atlantis",FALSE,13.84,8/06/2007,22/06/2007,ISS,ISS,Returned
+Steven Swanson,"STS-117, Atlantis","STS-117, Atlantis",FALSE,13.84,8/06/2007,22/06/2007,ISS,ISS,Returned
+B. Alvin Drew,"STS-118, Endeavour","STS-118, Endeavour",FALSE,12.75,8/08/2007,21/08/2007,ISS,ISS,Returned
+Barbara Morgan,"STS-118, Endeavour","STS-118, Endeavour",FALSE,12.75,8/08/2007,21/08/2007,ISS,ISS,Returned
+Charles Hobaugh,"STS-118, Endeavour","STS-118, Endeavour",FALSE,12.75,8/08/2007,21/08/2007,ISS,ISS,Returned
+Dafydd Williams,"STS-118, Endeavour","STS-118, Endeavour",FALSE,12.75,8/08/2007,21/08/2007,ISS,ISS,Returned
+Richard Mastracchio,"STS-118, Endeavour","STS-118, Endeavour",FALSE,12.75,8/08/2007,21/08/2007,ISS,ISS,Returned
+Scott Kelly,"STS-118, Endeavour","STS-118, Endeavour",FALSE,12.75,8/08/2007,21/08/2007,ISS,ISS,Returned
+Tracy Caldwell Dyson,"STS-118, Endeavour","STS-118, Endeavour",FALSE,12.75,8/08/2007,21/08/2007,ISS,ISS,Returned
+Peggy Whitson,Soyuz TMA-11,Soyuz TMA-11,FALSE,191.80,10/10/2007,19/04/2008,ISS,ISS,Returned
+Sheikh Muszaphar Shukor,Soyuz TMA-11,Soyuz TMA-10,TRUE,10.88,10/10/2007,21/10/2007,ISS,ISS,Returned
+Yuri Malenchenko,Soyuz TMA-11,Soyuz TMA-11,FALSE,191.80,10/10/2007,19/04/2008,ISS,ISS,Returned
+Daniel Tani,"STS-120, Discovery","STS-122, Atlantis",TRUE,120.44,23/10/2007,20/02/2008,ISS,ISS,Returned
+Douglas H. Wheelock,"STS-120, Discovery","STS-120, Discovery",FALSE,15.10,23/10/2007,7/11/2007,ISS,ISS,Returned
+George D. Zamka,"STS-120, Discovery","STS-120, Discovery",FALSE,15.10,23/10/2007,7/11/2007,ISS,ISS,Returned
+Pamela Melroy,"STS-120, Discovery","STS-120, Discovery",FALSE,15.10,23/10/2007,7/11/2007,ISS,ISS,Returned
+Paolo A. Nespoli,"STS-120, Discovery","STS-120, Discovery",FALSE,15.10,23/10/2007,7/11/2007,ISS,ISS,Returned
+Scott Parazynski,"STS-120, Discovery","STS-120, Discovery",FALSE,15.10,23/10/2007,7/11/2007,ISS,ISS,Returned
+Stephanie Wilson,"STS-120, Discovery","STS-120, Discovery",FALSE,15.10,23/10/2007,7/11/2007,ISS,ISS,Returned
+Alan G. Poindexter,"STS-122, Atlantis","STS-122, Atlantis",FALSE,12.77,7/02/2008,20/02/2008,ISS,ISS,Returned
+Hans Schlegel,"STS-122, Atlantis","STS-122, Atlantis",FALSE,12.77,7/02/2008,20/02/2008,ISS,ISS,Returned
+Leland D. Melvin,"STS-122, Atlantis","STS-122, Atlantis",FALSE,12.77,7/02/2008,20/02/2008,ISS,ISS,Returned
+Léopold Eyharts,"STS-122, Atlantis","STS-123, Endeavour",TRUE,48.20,7/02/2008,27/03/2008,ISS,ISS,Returned
+Rex Walheim,"STS-122, Atlantis","STS-122, Atlantis",FALSE,12.77,7/02/2008,20/02/2008,ISS,ISS,Returned
+Stanley G. Love,"STS-122, Atlantis","STS-122, Atlantis",FALSE,12.77,7/02/2008,20/02/2008,ISS,ISS,Returned
+Stephen Frick,"STS-122, Atlantis","STS-122, Atlantis",FALSE,12.77,7/02/2008,20/02/2008,ISS,ISS,Returned
+Dominic Gorie,"STS-123, Endeavour","STS-123, Endeavour",FALSE,15.76,11/03/2008,27/03/2008,ISS,ISS,Returned
+Garrett Reisman,"STS-123, Endeavour","STS-124, Discovery",TRUE,95.37,11/03/2008,14/06/2008,ISS,ISS,Returned
+Gregory H. Johnson,"STS-123, Endeavour","STS-123, Endeavour",FALSE,15.76,11/03/2008,27/03/2008,ISS,ISS,Returned
+Michael Foreman,"STS-123, Endeavour","STS-123, Endeavour",FALSE,15.76,11/03/2008,27/03/2008,ISS,ISS,Returned
+Richard Linnehan,"STS-123, Endeavour","STS-123, Endeavour",FALSE,15.76,11/03/2008,27/03/2008,ISS,ISS,Returned
+Robert L. Behnken,"STS-123, Endeavour","STS-123, Endeavour",FALSE,15.76,11/03/2008,27/03/2008,ISS,ISS,Returned
+Takao Doi,"STS-123, Endeavour","STS-123, Endeavour",FALSE,15.76,11/03/2008,27/03/2008,ISS,ISS,Returned
+Oleg Kononenko,Soyuz TMA-12,Soyuz TMA-12,FALSE,198.68,8/04/2008,24/10/2008,ISS,ISS,Returned
+Sergey Volkov,Soyuz TMA-12,Soyuz TMA-12,FALSE,198.68,8/04/2008,24/10/2008,ISS,ISS,Returned
+Yi So-yeon,Soyuz TMA-12,Soyuz TMA-11,TRUE,10.88,8/04/2008,19/04/2008,ISS,ISS,Returned
+Akihiko Hoshide,"STS-124, Discovery","STS-124, Discovery",FALSE,13.76,31/05/2008,14/06/2008,ISS,ISS,Returned
+Gregory Chamitoff,"STS-124, Discovery","STS-126, Endeavour",TRUE,183.02,31/05/2008,30/11/2008,ISS,ISS,Returned
+Karen Nyberg,"STS-124, Discovery","STS-124, Discovery",FALSE,13.76,31/05/2008,14/06/2008,ISS,ISS,Returned
+Kenneth Ham,"STS-124, Discovery","STS-124, Discovery",FALSE,13.76,31/05/2008,14/06/2008,ISS,ISS,Returned
+Mark Kelly,"STS-124, Discovery","STS-124, Discovery",FALSE,13.76,31/05/2008,14/06/2008,ISS,ISS,Returned
+Michael Fossum,"STS-124, Discovery","STS-124, Discovery",FALSE,13.76,31/05/2008,14/06/2008,ISS,ISS,Returned
+Ronald Garan,"STS-124, Discovery","STS-124, Discovery",FALSE,13.76,31/05/2008,14/06/2008,ISS,ISS,Returned
+Jing Haipeng,Shenzhou 7,Shenzhou 7,FALSE,2.85,25/09/2008,28/09/2008,Earth Orbit,None visited,Returned
+Liu Boming,Shenzhou 7,Shenzhou 7,FALSE,2.85,25/09/2008,28/09/2008,Earth Orbit,None visited,Returned
+Zhai Zhigang,Shenzhou 7,Shenzhou 7,FALSE,2.85,25/09/2008,28/09/2008,Earth Orbit,None visited,Returned
+Michael Fincke,Soyuz TMA-13,Soyuz TMA-13,FALSE,178.01,12/10/2008,8/04/2009,ISS,ISS,Returned
+Richard Garriott,Soyuz TMA-13,Soyuz TMA-12,TRUE,11.86,12/10/2008,24/10/2008,ISS,ISS,Returned
+Yuri Lonchakov,Soyuz TMA-13,Soyuz TMA-13,FALSE,178.01,12/10/2008,8/04/2009,ISS,ISS,Returned
+Christopher Ferguson,"STS-126, Endeavour","STS-126, Endeavour",FALSE,15.85,15/11/2008,30/11/2008,ISS,ISS,Returned
+Donald Pettit,"STS-126, Endeavour","STS-126, Endeavour",FALSE,15.85,15/11/2008,30/11/2008,ISS,ISS,Returned
+Eric A. Boe,"STS-126, Endeavour","STS-126, Endeavour",FALSE,15.85,15/11/2008,30/11/2008,ISS,ISS,Returned
+Heidemarie Stefanyshyn-Piper,"STS-126, Endeavour","STS-126, Endeavour",FALSE,15.85,15/11/2008,30/11/2008,ISS,ISS,Returned
+Robert S. Kimbrough,"STS-126, Endeavour","STS-126, Endeavour",FALSE,15.85,15/11/2008,30/11/2008,ISS,ISS,Returned
+Sandra Magnus,"STS-126, Endeavour","STS-119, Discovery",TRUE,133.76,15/11/2008,28/03/2009,ISS,ISS,Returned
+Stephen G. Bowen,"STS-126, Endeavour","STS-126, Endeavour",FALSE,15.85,15/11/2008,30/11/2008,ISS,ISS,Returned
+Dominic A. Antonelli,"STS-119, Discovery","STS-119, Discovery",FALSE,12.81,15/03/2009,28/03/2009,ISS,ISS,Returned
+John Phillips,"STS-119, Discovery","STS-119, Discovery",FALSE,12.81,15/03/2009,28/03/2009,ISS,ISS,Returned
+Joseph M. Acaba,"STS-119, Discovery","STS-119, Discovery",FALSE,12.81,15/03/2009,28/03/2009,ISS,ISS,Returned
+Koichi Wakata,"STS-119, Discovery","STS-127, Endeavour",TRUE,137.63,15/03/2009,31/07/2009,ISS,ISS,Returned
+Lee Archambault,"STS-119, Discovery","STS-119, Discovery",FALSE,12.81,15/03/2009,28/03/2009,ISS,ISS,Returned
+Richard R. Arnold,"STS-119, Discovery","STS-119, Discovery",FALSE,12.81,15/03/2009,28/03/2009,ISS,ISS,Returned
+Steven Swanson,"STS-119, Discovery","STS-119, Discovery",FALSE,12.81,15/03/2009,28/03/2009,ISS,ISS,Returned
+Charles Simonyi,Soyuz TMA-14,Soyuz TMA-13,TRUE,12.81,26/03/2009,8/04/2009,ISS,ISS,Returned
+Gennady Padalka,Soyuz TMA-14,Soyuz TMA-14,FALSE,198.70,26/03/2009,11/10/2009,ISS,ISS,Returned
+Michael Barratt,Soyuz TMA-14,Soyuz TMA-14,FALSE,198.70,26/03/2009,11/10/2009,ISS,ISS,Returned
+Andrew J. Feustel,"STS-125, Atlantis","STS-125, Atlantis",FALSE,12.90,11/05/2009,24/05/2009,Earth Orbit,None visited,Returned
+Gregory C. Johnson,"STS-125, Atlantis","STS-125, Atlantis",FALSE,12.90,11/05/2009,24/05/2009,Earth Orbit,None visited,Returned
+John Grunsfeld,"STS-125, Atlantis","STS-125, Atlantis",FALSE,12.90,11/05/2009,24/05/2009,Earth Orbit,None visited,Returned
+K. Megan McArthur,"STS-125, Atlantis","STS-125, Atlantis",FALSE,12.90,11/05/2009,24/05/2009,Earth Orbit,None visited,Returned
+Michael Massimino,"STS-125, Atlantis","STS-125, Atlantis",FALSE,12.90,11/05/2009,24/05/2009,Earth Orbit,None visited,Returned
+Michael T. Good,"STS-125, Atlantis","STS-125, Atlantis",FALSE,12.90,11/05/2009,24/05/2009,Earth Orbit,None visited,Returned
+Scott Altman,"STS-125, Atlantis","STS-125, Atlantis",FALSE,12.90,11/05/2009,24/05/2009,Earth Orbit,None visited,Returned
+Frank De Winne,Soyuz TMA-15,Soyuz TMA-15,FALSE,187.86,27/05/2009,1/12/2009,ISS,ISS,Returned
+Robert Thirsk,Soyuz TMA-15,Soyuz TMA-15,FALSE,187.86,27/05/2009,1/12/2009,ISS,ISS,Returned
+Roman Romanenko,Soyuz TMA-15,Soyuz TMA-15,FALSE,187.86,27/05/2009,1/12/2009,ISS,ISS,Returned
+Christopher J. Cassidy,"STS-127, Endeavour","STS-127, Endeavour",FALSE,15.70,15/07/2009,31/07/2009,ISS,ISS,Returned
+David Wolf,"STS-127, Endeavour","STS-127, Endeavour",FALSE,15.70,15/07/2009,31/07/2009,ISS,ISS,Returned
+Douglas G. Hurley,"STS-127, Endeavour","STS-127, Endeavour",FALSE,15.70,15/07/2009,31/07/2009,ISS,ISS,Returned
+Julie Payette,"STS-127, Endeavour","STS-127, Endeavour",FALSE,15.70,15/07/2009,31/07/2009,ISS,ISS,Returned
+Mark Polansky,"STS-127, Endeavour","STS-127, Endeavour",FALSE,15.70,15/07/2009,31/07/2009,ISS,ISS,Returned
+Thomas H. Marshburn,"STS-127, Endeavour","STS-127, Endeavour",FALSE,15.70,15/07/2009,31/07/2009,ISS,ISS,Returned
+Timothy L. Kopra,"STS-127, Endeavour","STS-128, Discovery",TRUE,58.12,15/07/2009,12/09/2009,ISS,ISS,Returned
+Christer Fuglesang,"STS-128, Discovery","STS-128, Discovery",FALSE,13.87,29/08/2009,12/09/2009,ISS,ISS,Returned
+Frederick Sturckow,"STS-128, Discovery","STS-128, Discovery",FALSE,13.87,29/08/2009,12/09/2009,ISS,ISS,Returned
+John D. Olivas,"STS-128, Discovery","STS-128, Discovery",FALSE,13.87,29/08/2009,12/09/2009,ISS,ISS,Returned
+José M. Hernández,"STS-128, Discovery","STS-128, Discovery",FALSE,13.87,29/08/2009,12/09/2009,ISS,ISS,Returned
+Kevin A. Ford,"STS-128, Discovery","STS-128, Discovery",FALSE,13.87,29/08/2009,12/09/2009,ISS,ISS,Returned
+Nicole Stott,"STS-128, Discovery","STS-129, Atlantis",TRUE,90.45,29/08/2009,27/11/2009,ISS,ISS,Returned
+Patrick Forrester,"STS-128, Discovery","STS-128, Discovery",FALSE,13.87,29/08/2009,12/09/2009,ISS,ISS,Returned
+Guy Laliberté,Soyuz TMA-16,Soyuz TMA-14,TRUE,10.89,30/09/2009,11/10/2009,ISS,ISS,Returned
+Jeffrey Williams,Soyuz TMA-16,Soyuz TMA-16,FALSE,169.17,30/09/2009,18/03/2010,ISS,ISS,Returned
+Maksim Surayev,Soyuz TMA-16,Soyuz TMA-16,FALSE,169.17,30/09/2009,18/03/2010,ISS,ISS,Returned
+Barry Wilmore,"STS-129, Atlantis","STS-129, Atlantis",FALSE,10.80,16/11/2009,27/11/2009,ISS,ISS,Returned
+Charles Hobaugh,"STS-129, Atlantis","STS-129, Atlantis",FALSE,10.80,16/11/2009,27/11/2009,ISS,ISS,Returned
+Leland D. Melvin,"STS-129, Atlantis","STS-129, Atlantis",FALSE,10.80,16/11/2009,27/11/2009,ISS,ISS,Returned
+Michael Foreman,"STS-129, Atlantis","STS-129, Atlantis",FALSE,10.80,16/11/2009,27/11/2009,ISS,ISS,Returned
+Randolph Bresnik,"STS-129, Atlantis","STS-129, Atlantis",FALSE,10.80,16/11/2009,27/11/2009,ISS,ISS,Returned
+Robert Satcher,"STS-129, Atlantis","STS-129, Atlantis",FALSE,10.80,16/11/2009,27/11/2009,ISS,ISS,Returned
+Oleg Kotov,Soyuz TMA-17,Soyuz TMA-17,FALSE,163.23,20/12/2009,2/06/2010,ISS,ISS,Returned
+Soichi Noguchi,Soyuz TMA-17,Soyuz TMA-17,FALSE,163.23,20/12/2009,2/06/2010,ISS,ISS,Returned
+Timothy Creamer,Soyuz TMA-17,Soyuz TMA-17,FALSE,163.23,20/12/2009,2/06/2010,ISS,ISS,Returned
+George D. Zamka,"STS-130, Endeavour","STS-130, Endeavour",FALSE,13.76,8/02/2010,22/02/2010,ISS,ISS,Returned
+Kathryn Hire,"STS-130, Endeavour","STS-130, Endeavour",FALSE,13.76,8/02/2010,22/02/2010,ISS,ISS,Returned
+Nicholas Patrick,"STS-130, Endeavour","STS-130, Endeavour",FALSE,13.76,8/02/2010,22/02/2010,ISS,ISS,Returned
+Robert L. Behnken,"STS-130, Endeavour","STS-130, Endeavour",FALSE,13.76,8/02/2010,22/02/2010,ISS,ISS,Returned
+Stephen Robinson,"STS-130, Endeavour","STS-130, Endeavour",FALSE,13.76,8/02/2010,22/02/2010,ISS,ISS,Returned
+Terry W. Virts,"STS-130, Endeavour","STS-130, Endeavour",FALSE,13.76,8/02/2010,22/02/2010,ISS,ISS,Returned
+Aleksandr Skvortsov,Soyuz TMA-18,Soyuz TMA-18,FALSE,176.05,2/04/2010,25/09/2010,ISS,ISS,Returned
+Mikhail Korniyenko,Soyuz TMA-18,Soyuz TMA-18,FALSE,176.05,2/04/2010,25/09/2010,ISS,ISS,Returned
+Tracy Caldwell Dyson,Soyuz TMA-18,Soyuz TMA-18,FALSE,176.05,2/04/2010,25/09/2010,ISS,ISS,Returned
+Alan G. Poindexter,"STS-131, Discovery","STS-131, Discovery",FALSE,15.12,5/04/2010,20/04/2010,ISS,ISS,Returned
+Clayton Anderson,"STS-131, Discovery","STS-131, Discovery",FALSE,15.12,5/04/2010,20/04/2010,ISS,ISS,Returned
+Dorothy Metcalf-Lindenburger,"STS-131, Discovery","STS-131, Discovery",FALSE,15.12,5/04/2010,20/04/2010,ISS,ISS,Returned
+James Dutton,"STS-131, Discovery","STS-131, Discovery",FALSE,15.12,5/04/2010,20/04/2010,ISS,ISS,Returned
+Naoko Yamazaki,"STS-131, Discovery","STS-131, Discovery",FALSE,15.12,5/04/2010,20/04/2010,ISS,ISS,Returned
+Richard Mastracchio,"STS-131, Discovery","STS-131, Discovery",FALSE,15.12,5/04/2010,20/04/2010,ISS,ISS,Returned
+Stephanie Wilson,"STS-131, Discovery","STS-131, Discovery",FALSE,15.12,5/04/2010,20/04/2010,ISS,ISS,Returned
+Dominic A. Antonelli,"STS-132, Atlantis","STS-132, Atlantis",FALSE,11.77,14/05/2010,26/05/2010,ISS,ISS,Returned
+Garrett Reisman,"STS-132, Atlantis","STS-132, Atlantis",FALSE,11.77,14/05/2010,26/05/2010,ISS,ISS,Returned
+Kenneth Ham,"STS-132, Atlantis","STS-132, Atlantis",FALSE,11.77,14/05/2010,26/05/2010,ISS,ISS,Returned
+Michael T. Good,"STS-132, Atlantis","STS-132, Atlantis",FALSE,11.77,14/05/2010,26/05/2010,ISS,ISS,Returned
+Piers Sellers,"STS-132, Atlantis","STS-132, Atlantis",FALSE,11.77,14/05/2010,26/05/2010,ISS,ISS,Returned
+Stephen G. Bowen,"STS-132, Atlantis","STS-132, Atlantis",FALSE,11.77,14/05/2010,26/05/2010,ISS,ISS,Returned
+Douglas H. Wheelock,Soyuz TMA-19,Soyuz TMA-19,FALSE,163.30,15/06/2010,26/11/2010,ISS,ISS,Returned
+Fyodor Yurchikhin,Soyuz TMA-19,Soyuz TMA-19,FALSE,163.30,15/06/2010,26/11/2010,ISS,ISS,Returned
+Shannon Walker,Soyuz TMA-19,Soyuz TMA-19,FALSE,163.30,15/06/2010,26/11/2010,ISS,ISS,Returned
+Alexsandr Kaleri,Soyuz TMA-01M,Soyuz TMA-01M,FALSE,159.36,7/10/2010,16/03/2011,ISS,ISS,Returned
+Oleg Skripochka,Soyuz TMA-01M,Soyuz TMA-01M,FALSE,159.36,7/10/2010,16/03/2011,ISS,ISS,Returned
+Scott Kelly,Soyuz TMA-01M,Soyuz TMA-01M,FALSE,159.36,7/10/2010,16/03/2011,ISS,ISS,Returned
+Catherine Coleman,Soyuz TMA-20,Soyuz TMA-20,FALSE,159.30,15/12/2010,24/05/2011,ISS,ISS,Returned
+Dmitri Kondratyev,Soyuz TMA-20,Soyuz TMA-20,FALSE,159.30,15/12/2010,24/05/2011,ISS,ISS,Returned
+Paolo A. Nespoli,Soyuz TMA-20,Soyuz TMA-20,FALSE,159.30,15/12/2010,24/05/2011,ISS,ISS,Returned
+B. Alvin Drew,"STS-133, Discovery","STS-133, Discovery",FALSE,12.80,24/02/2011,9/03/2011,ISS,ISS,Returned
+Eric A. Boe,"STS-133, Discovery","STS-133, Discovery",FALSE,12.80,24/02/2011,9/03/2011,ISS,ISS,Returned
+Michael Barratt,"STS-133, Discovery","STS-133, Discovery",FALSE,12.80,24/02/2011,9/03/2011,ISS,ISS,Returned
+Nicole Stott,"STS-133, Discovery","STS-133, Discovery",FALSE,12.80,24/02/2011,9/03/2011,ISS,ISS,Returned
+Stephen G. Bowen,"STS-133, Discovery","STS-133, Discovery",FALSE,12.80,24/02/2011,9/03/2011,ISS,ISS,Returned
+Steven Lindsey,"STS-133, Discovery","STS-133, Discovery",FALSE,12.80,24/02/2011,9/03/2011,ISS,ISS,Returned
+Aleksandr Samokutyayev,Soyuz TMA-21,Soyuz TMA-21,FALSE,164.24,4/04/2011,16/09/2011,ISS,ISS,Returned
+Andrei Borisenko,Soyuz TMA-21,Soyuz TMA-21,FALSE,164.24,4/04/2011,16/09/2011,ISS,ISS,Returned
+Ronald Garan,Soyuz TMA-21,Soyuz TMA-21,FALSE,164.24,4/04/2011,16/09/2011,ISS,ISS,Returned
+Andrew J. Feustel,"STS-134, Endeavour","STS-134, Endeavour",FALSE,15.74,16/05/2011,1/06/2011,ISS,ISS,Returned
+Gregory Chamitoff,"STS-134, Endeavour","STS-134, Endeavour",FALSE,15.74,16/05/2011,1/06/2011,ISS,ISS,Returned
+Gregory H. Johnson,"STS-134, Endeavour","STS-134, Endeavour",FALSE,15.74,16/05/2011,1/06/2011,ISS,ISS,Returned
+Mark Kelly,"STS-134, Endeavour","STS-134, Endeavour",FALSE,15.74,16/05/2011,1/06/2011,ISS,ISS,Returned
+Michael Fincke,"STS-134, Endeavour","STS-134, Endeavour",FALSE,15.74,16/05/2011,1/06/2011,ISS,ISS,Returned
+Roberto Vittori,"STS-134, Endeavour","STS-134, Endeavour",FALSE,15.74,16/05/2011,1/06/2011,ISS,ISS,Returned
+Michael Fossum,Soyuz TMA-02M,Soyuz TMA-02M,FALSE,167.26,7/06/2011,22/11/2011,ISS,ISS,Returned
+Satoshi Furukawa,Soyuz TMA-02M,Soyuz TMA-02M,FALSE,167.26,7/06/2011,22/11/2011,ISS,ISS,Returned
+Sergey Volkov,Soyuz TMA-02M,Soyuz TMA-02M,FALSE,167.26,7/06/2011,22/11/2011,ISS,ISS,Returned
+Christopher Ferguson,"STS-135, Atlantis","STS-135, Atlantis",FALSE,12.77,8/07/2011,21/07/2011,ISS,ISS,Returned
+Douglas G. Hurley,"STS-135, Atlantis","STS-135, Atlantis",FALSE,12.77,8/07/2011,21/07/2011,ISS,ISS,Returned
+Rex Walheim,"STS-135, Atlantis","STS-135, Atlantis",FALSE,12.77,8/07/2011,21/07/2011,ISS,ISS,Returned
+Sandra Magnus,"STS-135, Atlantis","STS-135, Atlantis",FALSE,12.77,8/07/2011,21/07/2011,ISS,ISS,Returned
+Anatoli Ivanishin,Soyuz TMA-22,Soyuz TMA-22,FALSE,165.31,14/11/2011,27/04/2012,ISS,ISS,Returned
+Anton Shkaplerov,Soyuz TMA-22,Soyuz TMA-22,FALSE,165.31,14/11/2011,27/04/2012,ISS,ISS,Returned
+Daniel Burbank,Soyuz TMA-22,Soyuz TMA-22,FALSE,165.31,14/11/2011,27/04/2012,ISS,ISS,Returned
+André Kuipers,Soyuz TMA-03M,Soyuz TMA-03M,FALSE,192.79,21/12/2011,1/07/2012,ISS,ISS,Returned
+Donald Pettit,Soyuz TMA-03M,Soyuz TMA-03M,FALSE,192.79,21/12/2011,1/07/2012,ISS,ISS,Returned
+Oleg Kononenko,Soyuz TMA-03M,Soyuz TMA-03M,FALSE,192.79,21/12/2011,1/07/2012,ISS,ISS,Returned
+Gennady Padalka,Soyuz TMA-04M,Soyuz TMA-04M,FALSE,124.99,15/05/2012,17/09/2012,ISS,ISS,Returned
+Joseph M. Acaba,Soyuz TMA-04M,Soyuz TMA-04M,FALSE,124.99,15/05/2012,17/09/2012,ISS,ISS,Returned
+Sergei Revin,Soyuz TMA-04M,Soyuz TMA-04M,FALSE,124.99,15/05/2012,17/09/2012,ISS,ISS,Returned
+Jing Haipeng,Shenzhou 9,Shenzhou 9,FALSE,12.64,16/06/2012,29/06/2012,Other Space station,Tiangong-1,Returned
+Liu Wang,Shenzhou 9,Shenzhou 9,FALSE,12.64,16/06/2012,29/06/2012,Other Space station,Tiangong-1,Returned
+Liu Yang,Shenzhou 9,Shenzhou 9,FALSE,12.64,16/06/2012,29/06/2012,Other Space station,Tiangong-1,Returned
+Akihiko Hoshide,Soyuz TMA-05M,Soyuz TMA-05M,FALSE,126.97,15/07/2012,19/11/2012,ISS,ISS,Returned
+Sunita Williams,Soyuz TMA-05M,Soyuz TMA-05M,FALSE,126.97,15/07/2012,19/11/2012,ISS,ISS,Returned
+Yuri Malenchenko,Soyuz TMA-05M,Soyuz TMA-05M,FALSE,126.97,15/07/2012,19/11/2012,ISS,ISS,Returned
+Evgeny Tarelkin,Soyuz TMA-06M,Soyuz TMA-06M,FALSE,143.68,23/10/2012,16/03/2013,ISS,ISS,Returned
+Kevin A. Ford,Soyuz TMA-06M,Soyuz TMA-06M,FALSE,143.68,23/10/2012,16/03/2013,ISS,ISS,Returned
+Oleg Novitskiy,Soyuz TMA-06M,Soyuz TMA-06M,FALSE,143.68,23/10/2012,16/03/2013,ISS,ISS,Returned
+Chris Hadfield,Soyuz TMA-07M,Soyuz TMA-07M,FALSE,145.60,19/12/2012,14/05/2013,ISS,ISS,Returned
+Roman Romanenko,Soyuz TMA-07M,Soyuz TMA-07M,FALSE,145.60,19/12/2012,14/05/2013,ISS,ISS,Returned
+Thomas H. Marshburn,Soyuz TMA-07M,Soyuz TMA-07M,FALSE,145.60,19/12/2012,14/05/2013,ISS,ISS,Returned
+Alexander Misurkin,Soyuz TMA-08M,Soyuz TMA-08M,FALSE,166.26,28/03/2013,11/09/2013,ISS,ISS,Returned
+Christopher J. Cassidy,Soyuz TMA-08M,Soyuz TMA-08M,FALSE,166.26,28/03/2013,11/09/2013,ISS,ISS,Returned
+Pavel Vinogradov,Soyuz TMA-08M,Soyuz TMA-08M,FALSE,166.26,28/03/2013,11/09/2013,ISS,ISS,Returned
+Fyodor Yurchikhin,Soyuz TMA-09M,Soyuz TMA-09M,FALSE,166.26,28/05/2013,11/11/2013,ISS,ISS,Returned
+Karen Nyberg,Soyuz TMA-09M,Soyuz TMA-09M,FALSE,166.26,28/05/2013,11/11/2013,ISS,ISS,Returned
+Luca Parmitano,Soyuz TMA-09M,Soyuz TMA-09M,FALSE,166.26,28/05/2013,11/11/2013,ISS,ISS,Returned
+Nie Haisheng,Shenzhou 10,Shenzhou 10,FALSE,14.60,11/06/2013,26/06/2013,Other Space station,Tiangong-1,Returned
+Wang Yaping,Shenzhou 10,Shenzhou 10,FALSE,14.60,11/06/2013,26/06/2013,Other Space station,Tiangong-1,Returned
+Zhang Xiaoguang,Shenzhou 10,Shenzhou 10,FALSE,14.60,11/06/2013,26/06/2013,Other Space station,Tiangong-1,Returned
+Michael S. Hopkins,Soyuz TMA-10M,Soyuz TMA-10M,FALSE,166.27,25/09/2013,11/03/2014,ISS,ISS,Returned
+Oleg Kotov,Soyuz TMA-10M,Soyuz TMA-10M,FALSE,166.27,25/09/2013,11/03/2014,ISS,ISS,Returned
+Sergey Ryazansky,Soyuz TMA-10M,Soyuz TMA-10M,FALSE,166.27,25/09/2013,11/03/2014,ISS,ISS,Returned
+Koichi Wakata,Soyuz TMA-11M,Soyuz TMA-11M,FALSE,187.91,7/11/2013,14/05/2014,ISS,ISS,Returned
+Mikhail Tyurin,Soyuz TMA-11M,Soyuz TMA-11M,FALSE,187.91,7/11/2013,14/05/2014,ISS,ISS,Returned
+Richard Mastracchio,Soyuz TMA-11M,Soyuz TMA-11M,FALSE,187.91,7/11/2013,14/05/2014,ISS,ISS,Returned
+Aleksandr Skvortsov,Soyuz TMA-12M,Soyuz TMA-12M,FALSE,169.21,25/03/2014,11/09/2014,ISS,ISS,Returned
+Oleg Artemyev,Soyuz TMA-12M,Soyuz TMA-12M,FALSE,169.21,25/03/2014,11/09/2014,ISS,ISS,Returned
+Steven Swanson,Soyuz TMA-12M,Soyuz TMA-12M,FALSE,169.21,25/03/2014,11/09/2014,ISS,ISS,Returned
+Alexander Gerst,Soyuz TMA-13M,Soyuz TMA-13M,FALSE,165.33,28/05/2014,10/11/2014,ISS,ISS,Returned
+Gregory R. Wiseman,Soyuz TMA-13M,Soyuz TMA-13M,FALSE,165.33,28/05/2014,10/11/2014,ISS,ISS,Returned
+Maksim Surayev,Soyuz TMA-13M,Soyuz TMA-13M,FALSE,165.33,28/05/2014,10/11/2014,ISS,ISS,Returned
+Aleksandr Samokutyayev,Soyuz TMA-14M,Soyuz TMA-14M,FALSE,167.24,25/09/2014,12/03/2015,ISS,ISS,Returned
+Barry Wilmore,Soyuz TMA-14M,Soyuz TMA-14M,FALSE,167.24,25/09/2014,12/03/2015,ISS,ISS,Returned
+Yelena Serova,Soyuz TMA-14M,Soyuz TMA-14M,FALSE,167.24,25/09/2014,12/03/2015,ISS,ISS,Returned
+Anton Shkaplerov,Soyuz TMA-15M,Soyuz TMA-15M,FALSE,199.70,23/11/2014,11/06/2015,ISS,ISS,Returned
+Samantha Cristoforetti,Soyuz TMA-15M,Soyuz TMA-15M,FALSE,199.70,23/11/2014,11/06/2015,ISS,ISS,Returned
+Terry W. Virts,Soyuz TMA-15M,Soyuz TMA-15M,FALSE,199.70,23/11/2014,11/06/2015,ISS,ISS,Returned
+Gennady Padalka,Soyuz TMA-16M,Soyuz TMA-16M,FALSE,168.21,27/03/2015,12/09/2015,ISS,ISS,Returned
+Mikhail Korniyenko,Soyuz TMA-16M,Soyuz TMA-18M,TRUE,340.36,27/03/2015,2/03/2016,ISS,ISS,Returned
+Scott Kelly,Soyuz TMA-16M,Soyuz TMA-18M,TRUE,340.36,27/03/2015,2/03/2016,ISS,ISS,Returned
+Kimiya Yui,Soyuz TMA-17M,Soyuz TMA-17M,FALSE,141.67,22/07/2015,11/12/2015,ISS,ISS,Returned
+Kjell N. Lindgren,Soyuz TMA-17M,Soyuz TMA-17M,FALSE,141.67,22/07/2015,11/12/2015,ISS,ISS,Returned
+Oleg Kononenko,Soyuz TMA-17M,Soyuz TMA-17M,FALSE,141.67,22/07/2015,11/12/2015,ISS,ISS,Returned
+Andreas Mogensen,Soyuz TMA-18M,Soyuz TMA-16M,TRUE,9.84,2/09/2015,12/09/2015,ISS,ISS,Returned
+Aydyn Aimbetov,Soyuz TMA-18M,Soyuz TMA-16M,TRUE,9.84,2/09/2015,12/09/2015,ISS,ISS,Returned
+Sergey Volkov,Soyuz TMA-18M,Soyuz TMA-18M,FALSE,181.99,2/09/2015,2/03/2016,ISS,ISS,Returned
+Tim Peake,Soyuz TMA-19M,Soyuz TMA-19M,FALSE,185.92,15/12/2015,18/06/2016,ISS,ISS,Returned
+Timothy L. Kopra,Soyuz TMA-19M,Soyuz TMA-19M,FALSE,185.92,15/12/2015,18/06/2016,ISS,ISS,Returned
+Yuri Malenchenko,Soyuz TMA-19M,Soyuz TMA-19M,FALSE,185.92,15/12/2015,18/06/2016,ISS,ISS,Returned
+Aleksey Ovchinin,Soyuz TMA-20M,Soyuz TMA-20M,FALSE,172.16,18/03/2016,7/09/2016,ISS,ISS,Returned
+Jeffrey Williams,Soyuz TMA-20M,Soyuz TMA-20M,FALSE,172.16,18/03/2016,7/09/2016,ISS,ISS,Returned
+Oleg Skripochka,Soyuz TMA-20M,Soyuz TMA-20M,FALSE,172.16,18/03/2016,7/09/2016,ISS,ISS,Returned
+Anatoli Ivanishin,Soyuz MS-01,Soyuz MS-01,FALSE,115.10,7/07/2016,30/10/2016,ISS,ISS,Returned
+Kathleen Rubins,Soyuz MS-01,Soyuz MS-01,FALSE,115.10,7/07/2016,30/10/2016,ISS,ISS,Returned
+Takuya Onishi,Soyuz MS-01,Soyuz MS-01,FALSE,115.10,7/07/2016,30/10/2016,ISS,ISS,Returned
+Chen Dong,Shenzhou 11,Shenzhou 11,FALSE,32.27,16/10/2016,18/11/2016,Other Space station,Tiangong-2,Returned
+Jing Haipeng,Shenzhou 11,Shenzhou 11,FALSE,32.27,16/10/2016,18/11/2016,Other Space station,Tiangong-2,Returned
+Andrei Borisenko,Soyuz MS-02,Soyuz MS-02,FALSE,173.14,19/10/2016,10/04/2017,ISS,ISS,Returned
+Robert S. Kimbrough,Soyuz MS-02,Soyuz MS-02,FALSE,173.14,19/10/2016,10/04/2017,ISS,ISS,Returned
+Sergey Nikolayevich Ryzhikov,Soyuz MS-02,Soyuz MS-02,FALSE,173.14,19/10/2016,10/04/2017,ISS,ISS,Returned
+Oleg Novitskiy,Soyuz MS-03,Soyuz MS-03,FALSE,196.75,17/11/2016,2/06/2017,ISS,ISS,Returned
+Peggy Whitson,Soyuz MS-03,Soyuz MS-04,TRUE,289.21,17/11/2016,3/09/2017,ISS,ISS,Returned
+Thomas Pesquet,Soyuz MS-03,Soyuz MS-03,FALSE,196.75,17/11/2016,2/06/2017,ISS,ISS,Returned
+Fyodor Yurchikhin,Soyuz MS-04,Soyuz MS-04,FALSE,153.76,2/04/2017,3/09/2017,ISS,ISS,Returned
+Jack D. Fischer,Soyuz MS-04,Soyuz MS-04,FALSE,153.76,2/04/2017,3/09/2017,ISS,ISS,Returned
+Paolo A. Nespoli,Soyuz MS-05,Soyuz MS-05,FALSE,138.71,28/07/2017,14/12/2017,ISS,ISS,Returned
+Randolph Bresnik,Soyuz MS-05,Soyuz MS-05,FALSE,138.71,28/07/2017,14/12/2017,ISS,ISS,Returned
+Sergey Ryazansky,Soyuz MS-05,Soyuz MS-05,FALSE,138.71,28/07/2017,14/12/2017,ISS,ISS,Returned
+Alexander Misurkin,Soyuz MS-06,Soyuz MS-06,FALSE,168.22,12/09/2017,28/02/2018,ISS,ISS,Returned
+Joseph M. Acaba,Soyuz MS-06,Soyuz MS-06,FALSE,168.22,12/09/2017,28/02/2018,ISS,ISS,Returned
+Mark T. Vande Hei,Soyuz MS-06,Soyuz MS-06,FALSE,168.22,12/09/2017,28/02/2018,ISS,ISS,Returned
+Anton Shkaplerov,Soyuz MS-07,Soyuz MS-07,FALSE,168.22,17/12/2017,3/06/2018,ISS,ISS,Returned
+Norishige Kanai,Soyuz MS-07,Soyuz MS-07,FALSE,168.22,17/12/2017,3/06/2018,ISS,ISS,Returned
+Scott Tingle,Soyuz MS-07,Soyuz MS-07,FALSE,168.22,17/12/2017,3/06/2018,ISS,ISS,Returned
+Andrew J. Feustel,Soyuz MS-08,Soyuz MS-08,FALSE,196.75,21/03/2018,4/10/2018,ISS,ISS,Returned
+Oleg Artemyev,Soyuz MS-08,Soyuz MS-08,FALSE,196.75,21/03/2018,4/10/2018,ISS,ISS,Returned
+Richard R. Arnold,Soyuz MS-08,Soyuz MS-08,FALSE,196.75,21/03/2018,4/10/2018,ISS,ISS,Returned
+Alexander Gerst,Soyuz MS-09,Soyuz MS-09,FALSE,196.74,6/06/2018,20/12/2018,ISS,ISS,Returned
+Serena Auñón-Chancellor,Soyuz MS-09,Soyuz MS-09,FALSE,196.74,6/06/2018,20/12/2018,ISS,ISS,Returned
+Sergey Prokopyev,Soyuz MS-09,Soyuz MS-09,FALSE,196.74,6/06/2018,20/12/2018,ISS,ISS,Returned
+Aleksey Ovchinin,Soyuz MS-10,Soyuz MS-10,FALSE,0.01,11/10/2018,11/10/2018,Non-orbital space,None visited,Returned
+Nick Hague,Soyuz MS-10,Soyuz MS-10,FALSE,0.01,11/10/2018,11/10/2018,Non-orbital space,None visited,Returned
+Anne McClain,Soyuz MS-11,Soyuz MS-11,FALSE,203.64,3/12/2018,25/06/2019,ISS,ISS,Returned
+David Saint-Jacques,Soyuz MS-11,Soyuz MS-11,FALSE,203.64,3/12/2018,25/06/2019,ISS,ISS,Returned
+Oleg Kononenko,Soyuz MS-11,Soyuz MS-11,FALSE,203.64,3/12/2018,25/06/2019,ISS,ISS,Returned
+Aleksey Ovchinin,Soyuz MS-12,Soyuz MS-12,FALSE,202.66,14/03/2019,3/10/2019,ISS,ISS,Returned
+Christina Koch,Soyuz MS-12,Soyuz MS-13,TRUE,328.58,14/03/2019,6/02/2020,ISS,ISS,Returned
+Nick Hague,Soyuz MS-12,Soyuz MS-12,FALSE,202.66,14/03/2019,3/10/2019,ISS,ISS,Returned
+Aleksandr Skvortsov,Soyuz MS-13,Soyuz MS-13,FALSE,200.70,20/07/2019,6/02/2020,ISS,ISS,Returned
+Andrew Morgan,Soyuz MS-13,Soyuz MS-15,TRUE,271.53,20/07/2019,17/04/2020,ISS,ISS,Returned
+Luca Parmitano,Soyuz MS-13,Soyuz MS-13,FALSE,200.70,20/07/2019,6/02/2020,ISS,ISS,Returned
+Hazza Al Mansouri,Soyuz MS-15,Soyuz MS-12,TRUE,7.88,25/09/2019,3/10/2019,ISS,ISS,Returned
+Jessica Meir,Soyuz MS-15,Soyuz MS-15,FALSE,204.64,25/09/2019,17/04/2020,ISS,ISS,Returned
+Oleg Skripochka,Soyuz MS-15,Soyuz MS-15,FALSE,204.64,25/09/2019,17/04/2020,ISS,ISS,Returned
+Anatoli Ivanishin,Soyuz MS-16,Soyuz MS-16,FALSE,392.20,9/04/2020,,ISS,ISS,Active
+Christopher J. Cassidy,Soyuz MS-16,Soyuz MS-16,FALSE,392.20,9/04/2020,,ISS,ISS,Active
+Ivan Vagner,Soyuz MS-16,Soyuz MS-16,FALSE,392.20,9/04/2020,,ISS,ISS,Active
+Douglas G. Hurley,SpaceX Demo-2,SpaceX Demo-2,FALSE,63.98,30/05/2020,2/08/2020,ISS,ISS,Returned
+Robert L. Behnken,SpaceX Demo-2,SpaceX Demo-2,FALSE,63.98,30/05/2020,2/08/2020,ISS,ISS,Returned
